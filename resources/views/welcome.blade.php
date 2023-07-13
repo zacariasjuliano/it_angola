@@ -9,9 +9,15 @@
             border: 1px solid #000;
             padding: 10px;
         }
+
+        .btn-center {
+            position: absolute;
+            left: 35%;
+            height: 8%;
+        }
     </style>
 
-    <section class="section" style="color:black;">		
+    <section class="section" style="color:black; padding-top: 13%; padding-bottom: 13%;">		
         <div class="line" style="padding-left: 5%">
 
             <div class="m-12 l-6">
@@ -31,7 +37,7 @@
             </div>                
                                 
             <div class="m-12 l-6 margin-m-bottom-30">
-                <img src="img/SharedScreenshot.png" alt="" style="width: 75%; ">
+                <img src="img/SharedScreenshot.png" alt="" style="width: 75%;">
             </div>  
 
         </div>			
@@ -65,18 +71,18 @@
     </section>
 
 
-    <section class="section" style="background-color: rgb(246, 246, 246);">
+    <section class="section" style="background-color: rgb(246, 246, 246); padding-top: 4%; padding-bottom: 15%;">
         <div class="padding">
-            <div class="text-center">
-                <h3 class="section-subheading" style="color:blue; font-size:45px;">Tudo o que você precisa para começar a crescer</h3>
+            <div class="text-center" style="padding-bottom: 4%">
+                <h3 class="section-subheading" style="color:#3d3dff; font-size:45px;">Tudo o que você precisa para começar a crescer</h3>
             </div>
 
             <div class="row text-center padding">
                 <div class="col-lg-3 col-md-4">                             
-                    <img class="img-fluid" src="img/icon1.png" alt="..." style="height: 15%; display: inline;"/>
+                    <img class="img-fluid" src="img/icon1.png" alt="..." style="height: 20%; display: inline;"/>
                                   
                     <h4 class="my-3" style="color:#29598d;"><b>Logística</b></h4>
-                    <div class="text-left padding equal-column" style="background-color: white;">
+                    <div class="text-left padding" style="background-color: white; border: 1px solid #cfc9c9;">
                         <h6>Vendas</h6> 
                         <h6>Inventário</h6> 
                         <h6>Compras</h6> 
@@ -86,10 +92,10 @@
                 </div>
 
                 <div class="col-lg-3 col-md-4">                          
-                    <img class="img-fluid" src="img/icon2.png" alt="..." style="height: 15%; display: inline"/>
+                    <img class="img-fluid" src="img/icon2.png" alt="..." style="height: 20%; display: inline"/>
                     
                     <h4 class="my-3" style="color:#29598d;"><b>Finanças</b></h4>
-                    <div class="text-left padding equal-column" style="background-color: white;">
+                    <div class="text-left padding equal-column" style="background-color: white; border: 1px solid #cfc9c9;">
                         <h6>Tesouraria Contas/C</h6> 
                         <h6>Tesouraria Bancos</h6> 
                         <h6>Contabilidade Base</h6> 
@@ -98,10 +104,10 @@
                 </div>
 
                 <div class="col-lg-3 col-md-4">                          
-                    <img class="img-fluid" src="img/icon3.png" alt="..." style="height: 15%; display: inline"/>
+                    <img class="img-fluid" src="img/icon3.png" alt="..." style="height: 20%; display: inline"/>
                     
                     <h4 class="my-3" style="color:#29598d;"><b>Recursos Humanos</b></h4>
-                    <div class="text-left padding equal-column" style="background-color: white;">
+                    <div class="text-left padding equal-column" style="background-color: white; border: 1px solid #cfc9c9;">
                         <h6>Salário / Honorários</h6> 
                         <h6>Gestão de contratos</h6> 
                         <h6>Processamento</h6> 
@@ -110,20 +116,18 @@
                 </div>
 
                 <div class="col-lg-3 col-md-4">                         
-                    <img class="img-fluid" src="img/icon4.png" alt="..." style="height: 15%; display: inline"/>
+                    <img class="img-fluid" src="img/icon4.png" alt="..." style="height: 20%; display: inline"/>
                     
                     <h4 class="my-3" style="color:#29598d;"><b>Equipamentos e activos</b></h4>
-                    <div class="text-left padding equal-column" style="background-color: white;">
-                        <h6>Activos</h6> 
+                    <div class="text-left padding equal-column" style="background-color: white; border: 1px solid #cfc9c9;">
+                        <h6 style="padding-top: 20%; padding-left: 40%;">Activos</h6> 
                     </div>
                 </div>
             </div>
 
-            <div class="text-center">
-                <a href="#">
-                    <button class="btn btn-primary" type="submit" style="width: 35%; height: 50px; border-radius: 20%;">
-                        Receber informação
-                    </button>
+            <div class="circle btn-center text-center p-4" style="background-color:#3d3dff; width: 30%; margin-top: 4%">
+                <a href="#" style="color: white;">
+                    Receber informação
                 </a>
             </div>
         </div>
@@ -264,8 +268,10 @@
 
                 </div>
 
-                <div class="s-12">
-                    <button class="btn btn-primary" type="submit" style="background-color:blue; width: 35%; border-radius: 15%;">Enviar mensagem</button>
+                <div class="circle btn-center" style="background-color:blue; width: 50%; left: 25%">
+                    <a href="#" class="padding" style="color: white;">
+                        Enviar mensagem
+                    </a>
                 </div>
                    
             </form>
