@@ -11,7 +11,7 @@
 
         <div class="row" style="padding-left: 50px">
             <div class="col-lg-3 col-md-4">     
-                <img class="img-fluid" src="img/logoorg.png" alt="..." style="height: 20%; padding-bottom: 20px;"/> 
+                <img class="img-fluid" src="/img/home/itangola_branco.png" alt="..." style="height: 20%; padding-bottom: 20px; background-color: transparent"/> 
                 <p style="color:rgb(196, 196, 196)">
                     
                     <br>
@@ -94,7 +94,7 @@
             </div>
 
             <div class="col-lg-4" style="padding-left: 100px">     
-                <img class="img-fluid" src="img/logoorg.png" alt="..."/>
+                <img class="img-fluid" src="/img/home/cegid1.png" alt="..." style="width: 55%"/>
             </div>
         </div>
         

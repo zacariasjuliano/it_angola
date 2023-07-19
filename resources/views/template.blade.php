@@ -35,7 +35,7 @@
 
 
         <!-- MAIN -->
-        <main role="main">
+        <main role="main" >
 
             @include('layout.slide')
             
