@@ -39,7 +39,7 @@
             width: 314px;
             height: 5%;
             position: absolute;
-            top: 449.5%;
+            top: 293.5%;
             left: 51%;
             border-radius: 12.5% 12.5% 0 0;
             transform: skewY(0deg);
@@ -47,7 +47,7 @@
 
         .carousel-center-text {
             position: absolute;
-            top: 52%;
+            top: 45%;
             left: 50%;
             transform: translate(-50%, -50%);
             text-align: center;
@@ -67,13 +67,13 @@
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/starter/img-1.png" alt="Slide 1">                
+                <img src="/img/starter/18.png" alt="Slide 1">                
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <img src="img/starter/starter.png" alt="Slide 1" class="padding"> 
-                <p style="font-size:50px; color: white" class="padding"><b>PRIMAVERA STARTER PLUS</b></p>
-                <p style="font-size: 30px; color: white" class="padding">A chave para o crescimento sustentável do seu negócio</p>
+                <img src="/img/starter/starter.png" alt="Slide 1" class="padding"> 
+                <p style="font-size:50px; color: white" class="padding"><b>PRIMAVERA STARTER EASY</b></p>
+                <p style="font-size: 30px; color: white" class="padding">Começe a facturar e não pare <br> nunca mais</p>
             </div>
         </div>
         
@@ -82,34 +82,25 @@
     <div style="margin-bottom: 5%; margin-top: 3%">
 
         <div class="text-center">
-            <p style="font-size: 50px; color: #ff6900">
-                <b>Solução Primavera Starter Plus</b>
+            <p style="font-size: 50px; color: blue">
+                <b>Solução Primavera Starter Easy</b>
             </p>            
         </div> 
 
         <div class="container" style="padding-top: 2.5%">
             <div class="row" style="border-radius: 25px; border: 1px solid #000; justify-content: space-between">
-                <a href="#" class="col-2 text-center menu_activo" style="max-width: 14%; color: #131212">  
+                <a href="#" class="col-2 text-center menu_activo" style="max-width: 50%; color: #131212">  
                     <b>Módulos</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 13%; color: #131212">  
+                <a href="#" class="col-2 text-center" style="max-width: 50%; color: #131212">  
                     <b>VENDAS</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 14%; color: #131212">  
+                <a href="#" class="col-2 text-center" style="max-width: 50%; color: #131212">  
                     <b>INVENTÁRIOS</b>        
-                </a>
-                <a href="#" class="col-2 text-center" style="max-width: 14%; color: #131212">  
-                    <b>BANCOS</b>        
                 </a>    
-                <a href="#" class="col-4 text-center" style="max-width: 18%; color: #131212">  
+                <a href="#" class="col-4 text-center" style="max-width: 50%; color: #131212">  
                     <b>CONTAS CORRENTES</b>       
-                </a>
-                <a href="#" class="col-2 text-center" style="max-width: 14%; color: #131212">  
-                    <b>ENCOMENDAS</b>        
-                </a>
-                <a href="#" class="col-2 text-center" style="max-width: 13%; color: #131212">  
-                    <b>COMPRAS</b>        
-                </a>        
+                </a>       
             </div>         
         </div>
 
@@ -133,16 +124,6 @@
                         movimentações entre armazéns.
                     </p> 
                 </div>
-                <div class="col-4 text-left">   
-                    <p style=" font-size: 25px; color: #ff6900"><b>Bancos</b></p>    
-                    <p style="font-size: 20px; word-spacing: 14px; color: black">
-                        Facilmente controla os pagamentos (quer sejam feitos em numerário, cheque, cartão
-                        de crédito, multicaixa, ou outros meios de pagamento) e as comissões de vendedores.
-                        A gestão de talões também é simples.<br><br>
-                        Alertas de valores a receber e estatísticas sobre a atividade
-                        de cada Caixa, movimentos efetuados, vendas, rentabilidade, entre outras análises.
-                    </p> 
-                </div>
                 <div class="col-4 text-left">  
                     <p style="font-size: 25px; color: #ff6900"><b>Contas Correntes</b></p>    
                     <p style="font-size: 20px; word-spacing: 14px; color: black">
@@ -154,48 +135,30 @@
                         de dívida, através de planos de faturação automática. 
                     </p> 
                 </div>    
-                <div class="col-4 text-left">  
-                    <p style="font-size: 25px; color: #ff6900"><b>Encomendas</b></p>    
-                    <p style="font-size: 20px; word-spacing: 14px; color: black">
-                        Com esta solução as encomendas são mais assertivas, a seleção
-                        de fornecedores mais ágil, o tratamento dos encargos
-                        relacionados com as compras mais eficiente, e a receção
-                        e conferência de compras mais fácil. 
-                    </p> 
-                </div>
-                <div class="col-4 text-left"> 
-                    <p style="font-size: 25px; color: #ff6900"><b>Compras</b></p>    
-                    <p style="font-size: 20px; word-spacing: 14px; color: black">
-                        Acabe com a rotura de stocks. Elimine o desperdício. Satisfaça
-                        os pedidos dos seus clientes com a máxima eficiência.<br><br>
-                        Otimize ainda a gestão de inventário com ferramentas que auxiliam o controlo de stocks
-                        e respetiva valorização do Preço de Custo Médio em diversos armazéns.
-                    </p> 
-                </div>
+                
             </div>         
         </div>
                 
     </div>  
     
-    <div style="background-color: #3b00a2; height: 600px; position: relative;">        
+    <div style="background-color: #3b00a2; height: 480px; position: relative;">        
         <div class="container padding">
-            <p class="text-center" style="font-size:30px; color: white; word-spacing: 10px; padding-top: 3%">
-                <b>Simplifique o esforço ao máximo</b> 
+            <p class="text-center" style="font-size:30px; color: white; word-spacing: 10px; padding-top: 6%">
+                <b>O impluso para o seu negócio crescer</b> 
             </p>  
 
             <p style="font-size:20px; color: white; word-spacing: 10px;">
-                Deixe o seu negócio crescer. O PRIMAVERA Starter Plus impulsiona os pequenos negócios, para
-                que rapidamente alcancem grandes resultados. Simplifique ao máximo, com o mínimo esforço:
+                O PRIMAVERA Starter Easy é a solução de faturação mais rápida, simples e intuitiva para 
+                a gestão de pequenos negócios. Dê um grande impulso ao seu negócio com esta solução:  
             </p>     
             
             <ul style="color: white; word-spacing: 10px">
-                <li style="font-size:18px;">Selecione fornecedores e efetue encomendas de forma simples e rápida</li>
-                <li style="font-size:18px;">Calcule as necessidades efetivas de compra automaticamente</li>
-                <li style="font-size:18px;">Obtenha mais eficiência na gestão de stocks e armazéns</li>
-                <li style="font-size:18px;">Controle facilmente as regras de preços</li>
-                <li style="font-size:18px;">Adquira mais rigor na gestão de Contas Correntes de clientes e fornecedores</li>
-                <li style="font-size:18px;">Cumpra, sem preocupações, todos os requisitos legais e fiscais</li>
-                <li style="font-size:18px;">Aceda a análises que auxiliam na condução do negócio</li>
+                <li style="font-size:18px;">O custo é reduzido e diluído no tempo</li>
+                <li style="font-size:18px;">Fácil de usar</li>
+                <li style="font-size:18px;">Atualizações automáticas e permanentes</li>
+                <li style="font-size:18px;">Acompanha sempre a evolução fiscal</li>
+                <li style="font-size:18px;">Emite faturas rapidamente</li>
+                <li style="font-size:18px;">Controle facilmente o fluxo diário de Caixa</li>
             </ul>
         </div>        
     </div>
@@ -203,53 +166,23 @@
     <div style="height: 400px; position: relative;">
         
         <div class="container padding">
-            <p class="text-center" style="font-size:30px; color: #ff6900; word-spacing: 10px; padding-top: 3%;">
-                <b>Acesso a solução Primavera Starter Plus</b> 
+            <p class="text-center" style="font-size:30px; color: blue; word-spacing: 10px; padding-top: 3%;">
+                <b>Como ter acesso a solução Primaveras Starter Easy</b> 
             </p>  
 
-            <p class="padding" style="font-size: 14.5px; color: black; word-spacing: 15px; line-height: 200%;">
-                Esta solução está disponível para instalação mediante subscrição (Subscription Service Agreement). Isto significa que
-                ao subscrever o produto, acede a uma licença de utilização temporária (anual ou por dois anos).
-                Poderá ainda evitar custos de atualização imprevisíveis e encargos elevados de manutenção do sistema com o Continuity
-                Software Agreement (CSA). Com o CSA tem garantias de usufruir sempre das últimas novidades tecnológicas, e de
-                acompanhar a evolução legal e fiscal em diversos mercados, a um custo controlado e competitivo.
+            <p class="padding" style="font-size: 16px; color: black; word-spacing: 15px; line-height: 200%;">
+                Esta solução está disponível para instalação mediante subscrição. Isto significa que ao subscrever o produto, acede a 
+                uma licença de utilização temporária (anual ou por dois anos). <br><br> 
+                A subscrição contempla o acesso ao software, assim como à respetiva atualização e manutenção durante o período de 
+                acesso escolhido. Para aceder à solução basta efetuar a subscrição nos planos a baixo.
             </p> 
-            
-        </div>
-        
-    </div>
-
-    <div style="background-color: #3b00a2; height: 895px; position: relative;">
-        
-        <div class="container padding">
-            <p class="text-center" style="font-size:25px; color: white; word-spacing: 10px; padding-top: 3%;">
-                <b>O que os clientes falam do Primavera Starter Plus</b> 
-            </p>  
-
-            <div class="padding" style="text-align: -webkit-center;">
-                <img class="img-fluid" src="/img/starter/starter-plus.png" alt="..." style="width: 85%;"/> 
-            </div>
-            
-            <p class="text-center" style="font-size:16px; color: rgb(241, 239, 239); word-spacing: 10px; padding-left: 15%; padding-right: 15%;">
-                “o starter plus é como um amigo que podemos confiar, que quando precisamos contar algum segredo do nosso negócio ele esta aí para nos
-                ouvir. o starter plus dá-nos uma visão ampla daquilo que fazemos no nosso dia a dia na empresa, é uma ferramenta muito importante para nós.”
-            </p> 
-            
-            <div style="display: flex;">
-                <div style="flex: 1;" style="text-align: -webkit-center;">
-                    <img class="img-fluid rounded-circle" src="/img/home/face.png" alt="..." style="width: 10%;  margin-left: 88%;"/> 
-                </div>
-                <div style="flex: 1; padding-top: 1%; margin-right: 15%;">
-                  <p style="font-size:20px; color: white;"><b>Jorge Centeno - PagaSó</b></p>
-                </div>
-            </div>
             
         </div>
         
     </div>
 
     
-    <div style="background-color: #b2b2b2; height: 700px; position: center; padding-top: 4.5%">        
+    <div style="background-color: #b2b2b2; height: 750px; position: center; padding-top: 4.5%">        
             
         <div style="display: flex; justify-content: center; align-items: center">
 
@@ -308,7 +241,8 @@
                 </div>
             </div>
 
-        </div>            
+        </div>
+            
         
     </div>  
     

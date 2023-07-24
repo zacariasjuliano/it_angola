@@ -23,9 +23,9 @@
                                 <b>MICRO E PEQUENAS EMPRESAS</b>
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: blue">
-                                <a class="dropdown-item" style="color: white;" href="#">Starter</a>
-                                <a class="dropdown-item" style="color: white;" href="#">Pro Lite</a>
-                                <a class="dropdown-item" style="color: white;" href="#">Pro Plus</a>
+                                <a class="dropdown-item" style="color: white;" href="/starter">Starter</a>
+                                <a class="dropdown-item" style="color: white;" href="/primavera/pro-lite">Pro Lite</a>
+                                <a class="dropdown-item" style="color: white;" href="/starter-plus">Pro Plus</a>
                             </div>
                         </li>
                         
@@ -34,8 +34,8 @@
                                 <b>MÉDIAS E GRANDES EMPRESAS</b>
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: blue">
-                                <a class="dropdown-item" style="color: white;" href="#">Profissional</a>
-                                <a class="dropdown-item" style="color: white;" href="#">Executive</a>
+                                <a class="dropdown-item" style="color: white;" href="/primavera/proficional">Profissional</a>
+                                <a class="dropdown-item" style="color: white;" href="/primavera/executive">Executive</a>
                             </div>
                         </li>
     
@@ -50,7 +50,7 @@
                             </div>
                         </li>
     
-                        <li class="nav-item"><a style="color: #4357a0;" class="nav-link" href="#"><b>FORMAÇÕES</b></a></li>
+                        <li class="nav-item"><a style="color: #4357a0;" class="nav-link" href="/academy"><b>FORMAÇÕES</b></a></li>
                     </ul>
                 </div>
     

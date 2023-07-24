@@ -15,22 +15,22 @@
                 <p style="color:rgb(196, 196, 196)">
                     
                     <br>
-                    <a href="#">
+                    <a href="/sobre">
                         Sobre nós
                     </a><br>
-                    <a  href="#">
+                    <a  href="/responsabilidade-social">
                         Responsabilidade social
                     </a><br>
                     <a href="#">
                         Recrutamento
                     </a><br>
-                    <a href="#">
+                    <a href="/consultoria">
                         Consultoria
                     </a><br>
                     <a href="#">
                         Requisições
                     </a><br>
-                    <a href="#">
+                    <a href="/suporte">
                         Suporte
                     </a>
                 </p>
@@ -40,7 +40,7 @@
                 <h4 style="color:rgb(196, 196, 196); padding-bottom: 20px;"><b>Notícias</b></h4>
                 <p style="color:rgb(196, 196, 196)"> 
 
-                    <a href="#">
+                    <a href="/blog">
                         Blog
                     </a><br>
                     <a  href="#">
@@ -69,10 +69,10 @@
                 <h4 style="color:rgb(196, 196, 196); padding-bottom: 20px;"><b>Site</b></h4>
                 <p style="color:rgb(196, 196, 196)">  
                     
-                    <a href="#">
+                    <a href="/privacidade">
                         Políticas
                     </a> <br> 
-                    <a href="#">
+                    <a href="/termos-condicoes">
                         Termos
                     </a> <br> 
                     <a href="#">
