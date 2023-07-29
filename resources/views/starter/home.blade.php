@@ -12,7 +12,7 @@
         }
         .botao {
             background-color: #ff6900; 
-            margin-left: 20%; 
+            margin-left: 12%; 
             display: flex; 
             justify-content: center; 
             align-items: center;
@@ -23,23 +23,10 @@
             display: flex; 
             justify-content: center; 
             align-items: center;
-            margin-top: 20%; 
+            margin-top: 10%; 
             margin-bottom: 2%;
         }
-        .rectangle {
-            margin-top: 8%;
-            margin-left: 27%;
-            margin-right: 30%;
-            border-radius: 25px;
-        }
-        .rectangle {
-            width: 65%;
-            height: 250px;
-            background-color: white;
-            position: relative;   
-            box-shadow: 0px 0px 11px 2px rgb(150, 150, 150, 0.36);
-        }
-        
+                
         .circle1 {
             /*width: 100px;
             height: 100px;
@@ -72,7 +59,7 @@
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
                 <img src="img/starter/starter.png" alt="Slide 1" class="padding"> 
-                <p style="font-size:50px; color: white" class="padding"><b>STARTER</b></p>
+                <h3 style="font-size:50px; color: white" class="padding"><b>STARTER</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">A ferramenta que faltava para impulsionar a gestão da sua pequeno negócio</p>
             </div>
         </div>
@@ -96,9 +83,9 @@
             </p>
         </div>
 
-        <div class="row" style="padding-left: 20%; padding-top: 3.5%; padding-bottom: 1%">
-            
-            <div class="col-md-4 text-center" style="max-width: 25%;">
+        <div class="row" style="padding-left: 20%; padding-top: 2.5%; padding-bottom: 1%">
+        
+            <div class="col-md-4 text-center" style="max-width: 25%; padding-right: 0px; padding-left: 0px;">
                 <p style="font-size: 25px; color: #ff6900">
                     <b> Starter Plus </b>
                 </p>
@@ -110,8 +97,8 @@
                     </div>
                 </div>
             </div>  
-
-            <div class="col-md-4 text-center" style="max-width: 25%;">
+    
+            <div class="col-md-4 text-center" style="max-width: 25%; padding-right: 0px; padding-left: 2.5%;">
                 <p style="font-size: 25px; color: #ff6900">
                     <b> Starter </b>
                 </p>
@@ -122,8 +109,8 @@
                     </div>
                 </div>
             </div>
-
-            <div class="col-md-4 text-center" style="max-width: 25%;">
+    
+            <div class="col-md-4 text-center" style="max-width: 25%; padding-right: 0px; padding-left: 7%;">
                 <p style="font-size: 25px; color: #ff6900">
                     <b> Starter Easy </b>
                 </p>
@@ -133,25 +120,25 @@
                     </div>
                 </div>
             </div>
-
+    
         </div> 
                 
-    </div>        
+    </div>
     
     
-    <div style="background-color: #8abce6; height: 600px; position: relative;">
+    <div style="background-color: #8abce6; height: 450px; position: relative;">
         
-        <div class="circle1 row text-left" style="padding-left: 22%; padding-top: 1%">
+        <div class="circle1 row text-left" style="padding-left: 20%; padding-top: 1%">
             
-            <div class="col-md-4" style="max-width: 23%; margin-right: 2%;">
-                <div class="card shadow-sm" style="background-color: #3b00a2; border-radius: 7%; height: 500px;">
+            <div class="col-md-4" style="max-width: 25%; margin-right: 1.5%;">
+                <div class="card shadow-sm" style="background-color: #3b00a2; border-radius: 7%; height: 99%;">
                                 
                     <p class="padding" style="font-size:20px; color: white; word-spacing: 10px;">
                         O Starter Plus é um produto multi-empresas com o máximo de 3 empresas e o seu licenciamento está limitado a 3 utilizadores
                     </p>
 
                     <div class="ao_centro">
-                        <img class="img-fluid" src="img/icon3.png" alt="..." style="height: 75%; display: inline"/>
+                        <img class="img-fluid" src="/img/starter/Camada-1.png" alt="..." style="height: 75%; display: inline"/>
                     </div>
 
                     <div class="circle2 btn-center text-center botao">
@@ -163,15 +150,15 @@
                 </div>
             </div>
 
-            <div class="col-md-4" style="max-width: 23%; margin-left: 0%;">
-                <div class="card shadow-sm" style="background-color: #3b00a2; border-radius: 7%; height: 500px;">
+            <div class="col-md-4" style="max-width: 25%; margin-left: 0%;">
+                <div class="card shadow-sm" style="background-color: #3b00a2; border-radius: 7%; height: 99%;">
                                 
                     <p class="padding" style="font-size:20px; color: white; word-spacing: 10px;">
                         O Starter é um produto multi-empresas com o máximo de 2 empresas e o seu licenciamento está limitado a 3 utilizadores
                     </p>
 
-                    <div class="ao_centro" style="margin-top: 20%;">
-                        <img class="img-fluid" src="img/icon3.png" alt="..." style="height: 75%; display: inline"/>
+                    <div class="ao_centro">
+                        <img class="img-fluid" src="/img/starter/Camada-1.png" alt="..." style="height: 75%; display: inline"/>
                     </div>
 
                     <div class="circle2 btn-center text-center botao">
@@ -183,18 +170,18 @@
                 </div>
             </div>
 
-            <div class="col-md-4" style="max-width: 23%; margin-left: 2%;">
-                <div class="card shadow-sm" style="background-color: #3b00a2; border-radius: 7%; height: 500px;">
+            <div class="col-md-4" style="max-width: 25%; margin-left: 1.5%;">
+                <div class="card shadow-sm" style="background-color: #3b00a2; border-radius: 7%; height: 99%;">
                                 
                     <p class="padding" style="color: white; font-size:20px; word-spacing: 10px;">
                         O Starter Easy é um produto mono-empresa e o seu licenciamento está limitado a um NIF
                     </p>
 
-                    <div class="ao_centro" style="margin-top: 38%;">
-                        <img class="img-fluid" src="img/icon3.png" alt="..." style="height: 75%; display: inline"/>
+                    <div class="ao_centro" style="margin-top: 30%;">
+                        <img class="img-fluid" src="/img/starter/Camada-1.png" alt="..." style="height: 75%; display: inline"/>
                     </div>
 
-                    <div class="circle2 btn-center text-center botao" style="">
+                    <div class="circle2 btn-center text-center botao">
                         <a href="#" style="color: white;">
                             Saber mais... 
                         </a>

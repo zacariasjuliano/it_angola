@@ -65,6 +65,14 @@
             margin-top: 0px; 
             margin-bottom: 0px;
             */
+        }      
+        .menu_curvo {
+            border-radius: 0 25px 25px 0;  
+            transform: skewY(0deg);
+        }       
+        .altura {
+            padding-top: 1.5%;
+            padding-bottom: 1.5%;
         }
     </style>
 
@@ -79,7 +87,7 @@
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
                 <img src="/img/solucoes/manufature.png" alt="Slide 1" class="padding"> 
-                <p style="font-size:50px; color: white" class="padding"><b>MANUFACTURING</b></p>
+                <h3 style="font-size:50px; color: white" class="padding"><b>MANUFACTURING</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">Entre na era da produção inteligente 4.0</p>
             </div>
         </div>
@@ -104,20 +112,20 @@
         </div>
 
         <div class="container" style="padding-top: 2.5%">
-            <div class="row" style="border-radius: 0px; border: 0px solid #000; justify-content: space-between">
-                <a href="#" class="col-2 text-center menu_activo" style="max-width: 25%; background-color:rgb(44, 75, 104); color: white">  
+            <div class="row" style="border-radius: 0px; border: 0px solid #000; justify-content: center">
+                <a href="#" class="col-2 text-center altura menu_activo" style="max-width: 25%; background-color:rgb(44, 75, 104); color: white">  
                     <b>MÓDULOS</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 25%; background-color: #3f726d; color: white">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 25%; background-color: #3f726d; color: white">  
                     <b>PRODUÇÃO</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 30%; background-color: #3f726d; color: white">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 30%; background-color: #3f726d; color: white">  
                     <b>PLANEJAMENTO</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 25%; background-color: #3f726d; color: white">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 25%; background-color: #3f726d; color: white">  
                     <b>QUALIDADE</b>        
                 </a>    
-                <a href="#" class="col-4 text-center menu_curvo" style="max-width: 35%; background-color: #3f726d; color: white">  
+                <a href="#" class="col-4 text-center altura menu_curvo" style="max-width: 35%; background-color: #3f726d; color: white">  
                     <b>TRACK & TRACE</b>       
                 </a> 
             </div>         
@@ -127,12 +135,12 @@
 
     <div style="margin-bottom: 2%; margin-top: 1%;">
 
-        <div style="padding: 1.5% 7%">        
+        <div style="padding: 0 15% 3.5% 15%;">        
             <div class="card-deck mb-3" >
-                <div class="card mb-4 padding" style="background-color: #3f726d; margin-left: 0px; margin-right: -3px;">
-                    <p class="text-center" style="font-size: 30px; color: white; padding-top: 3%">
+                <div class="card mb-4 padding" style="background-color: #3f726d; margin-left: 0px; margin-right: -3px; border-radius: 25px 0 0 0;">
+                    <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 3%">
                         Produção
-                    </p> 
+                    </h5> 
                     <p class="padding" style="font-size: 15px; color: white;">
                         Há uma nova dinâmica à sua espera na preparação e gestão da produção. Fichas técnicas de produtos 
                         fáceis de criar, incluindo toda a informação necessária: listas de materiais, operações para cada 
@@ -141,10 +149,10 @@
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #3f726d; margin-left: -3px; margin-right: -3px;">
-                    <p class="text-center" style="font-size: 30px; color: white; padding-top: 3%">
+                <div class="card mb-4 padding" style="background-color: #3f726d; margin-left: -3px; margin-right: -3px;  border-radius: 0 25px 0 0;">
+                    <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 3%">
                         Planejamento
-                    </p> 
+                    </h5> 
                     <p class="padding" style="font-size: 15px; color: white;">
                         Através de um planeamento gráfico, distribui no tempo as operações pelos diversos centros de trabalho, 
                         de forma simples e ágil. Se preferir, pode recorrer ao algoritmo de planeamento que sugere a melhor 
@@ -155,10 +163,10 @@
             </div>            
         
             <div class="card-deck mb-3" style="margin-bottom: -3rem!important; margin-top: -3rem!important;">
-                <div class="card mb-4 padding" style="background-color: #3f726d; margin-left: 0px; margin-right: -3px;">
-                    <p class="text-center" style="font-size: 30px; color: white; padding-top: 0%">
+                <div class="card mb-4 padding" style="background-color: #3f726d; margin-left: 0px; margin-right: -3px; border-radius: 0 0 0 25px;">
+                    <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 0%">
                         Track & Trace
-                    </p> 
+                    </h5> 
                     <p class="padding" style="font-size: 15px; color: white;">
                         Aceda em temporeal aos dados operacionais doshopfloor e saiba o que se passa no chão de fábrica a partir 
                         de qualquer lugar.
@@ -168,10 +176,10 @@
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #3f726d; margin-left: -3px; margin-right: -3px;">
-                    <p class="text-center" style="font-size: 30px; color: white; padding-top: 0%">
+                <div class="card mb-4 padding" style="background-color: #3f726d; margin-left: -3px; margin-right: -3px; border-radius: 0 0 25px 0;">
+                    <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 0%">
                         Qualidade
-                    </p> 
+                    </h5> 
                     <p class="padding" style="font-size: 15px; color: white;">
                         Tenha a certeza de que entrega produtos de altíssima qualidade aos seus clientes. A diferenciação pela 
                         qualidade ganha cada vez mais terreno, por isso, não ponha em causa o negócio devido a fatores que 
@@ -187,11 +195,11 @@
 
     <div style="background-color: #99cc99; height: 650px; position: relative; padding: 0% 0%">
         
-        <div class="contanier" style="flex: 1; padding-top: 10%;">
+        <div class="contanier" style="flex: 1; padding-top: 5%;">
             <p style="font-size: 35px; color: white; text-align: -webkit-center;">
                 <b>Entre na era digital de forma simples</b>
             </p>
-            <p class="padding" style="font-size: 35px; color: black; text-align: -webkit-center;">
+            <p style="font-size: 35px; color: black; text-align: -webkit-left; padding: 0 20%">
                 <b>As soluções da PRIMAVERA para o setor industrial garantem-lhe essa abrangência e integração, permitindo-lhe:</b>
             </p>  
 
@@ -217,21 +225,21 @@
             </div>
 
             <div class="carousel padding" style="text-align: -webkit-center;">
-                <p style="font-size:50px; color: white; margin-top: 10%" class="padding"><b>Rentabilize a produção, salvaguarde a qualidade</b></p>
+                <p style="font-size:50px; color: white; margin-top: 5%" class="padding"><b>Rentabilize a produção, salvaguarde a qualidade</b></p>
                 
 
                 <div class="container" style="border-radius: 25px; text-align: -webkit-left; background-color: white; width: 50%">
 
                     <ul style="text-align: left; color: black;">
-                        <li style="font-size: 20px; padding-top: 5%;">Rapidez na preparação das fichas técnicas</li>
-                        <li style="font-size: 20px;">Celeridade no planeamento e programação das ordens de fabrico</li>
-                        <li style="font-size: 20px;">Efeciência no controlo de execução</li>
-                        <li style="font-size: 20px;">Aumento da capacidade de produção instalada</li>
-                        <li style="font-size: 20px;">Agilidade na gestão de meios materiais e humanos</li>
-                        <li style="font-size: 20px;">Redução dos custos de produção</li>
-                        <li style="font-size: 20px;">Elevado nível de controlo logístico e financeiro</li>
-                        <li style="font-size: 20px;">Simplicidade de acesso a informação financeira</li>
-                        <li style="font-size: 20px; padding-bottom: 5%;">Informação de apoio à tomada de decisão</li>
+                        <li style="font-size: 22px; padding-top: 5%;">Rapidez na preparação das fichas técnicas</li>
+                        <li style="font-size: 22px;">Celeridade no planeamento e programação das ordens de fabrico</li>
+                        <li style="font-size: 22px;">Efeciência no controlo de execução</li>
+                        <li style="font-size: 22px;">Aumento da capacidade de produção instalada</li>
+                        <li style="font-size: 22px;">Agilidade na gestão de meios materiais e humanos</li>
+                        <li style="font-size: 22px;">Redução dos custos de produção</li>
+                        <li style="font-size: 22px;">Elevado nível de controlo logístico e financeiro</li>
+                        <li style="font-size: 22px;">Simplicidade de acesso a informação financeira</li>
+                        <li style="font-size: 22px; padding-bottom: 5%;">Informação de apoio à tomada de decisão</li>
                     </ul>
 
                 </div>
@@ -243,11 +251,11 @@
 
     <div style="background-color: white; height: 400px; position: relative; padding: 0% 0%">
         
-        <div class="contanier " style="flex: 1; padding: 7%; 5%">
-            <p style="font-size: 35px; color: black; text-align: -webkit-center;">
+        <div class="contanier " style="flex: 1; padding: 7% 0%">
+            <h5 style="font-size: 35px; color: black; text-align: -webkit-center;">
                 <b>Mais transparência. Maior mobilidade. Melhor visibilidade da produção</b>
-            </p> 
-            <p style="font-size: 25px; color: black; text-align: -webkit-left;">
+            </h5> 
+            <p style="font-size: 25px; color: black; text-align: -webkit-left; padding: 0 13%">
                 Através de dashboards sempre atualizados é possível aceder, em tempo real e através de qualquer dispositivo, 
                 a dados operacionais do shopfloor, sejam eles introduzidos pelos operadores ou obtidos, via integração, 
                 diretamente das máquinas, bem como a um conjunto relevante de indicadores de desempenho, para cada um dos 
@@ -261,12 +269,12 @@
         
         <div class="contanier padding" style="flex: 1; padding-top: 4%;">
             <p style="font-size: 35px; color: white; text-align: -webkit-center; padding-top: 10%;"><b>Acesso</b></p>
-            <p style="font-size: 25px; color: white; text-align: -webkit-left;">
+            <p style="font-size: 25px; color: white; text-align: -webkit-left; padding: 0 20%">
                 Obtenha uma licença perpétua de utilização da solução.
                 <br>Aceda à sua solução de gestão na modalidade mais convencional: On-premises.
                 <br>Com esta modalidade terá acesso a uma licença perpétua de utilização do software.
             </p>
-            <p style="font-size: 25px; color: white; text-align: -webkit-left;">
+            <p style="font-size: 25px; color: white; text-align: -webkit-left; padding: 0 20%">
                 Poderá ainda evitar custos de atualização imprevisíveis e encargos elevados de manutenção do sistema 
                 com o Continuity Software Agreement (CSA). Com o CSA tem garantias de usufruir sempre das últimas 
                 novidades tecnológicas, e de acompanhar a evolução legal e fiscal em diversos mercados, a um custo 

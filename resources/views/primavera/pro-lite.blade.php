@@ -23,8 +23,8 @@
         .botao_2 {
             background-color: white;
             border-radius: 55px;
-            width: 200px;
-            height: 35px;
+            width: 333px;
+            height: 66px;
         }
         .botao_cor {
             background-color: black; 
@@ -33,7 +33,7 @@
             align-items: center;
             margin-bottom: 0%;
             margin-top: 5%;
-            margin-left: 35%; 
+            margin-left: 36%; 
         }
         .circle3 {
             width: 314px;
@@ -71,7 +71,7 @@
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
                 <img hidden src="/img/starter/starter.png" alt="Slide 1" class="padding"> 
-                <p style="font-size:50px; color: white" class="padding"><b>PRIMAVERA PRO LITE</b></p>
+                <h3 style="font-size:50px; color: white" class="padding"><b>PRIMAVERA PRO LITE</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">Rigor na gestão financeira</p>
             </div>
         </div>
@@ -81,7 +81,7 @@
     <div style="margin-bottom: 5%; margin-top: 3%">
 
         <div class="text-center">
-            <p style="font-size: 50px; color: blue">
+            <p style="font-size: 50px; color: blue; padding: 2.5% 0">
                 <b>Módulos Da Solução Primavera Pro Lite</b>
             </p> 
             <p style="font-size: 25px; color: black">
@@ -187,7 +187,7 @@
                 
     </div> 
     
-    <div style="height: 750px; position: relative; padding: 0% 5%">
+    <div style="height: 700px; position: relative; padding: 0% 5%">
             
         <div class="padding" style="display: flex;">
             
@@ -195,9 +195,9 @@
                 <img class="img-fluid" src="/img/starter/203-min.png" alt="..." style="width: 95%"/>  
             </div>
 
-            <div style="flex: 1; text-align: -webkit-left; padding-left: 7%; padding-top: 10%; ">
-                <p style="font-size: 35px; color: black;"><b>Rigor na contabilidade e rapidez nas exigências fiscais</b></p> 
-                <p style="font-size: 20px; color: black;">
+            <div style="flex: 1; text-align: -webkit-left; padding: 5% 11% 0 11%;">
+                <p style="font-size: 40px; color: black;"><b>Rigor na contabilidade e rapidez nas exigências fiscais</b></p> 
+                <p style="font-size: 25px; color: black;">
                     Agilize todo o processo contabilístico. Acelere a introdução de documentos, a gestão de orçamentos, os 
                     lançamentos, a elaboração de planos de contas por exercícios, a obtenção de mapas, demonstrações 
                     económico-financeiras periódicas e de final de exercício, demonstrações de fluxo de caixa e funções ou 
@@ -209,14 +209,14 @@
         
     </div>
 
-    <div style="background-color: #9cadcf; height: 650px; position: relative;">
+    <div style="background-color: #9cadcf; height: 700px; position: relative;">
         
         <div class="container" style="max-width: 1400px;">
             
             <div class="padding" style="display: flex;">
                 <div style="flex: 1; text-align: -webkit-left; padding-top: 15%">
                     <p style="font-size: 35px; color: black;"><b>Gandes vantagesns com o Pro Lite</b></p> 
-                    <p style="font-size: 20px; color: black">
+                    <p style="font-size: 23px; color: black; padding-top: 2.5%">
                         Eficiência na gestão de fornecedores 
                         <br>Foco na satisfação dos seus clientes 
                         <br>Movimentações e valorização da mercadoria 
@@ -235,8 +235,8 @@
     </div>
     
     <div style="height: 480px; position: relative;">        
-        <div class="container padding">
-            <p class="text-center" style="font-size:30px;  word-spacing: 10px; padding-top: 6%; color: black">
+        <div class="container">
+            <p class="text-center" style="font-size:30px; word-spacing: 10px; padding-top: 6%; color: black">
                 <b>Tenha acesso ao primavera pro</b> 
             </p>  
 
@@ -245,11 +245,9 @@
                 o qual inclui updates de produto. 
             </p>   
             
-            <div class="botao_2 btn-center botao_cor" style="text-align: -webkit-center;">
-                <a href="#" style="color: white; position: relative; display: flex; justify-content: center;">
-                    Estou Interessado/a
-                </a>
-            </div>
+            <a href="#" class="botao_2 btn-center botao_cor" style="color: white; position: relative; display: flex; justify-content: center;">
+                Estou Interessado/a
+            </a>
 
         </div>        
     </div> 

@@ -23,7 +23,7 @@
                                 <b>MICRO E PEQUENAS EMPRESAS</b>
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: blue">
-                                <a class="dropdown-item" style="color: white;" href="/starter">Starter</a>
+                                <a class="dropdown-item" style="color: white;" href="/starter" hidden>Starter</a>
                                 <a class="dropdown-item" style="color: white;" href="/primavera/pro-lite">Pro Lite</a>
                                 <a class="dropdown-item" style="color: white;" href="/starter-plus">Pro Plus</a>
                             </div>
@@ -44,9 +44,9 @@
                                 <b>SOLUÇÕES VERTICAIS</b>
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="background-color: blue">
-                                <a class="dropdown-item" style="color: white;" href="#">Retalho</a>
-                                <a class="dropdown-item" style="color: white;" href="#">Restauraçõa</a>
-                                <a class="dropdown-item" style="color: white;" href="#">Indústria</a>
+                                <a class="dropdown-item" style="color: white;" href="/solucoes/tlim">Retalho</a>
+                                <a class="dropdown-item" style="color: white;" href="/solucoes/pssst">Restauraçõa</a>
+                                <a class="dropdown-item" style="color: white;" href="/solucoes/manufacturing">Indústria</a>
                             </div>
                         </li>
     

@@ -82,7 +82,7 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <p style="font-size: 50px; color: white" class="padding">CONSULTORIA</p>
+                <h3 style="font-size: 50px; color: white" class="padding"><b>CONSULTORIA</b></h3>
             </div>
         </div>
         
@@ -92,12 +92,12 @@
     <div style="background-color: white; margin-top: 10%">
 
         <div class="text-center" style="margin-top: 3%;">
-            <p style="font-size: 50px; color: blue">
+            <h5 style="font-size: 50px; color: blue">
                 <b>Consultoria do Software Cegid ERP Primavera</b>
-            </p>            
+            </h5>            
         </div> 
         
-        <div class="text-left" style="padding: 2% 15%"> 
+        <div class="text-left" style="padding: 2% 11%"> 
             <p style="font-size: 25px; color: black">
                 A IT-ANGOLA oferece serviços de consultoria especializados em tecnologia de gestão do software Cegid ERP Primavera.
                 Os nossos consultores experientes estão prontos para ajudar a sua empresa a otimizar os seus processos de negócio e 
@@ -116,15 +116,17 @@
         <div class="row" style="padding-left: 5%; padding-bottom: 0%">  
 
             <div class="col-md-6" style="padding-right: 0%">
-                <h3 class="animated-element margin-bottom-20"  style="padding-top: 20%;">
-                    <b style="color:blue; font-size:30px;">
+                <h5 class="animated-element margin-bottom-20" style="padding-top: 20%; color:blue; font-size:35px;">
+                    <b>
                         Benefícios do Software Cegid ERP Primavera
                     </b>								
-                </h3>
+                </h5>
 
-                <p class="animated-element slow margin-bottom-20" style="color:black; font-size:18px;">
+                <p class="animated-element slow" style="color:black; font-size:20px; margin: 0 17% 0 0;">
                     O software Cegid ERP Primavera oferece uma série de benefícios para empresas de todos os 
                     tamanhos e setores. Alguns dos principais benefícios incluem:
+                </p>
+                <p class="animated-element slow margin-bottom-20" style="color:black; font-size:20px; margin-top: 0%; padding-left:1.5%">
                     <br>A Melhoria na gestão de processos e fluxo de trabalho
                     <br>O Aumento da eficiência operacional
                     <br>A Integração de departamentos e sistemas
@@ -133,8 +135,8 @@
                 </p>
             </div>                            
                                     
-            <div class="col-md-6" style="flex: 0 0 45%; padding-top: 1.5%;">
-                <img src="/img/pages/234.png" alt="" style="width: 75%">
+            <div class="col-md-6" style="flex: 0 0 45%; padding-top: 5%;">
+                <img src="/img/pages/234.png" alt="" style="width: 50%">
             </div>
 
         </div>			

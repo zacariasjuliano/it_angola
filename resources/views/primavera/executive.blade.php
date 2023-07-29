@@ -33,7 +33,7 @@
             align-items: center;
             margin-bottom: 0%;
             margin-top: 15%;
-            margin-left: 25%; 
+            margin-left: 33%; 
         }
         .circle3 {
             width: 314px;
@@ -65,6 +65,9 @@
             margin-top: 0px; 
             margin-bottom: 0px;
             */
+        }            
+        ::marker {
+            color: blue;
         }
     </style>
 
@@ -78,15 +81,15 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <img hidden src="/img/starter/starter.png" alt="Slide 1" class="padding"> 
-                <p style="font-size:50px; color: white" class="padding"><b>PRIMAVERA EXECUTIVE</b></p>
+                <img src="/img/starter/primavera.png" alt="Slide 1" class="padding" style="width:22.5%">
+                <h3 style="font-size:50px; color: white" class="padding"><b>PRIMAVERA EXECUTIVE</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">Para grandes empresas que procuram por grandes resultados</p>
             </div>
         </div>
         
     </div>
 
-    <div style="margin-bottom: 5%; margin-top: 3%; background-color: rgb(246, 246, 246);">
+    <div style="margin-top: 3%; background-color: rgb(246, 246, 246);">
 
         <div class="text-center">
             <p style="font-size: 50px; color: blue">
@@ -104,17 +107,17 @@
 
         <hr style="width: 37%; color: black; border-top: 1.5px solid black; transform: translateX(-18%);">
        
-        <div class="row text-center" style="margin-left: 10%;">
+        <div class="row text-center" style="margin-left: 10%; margin-top:2.5%">
             <div class="col-lg-3 col-md-4">                             
                 <img class="img-fluid" src="/img/home/Camada-3.png" alt="..." style="height: 13%; display: inline;"/>
                             
                 <h4 class="my-3" style="color:#29598d;"><b>Logística</b></h4>
-                <div class="text-justify">
-                    <h6 style="padding-right: 20%; padding-left: 30%;">Vendas</h6> 
-                    <h6 style="padding-right: 20%; padding-left: 30%;">Inventário</h6> 
-                    <h6 style="padding-right: 20%; padding-left: 30%;">Compras</h6> 
-                    <h6 style="padding-right: 20%; padding-left: 30%;">Encomendas</h6> 
-                    <h6 hidden style="padding-right: 20%; padding-left: 30%;">Requisições Internas</h6>
+                <div class="text-center">
+                    <h6>Vendas</h6> 
+                    <h6>Inventário</h6> 
+                    <h6>Compras</h6> 
+                    <h6>Encomendas</h6> 
+                    <h6 hidden >Requisições Internas</h6>
                 </div>
             </div>
 
@@ -122,34 +125,34 @@
                 <img class="img-fluid" src="/img/home/Camada-4.png" alt="..." style="height: 13%; display: inline"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Finanças</b></h4>
-                <div class="text-justify equal-column fundo" style="margin-left: 5%; margin-right: 8%; padding-top: 5%">
-                    <h6 style="padding-top: 5%; padding-right: 10%; padding-left: 18%;">Tesouraria Contas/C</h6> 
-                    <h6 style="padding-right: 10%; padding-left: 18%;">Tesouraria Bancos</h6> 
-                    <h6 style="padding-right: 10%; padding-left: 18%;">Contabilidade Base</h6> 
-                    <h6 style="padding-right: 10%; padding-left: 18%;">Contabilidade Gestão</h6> 
+                <div class="text-center equal-column fundo">
+                    <h6>Tesouraria Contas/C</h6> 
+                    <h6>Tesouraria Bancos</h6> 
+                    <h6>Contabilidade Base</h6> 
+                    <h6>Contabilidade Gestão</h6> 
                 </div>
             </div>
 
             <div class="col-lg-3 col-md-4">                          
-                <img class="img-fluid" src="/img/home/Camada-1.png" alt="..." style="height: 10%; display: inline; margin-top: 5%"/>
+                <img class="img-fluid" src="/img/home/Camada-1.png" alt="..." style="height: 10%; display: inline;"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Recursos Humanos</b></h4>
-                <div class="text-justify padding equal-column fundo">
-                    <h6 style="padding-right: 5%; padding-left: 18%;">Salário / Honorários</h6> 
-                    <h6 style="padding-right: 5%; padding-left: 18%;">Gestão de contratos</h6> 
-                    <h6 style="padding-right: 5%; padding-left: 18%;">Processamento</h6> 
-                    <h6 style="padding-right: 5%; padding-left: 18%;">Operações financeiras</h6> 
+                <div class="text-center equal-column fundo">
+                    <h6>RH Até 20 Colaboradores</h6> 
+                    <h6>RH Até 100 Colaboradores</h6> 
+                    <h6>RH (Ilimitado)</h6> 
+                    <h6>Formação (Ilimitado)</h6> 
                 </div>
             </div>
         </div>
 
         <div class="row text-center" style="margin-left: 10%;">         
             <div class="col-lg-3 col-md-4">                         
-                <img class="img-fluid" src="/img/home/Camada-2.png" alt="..." style="height: 10%; display: inline; margin-top: 5%"/>
+                <img class="img-fluid" src="/img/home/Camada-2.png" alt="..." style="height: 10%; display: inline;"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Equipamentos e activos</b></h4>
-                <div class="text-justify padding equal-column fundo">
-                    <h6 style="padding-left: 35%;">Activos</h6> 
+                <div class="text-center equal-column fundo">
+                    <h6>Activos</h6> 
                 </div>
             </div>
 
@@ -157,30 +160,30 @@
                 <img class="img-fluid" src="/img/home/Camada-4.png" alt="..." style="height: 13%; display: inline"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Projectos/Serviços</b></h4>
-                <div class="text-justify equal-column fundo" style="margin-left: 5%; margin-right: 8%; padding-top: 5%">
-                    <h6 style="padding-top: 5%; padding-right: 10%; padding-left: 18%;">Serviços Técnicos</h6> 
-                    <h6 style="padding-right: 10%; padding-left: 18%;">Projetos/Obras</h6>
+                <div class="text-center equal-column fundo">
+                    <h6>Serviços Técnicos</h6> 
+                    <h6>Projetos/Obras</h6>
                 </div>
             </div>
 
             <div class="col-lg-3 col-md-4">                          
-                <img class="img-fluid" src="/img/home/Camada-1.png" alt="..." style="height: 10%; display: inline; margin-top: 5%"/>
+                <img class="img-fluid" src="/img/home/Camada-1.png" alt="..." style="height: 10%; display: inline;"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Instrumentos de Gestão</b></h4>
-                <div class="text-justify padding equal-column fundo">
-                    <h6 style="padding-right: 5%; padding-left: 10%;">Controlo Financeiro de Projetos</h6> 
-                    <h6 style="padding-right: 5%; padding-left: 10%;">Gestão De Contratos</h6> 
+                <div class="text-center equal-column fundo">
+                    <h6>Controlo Financeiro de Projetos</h6> 
+                    <h6>Gestão De Contratos</h6> 
                 </div>
             </div>
         </div>
 
         <div class="row text-center" style="margin-left: 10%;">         
             <div class="col-lg-3 col-md-4">                         
-                <img class="img-fluid" src="/img/home/Camada-2.png" alt="..." style="height: 10%; display: inline; margin-top: 5%"/>
+                <img class="img-fluid" src="/img/home/Camada-2.png" alt="..." style="height: 10%; display: inline;"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Relatórios</b></h4>
-                <div class="text-justify padding equal-column fundo">
-                    <h6 style="padding-left: 22%;">Dashboards de Gestão</h6> 
+                <div class="text-center equal-column fundo">
+                    <h6>Dashboards de Gestão</h6> 
                 </div>
             </div>
 
@@ -188,25 +191,25 @@
                 <img class="img-fluid" src="/img/home/Camada-4.png" alt="..." style="height: 13%; display: inline"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>ERM</b></h4>
-                <div class="text-justify equal-column fundo" style="margin-left: 5%; margin-right: 8%; padding-top: 5%">
-                    <h6 style="padding-top: 1%; padding-right: 5%; padding-left: 18%;">Contactos, OPV, Cobranças</h6> 
+                <div class="text-center equal-column fundo">
+                    <h6>Contactos, OPV, Cobranças</h6> 
                 </div>
             </div>
         </div>
                 
     </div>
 
-    <div style="background-color: white; height: 650px; position: relative; padding: 0% 0%">
+    <div style="background-color: white; height: 650px; position: relative;">
             
-        <div class="padding" style="display: flex;">
+        <div style="display: flex;">
             
-            <div style="flex: 1; text-align: -webkit-center; padding-top: 1%;">
+            <div style="flex: 1; text-align: -webkit-center;">
                 <img class="img-fluid" src="/img/starter/221.png" alt="..." style="width: 75%"/>  
             </div>
 
-            <div style="flex: 1; text-align: -webkit-left; padding-left: 7%; padding-top: 12.5%;">
+            <div style="flex: 1; text-align: -webkit-left; padding-top: 9.5%;">
                 <p style="font-size: 35px; color: black;"><b>Inteligência Artificial</b></p> 
-                <p style="font-size: 20px; color: black;">
+                <p style="font-size: 20px; color: black; padding-right: 45%">
                     O ECHO é o assistente pessoal de negócios que trabalha por si, de forma autónoma e contínua, 
                     analisando permanentemente os dados do ERP PRIMAVERA para verificar padrões, analisar dados 
                     e dinâmicas de negócio e correlacionálos , de forma a alertar para incongruências de dados 
@@ -218,22 +221,22 @@
         
     </div>  
 
-    <div class="container" style="background-color: white; height: 450px; position: relative; padding: 0% 0%">
+    <div class="container" style="background-color: white; height: 550px; position: relative;">
         
-        <div style="flex: 1; text-align: -webkit-left; padding-left: 7%; padding-top: 2.5%;">
-            <p style="font-size: 35px; color: black;"><b>Impulsione a preformance da sua empresa</b></p> 
-            <p style="font-size: 20px; color: black;">
+        <div style="flex: 1; text-align: -webkit-center; padding-top: 10%;">
+            <p style="font-size: 30px; color: black;"><b>Impulsione a preformance da sua empresa</b></p> 
+            <p style="font-size: 20px; color: black; text-align: -webkit-center; padding: 0 11%;">
                 O erp primavera executive é uma solução global de gestão que fortalece a performance das organizações 
                 de grande dimensão, destacando-se pela:
             </p> 
 
-            <ul style="text-align: left">
-                <li style="padding-top: 1%">Profunda capacidade de adaptação com baixos custos de customização</li>
-                <li style="padding-top: 1%">Integração de todos os processos de negócio</li>
-                <li style="padding-top: 1%">Rápida resposta à fiscalidade</li>
-                <li style="padding-top: 1%">Atualização contínua</li>
-                <li style="padding-top: 1%">Facilidade de obtenção de informação consolidada do negócio</li>
-                <li style="padding-top: 1%">Simplicidade e rapidez de reporting</li>
+            <ul style="text-align: left;">
+                <li style="padding-top: 1%; font-size: 16px;">Profunda capacidade de adaptação com baixos custos de customização</li>
+                <li style="padding-top: 1%; font-size: 16px;">Integração de todos os processos de negócio</li>
+                <li style="padding-top: 1%; font-size: 16px;">Rápida resposta à fiscalidade</li>
+                <li style="padding-top: 1%; font-size: 16px;">Atualização contínua</li>
+                <li style="padding-top: 1%; font-size: 16px;">Facilidade de obtenção de informação consolidada do negócio</li>
+                <li style="padding-top: 1%; font-size: 16px;">Simplicidade e rapidez de reporting</li>
             </ul>
 
         </div>
@@ -270,14 +273,13 @@
     
     <div style="height: 900px; position: relative;">        
         <div class="container padding">
-            <p class="text-center" style="font-size:30px;  word-spacing: 10px; padding-top: 6%; color: blue">
+            <h3 class="text-center" style="word-spacing: 10px; padding-top: 6%; color: blue;">
                 <b>Acesso Ao Primavera Executive</b> 
-            </p>  
+            </h3>  
 
-            <div style="flex: 1; text-align: -webkit-left; padding-top: 3%;">
-                <p style="font-size: 35px; color: black;"><b>TENHA ACESSO AO PRIMAVERA PROFESSIONAL</b></p> 
-                <b>On-premises</b><br>
-                <p style="font-size: 20px; color: black;">
+            <div style="flex: 1; text-align: -webkit-left; padding-top: 3%;"> 
+                <p style="font-size: 23px; color: black;">
+                    <b>On-premises</b><br>
                     Obtenha uma licença perpétua de utilização da solução. 
                     <br><br>Aceda à sua solução de gestão na modalidade mais 
                     convencional: On-premises. Com esta modalidade terá acesso a uma licença perpétua de utilização do software. 
@@ -285,18 +287,16 @@
                     Continuity Software Agreement (CSA). Com o CSA tem garantias de usufruir sempre das últimas novidades 
                     tecnológicas, e de acompanhar a evolução legal e fiscal em diversos mercados, a um custo controlado e 
                     competitivo. 
-                </p>
-                <b>Subscrição Anual</b><br> 
-                <p style="font-size: 20px; color: black;">
+                </p> 
+                <p style="font-size: 23px; color: black;">
+                    <b>Subscrição Anual</b><br>
                     Obtenha uma licença de subscrição anual para dois 2 utilzadores inicialmente. 
                 </p>  
             </div>   
             
-            <div class="botao_2 btn-center botao_cor" style="text-align: -webkit-center;">
-                <a href="#" style="color: white; position: relative; display: flex; justify-content: center;">
-                    Estou Interessado/a
-                </a>
-            </div>
+            <a href="#" class="botao_2 btn-center botao_cor" style="color: white; position: relative; display: flex; justify-content: center;">
+                Obter esta solução
+            </a>
 
         </div>        
     </div>

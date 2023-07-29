@@ -91,25 +91,25 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <p style="font-size: 50px; color: white" class="padding">FAÇA PARTE DA NOSSA FAMÍLIA</p>
+                <h3 style="font-size: 45px; color: white" class="padding"><b>FAÇA PARTE DA NOSSA FAMÍLIA</b></h3>
                 <p style="font-size: 30px; color: white" class="padding" hidden>Com esta solução as contas estão sempre em dia</p>
             </div>
         </div>
         
     </div>
 
-    <div style="background-color: #d5d5d5;">
+    <div style="background-color: #f6f6f6;">
 
-        <div class="text-center" style="padding-top: 5%">
+        <div style="text-align: -webkit-center; padding-top: 5%;">
             <p style="font-size: 40px; color: blue">
-                <b>Termos e condições do site</b>
+                <b>BEM-VINDO(A) À ITANGOLA</b>
             </p>
-            <img src="/img/Logo_IT.png" alt="Slide 1" style="text-align: -webkit-center; width: 65%">            
+            <img src="/img/Logo_IT.png" alt="Slide 1" style="padding: 3% 0; width: 25%">            
         </div> 
         
-        <div class="text-left" style="padding: 2% 15%"> 
+        <div class="text-left" style="padding: 2% 13%"> 
             <p style="font-size: 25px; color: black">
-                <b>Por que trabalhar connosco?</b>
+                <b>Por que trabalhar connosco?</b><br>
                 A IT-ANGOLA é uma empresa líder no setor de tecnologia de gestão empresarial e oferece uma série de benefícios aos 
                 seus colaboradores. Nós valorizamos o talento, o crescimento profissional e o trabalho em equipe. Aqui estão alguns 
                 motivos para você fazer parte da nossa equipe: 
@@ -122,18 +122,18 @@
             </p>  
 
             <p style="font-size: 25px; color: black">
-                <b>2. Oportunidades de Crescimento</b>
+                <br><b>2. Oportunidades de Crescimento</b>
                 Acreditamos no crescimento profissional dos nossos colaboradores. Oferecemos programas de treinamento e 
                 desenvolvimento, além de oportunidades de ascensão na carreira. 
             </p>  
             <p style="font-size: 25px; color: black">
-                <b>3. Trabalho em Equipe Unida</b>
+                <br><b>3. Trabalho em Equipe Unida</b>
                 A nossa equipe é unida e colaborativa. Valorizamos a diversidade, a troca de ideias e o trabalho em conjunto para 
                 alcançar objetivos comuns.
             </p> 
 
             <p style="font-size: 25px; color: black">
-                <b>4. Cultura Organizacional Forte</b>
+                <br><b>4. Cultura Organizacional Forte</b>
                 Nossos valores fundamentam a cultura da empresa. Priorizamos a ética, a transparência, a responsabilidade social e o 
                 respeito mútuo.
             </p>      
@@ -143,7 +143,7 @@
     
     <div style="background-color:rgb(99, 98, 98); padding-bottom:5%;">
         
-        <div class="text-center" style="color:white; padding-top: 5%;">  
+        <div class="text-center" style="color:white; padding-top: 5%;" id="recrutamento">  
             <h4 style="font-size: 40px;"> CANDIDATURA </h4>
         </div>  
 

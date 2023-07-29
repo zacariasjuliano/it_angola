@@ -15,22 +15,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/starter', function () {
-    return view('starter.home');
-});
-
-Route::get('/starter-plus', function () {
-    return view('starter.plus');
-});
-
-Route::get('/primavera/starter', function () {
-    return view('primavera.starter');
-});
-
-Route::get('/primavera/starter-easy', function () {
-    return view('primavera.starter-easy');
-});
-
 Route::get('/primavera/pro-lite', function () {
     return view('primavera.pro-lite');
 });
@@ -45,18 +29,6 @@ Route::get('/primavera/proficional', function () {
 
 Route::get('/primavera/executive', function () {
     return view('primavera.executive');
-});
-
-Route::get('/solucoes/tlim', function () {
-    return view('solucoes.tlim');
-});
-
-Route::get('/solucoes/pssst', function () {
-    return view('solucoes.pssst');
-});
-
-Route::get('/solucoes/manufacturing', function () {
-    return view('solucoes.manufacturing');
 });
 
 Route::get('/academy', function () {
@@ -106,3 +78,43 @@ Route::get('/familia', function () {
 Route::get('/blog', function () {
     return view('pages.blog-empresarial');
 });
+
+Route::get('/solucoes/tlim', function () {
+    return view('solucoes.tlim');
+});
+
+Route::get('/solucoes/pssst', function () {
+    return view('solucoes.pssst');
+});
+
+Route::get('/solucoes/manufacturing', function () {
+    return view('solucoes.manufacturing');
+});
+
+Route::get('/blog', function () {
+    return view('blog.blog');
+});
+
+Route::get('/blog/post', function () {
+    return view('blog.post');
+});
+
+
+
+/*
+Route::get('/starter', function () {
+    return view('starter.home');
+});
+
+Route::get('/starter-plus', function () {
+    return view('starter.plus');
+});
+
+Route::get('/primavera/starter', function () {
+    return view('primavera.starter');
+});
+
+Route::get('/primavera/starter-easy', function () {
+    return view('primavera.starter-easy');
+});
+*/

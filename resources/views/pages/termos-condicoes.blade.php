@@ -91,90 +91,102 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <p style="font-size: 50px; color: white" class="padding">TERMOS E CONDIÇÕES</p>
+                <h3 style="font-size: 50px; color: white" class="padding"><b>TERMOS E CONDIÇÕES</b></h3>
                 <p style="font-size: 30px; color: white" class="padding" hidden>Com esta solução as contas estão sempre em dia</p>
             </div>
         </div>
         
     </div>
 
-    <div style="background-color: #d5d5d5;">
+    <div style="background-color: #f2f0f0;">
 
-        <div class="text-center" style="padding-top: 5%">
-            <p style="font-size: 40px; color: blue">
+        <div style="padding-top: 5%">
+            <p class="text-center" style="font-size: 40px; color: blue">
                 <b>Termos e condições do site</b>
             </p>
-            <p style="font-size: 25px; color: black">
+            <p style="font-size: 25px; color: black; padding: 1% 10%;">
                 Bem-vindo ao site www.it-angola.com. Ao acessar e utilizar este site, você concorda em cumprir os seguintes 
                 termos e condições. Por favor, leia-os cuidadosamente antes de utilizar nosso site.
             </p>           
         </div> 
         
-        <div class="text-left" style="padding: 2% 15%"> 
-            <p style="font-size: 25px; color: black">
-                1. Uso do Site 1.1 Ao acessar e utilizar o site www.it-angola.com, você concorda em utilizá-lo apenas para 
-                fins legais e de acordo com todas as leis e regulamentações aplicáveis. Você não deve usar o site de forma 
-                que possa prejudicar, desabilitar, sobrecarregar ou comprometer a segurança do site ou interferir no seu 
-                uso por terceiros. 
-            </p>
-            
-            <p style="font-size: 25px; color: black">
-                2. Propriedade Intelectual 2.1 O site www.it-angola.com e todo o seu conteúdo, incluindo textos, imagens, 
-                gráficos, logotipos, ícones, áudio, vídeo e software, são protegidos por leis de direitos autorais, marcas 
-                comerciais e outras leis de propriedade intelectual. 
-            </p>  
+        <div class="text-left" style="padding: 3% 11% 9% 11%"> 
 
-            <p style="font-size: 25px; color: black">
-                2.2 Todos os direitos de propriedade intelectual relacionados ao site e seu conteúdo pertencem ao IT Angola 
-                ou aos seus licenciadores. Você não tem permissão para reproduzir, distribuir, modificar, exibir publicamente, 
-                executar publicamente, transmitir ou utilizar de qualquer outra forma o conteúdo do site sem a autorização 
-                prévia por escrito da IT Angola. 
-            </p>  
-            <p style="font-size: 25px; color: black">
-                3. Links para Sites de Terceiros 3.1 O site www.it-angola.com pode conter links para sites de terceiros. 
-                Esses links são fornecidos apenas para sua conveniência e não implicam em endosso ou garantia do IT Angola 
-                em relação ao conteúdo desses sites de terceiros.
-            </p> 
+            <ol style="list-style-position: outside; list-style-position: outside;">
+                <li style="font-size: 20px; padding-left: 40px;">
+                    Uso do Site 1.1 Ao acessar e utilizar o site www.it-angola.com, você concorda em utilizá-lo apenas para 
+                    fins legais e de acordo com todas as leis e regulamentações aplicáveis. Você não deve usar o site de forma 
+                    que possa prejudicar, desabilitar, sobrecarregar ou comprometer a segurança do site ou interferir no seu 
+                    uso por terceiros.
 
-            <p style="font-size: 25px; color: black">
-                3.2 A IT Angola não tem controle sobre os sites de terceiros e não se responsabiliza pelo conteúdo, práticas 
-                de privacidade ou qualquer outra atividade desses sites. Recomendamos que você leia os termos e condições e a 
-                política de privacidade de qualquer site de terceiros que você acessar através de links fornecidos em nosso site.
-            </p> 
-            <p style="font-size: 25px; color: black">
-                4. Limitação de Responsabilidade 4.1 A IT Angola se esforça para fornecer informações precisas e atualizadas em 
-                seu site, mas não oferece garantias quanto à precisão, integridade ou atualidade dessas informações. O uso do 
-                site é por sua conta e risco.
-            </p> 
-            <p style="font-size: 25px; color: black">
-                4.2 Em nenhuma circunstância a IT Angola será responsável por quaisquer danos diretos, indiretos, incidentais, 
-                consequenciais ou punitivos decorrentes do uso ou da incapacidade de usar o site ou do acesso não autorizado 
-                ou alteração de suas transmissões ou dados.
-            </p> 
+                    <p style="font-size: 20px; color: black">
+                        1.2 Você é responsável por garantir que todas as informações fornecidas por você sejam precisas, atualizadas e 
+                        completas. Você concorda em não fornecer informações falsas ou enganosas neste site. 
+                    </p>
+                </li>
+                <br>
 
-            <p style="font-size: 25px; color: black">
-                5. Modificações dos Termos e Condições 5.1 a IT Angola se reserva o direito de modificar ou atualizar estes termos 
-                e condições a qualquer momento, sem aviso prévio. As alterações entrarão em vigor imediatamente após sua publicação 
-                no site.
-            </p> 
+                <li style="font-size: 20px; padding-left: 40px;">
+                    Propriedade Intelectual 2.1 O site www.it-angola.com e todo o seu conteúdo, incluindo textos, imagens, 
+                    gráficos, logotipos, ícones, áudio, vídeo e software, são protegidos por leis de direitos autorais, marcas 
+                    comerciais e outras leis de propriedade intelectual
+                    <p style="font-size: 20px; color: black">
+                        2.2 Todos os direitos de propriedade intelectual relacionados ao site e seu conteúdo pertencem ao IT Angola 
+                        ou aos seus licenciadores. Você não tem permissão para reproduzir, distribuir, modificar, exibir publicamente, 
+                        executar publicamente, transmitir ou utilizar de qualquer outra forma o conteúdo do site sem a autorização 
+                        prévia por escrito da IT Angola. 
+                    </p>
+                </li>
+                <br>
 
-            <p style="font-size: 25px; color: black">
-                5.2 É responsabilidade do usuário revisar regularmente estes termos e condições para estar ciente de quaisquer 
-                modificações. O uso contínuo do site após a publicação de alterações constitui aceitação dessas alterações.
-            </p> 
+                <li style="font-size: 20px; padding-left: 40px;">
+                    Links para Sites de Terceiros 3.1 O site www.it-angola.com pode conter links para sites de terceiros. 
+                    Esses links são fornecidos apenas para sua conveniência e não implicam em endosso ou garantia do IT Angola 
+                    em relação ao conteúdo desses sites de terceiros.
+                    <p style="font-size: 20px; color: black">
+                        3.2 A IT Angola não tem controle sobre os sites de terceiros e não se responsabiliza pelo conteúdo, práticas 
+                        de privacidade ou qualquer outra atividade desses sites. Recomendamos que você leia os termos e condições e a 
+                        política de privacidade de qualquer site de terceiros que você acessar através de links fornecidos em nosso site.
+                    </p> 
+                </li>
+                <br>
 
-            <p style="font-size: 25px; color: black">
-                6. Lei Aplicável 6.1 Estes termos e condições são regidos e interpretados de acordo com as leis da República de Angola.
-            </p> 
-            
-            <p style="font-size: 25px; color: black">
-                6.2 Qualquer disputa decorrente ou relacionada ao uso do site www.it-angola.com será submetida à jurisdição exclusiva 
-                dos tribunais da República de Angola. <br>Ao utilizar o site www.it-angola.com, você concorda com estes termos e 
-                condições. Se você não concorda com estes termos, por favor, não utilize o site.
-            </p>        
-        </div>
-                
+                <li style="font-size: 20px; padding-left: 40px;"> 
+                    Limitação de Responsabilidade 4.1 A IT Angola se esforça para fornecer informações precisas e atualizadas em 
+                    seu site, mas não oferece garantias quanto à precisão, integridade ou atualidade dessas informações. O uso do 
+                    site é por sua conta e risco.
+
+                    <p style="font-size: 20px; color: black">
+                        4.2 Em nenhuma circunstância a IT Angola será responsável por quaisquer danos diretos, indiretos, incidentais, 
+                        consequenciais ou punitivos decorrentes do uso ou da incapacidade de usar o site ou do acesso não autorizado 
+                        ou alteração de suas transmissões ou dados.
+                    </p>
+                </li>
+                <br>
+
+                <li style="font-size: 20px; padding-left: 40px;">
+                    Modificações dos Termos e Condições 5.1 a IT Angola se reserva o direito de modificar ou atualizar estes termos 
+                    e condições a qualquer momento, sem aviso prévio. As alterações entrarão em vigor imediatamente após sua publicação 
+                    no site. 
+                    <p style="font-size: 20px; color: black">
+                        5.2 É responsabilidade do usuário revisar regularmente estes termos e condições para estar ciente de quaisquer 
+                        modificações. O uso contínuo do site após a publicação de alterações constitui aceitação dessas alterações.
+                    </p> 
+                </li>
+                <br>
+
+                <li style="font-size: 20px; padding-left: 40px;">
+                    Lei Aplicável 6.1 Estes termos e condições são regidos e interpretados de acordo com as leis da República de Angola. 
+                    <p style="font-size: 20px; color: black">
+                        6.2 Qualquer disputa decorrente ou relacionada ao uso do site www.it-angola.com será submetida à jurisdição exclusiva 
+                        dos tribunais da República de Angola. <br>Ao utilizar o site www.it-angola.com, você concorda com estes termos e 
+                        condições. Se você não concorda com estes termos, por favor, não utilize o site.
+                    </p>
+                </li>
+            </ol> 
+                    
+        </div>                
     </div>    
 
         
-@endsection
+@endsecti

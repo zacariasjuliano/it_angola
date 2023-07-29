@@ -24,7 +24,7 @@
             background-color: white;
             border-radius: 55px;
             width: 500px;
-            height: 70px;
+            height: 73px;
         }
         .botao_cor {
             background-color: #0f0034; 
@@ -79,14 +79,14 @@
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
                 <img hidden src="/img/starter/starter.png" alt="Slide 1" class="padding"> 
-                <p style="font-size:50px; color: white" class="padding"><b>PRIMAVERA PRO LITE</b></p>
-                <p style="font-size: 30px; color: white" class="padding">Rigor na gestão financeira</p>
+                <h3 style="font-size:50px; color: white" class="padding"><b>PRIMAVERA PRO PLUS</b></h3>
+                <p style="font-size: 30px; color: white" class="padding">O segredo da gestão sólida <br>dos pequenos negócios</p>
             </div>
         </div>
         
     </div>
 
-    <div style="margin-bottom: 5%; margin-top: 3%">
+    <div style="margin-bottom: 1.5%; margin-top: 6%">
 
         <div class="text-center">
             <p style="font-size: 50px; color: black">
@@ -95,29 +95,23 @@
         </div> 
 
         <div class="container" style="padding-top: 2.5%">
-            <div class="row" style="border-radius: 0px; border: 1px solid #000; justify-content: space-between">
-                <a href="#" class="col-2 text-center menu_activo" style="max-width: 15%; color: #131212">  
-                    <b>Módulos</b>        
-                </a>
-                <a href="#" class="col-2 text-center" style="max-width: 15%; color: #131212">  
-                    <b>VENDAS</b>        
-                </a>
-                <a href="#" class="col-2 text-center" style="max-width: 15%; color: #131212">  
-                    <b>INVENTÁRIOS</b>        
-                </a>
-                <a href="#" class="col-2 text-center" style="max-width: 15%; color: #131212">  
-                    <b>BANCOS</b>        
-                </a>    
-                <a href="#" class="col-4 text-center" style="max-width: 18%; color: #131212">  
-                    <b>CONTAS CORRENTES</b>       
-                </a>
-                <a href="#" class="col-2 text-center" style="max-width: 15%; color: #131212">  
-                    <b>ENCOMENDAS</b>        
-                </a>       
-            </div>         
+            <table class="table table-bordered" style="border-radius: 25px ;">
+                <thead style="background-color: white">
+                    <tr>
+                        <th style="color: blue;">VENDAS</th>
+                        <th style="color: blue;">INVENTÁRIOS</th>
+                        <th style="color: blue;">BANCOS</th>
+                        <th style="color: blue;">CONTAS CORRENTES</th>
+                        <th style="color: blue;">ENCOMENDAS</th>
+                        <th style="color: blue;">COMPRAS</th>
+                        <th style="color: blue;">CONTABILIDADE</th>
+                        <th style="color: blue;">RECURSOS HUMANOS</th>
+                    </tr>
+                </tbody>
+            </table>        
         </div>
         
-        <div class="text-left" style="padding: 2% 15%"> 
+        <div class="text-left" style="padding: 2% 6.5%"> 
             <p style="font-size: 25px; color: black">
                 A solução Primavera Pro Plus é um produto mono-empresa e o seu licenciamento está limitado a 6 utilizadores. 
                 No módulo de Recursos Humanos, disponível na oferta Pro Plus, há um segundo nível de licenciamento por número 
@@ -128,7 +122,7 @@
     </div>
     
 
-    <div style="margin-bottom: 5%; margin-top: 1%;">
+    <div style="margin-bottom: 5%;">
 
         <div style="padding: 1.5% 7%">        
             <div class="card-deck mb-3" >
@@ -216,7 +210,7 @@
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: -1px; margin-right: -1px;">
+                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: -6px; margin-right: -1px;">
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Encomendas
                     </p> 
@@ -242,9 +236,9 @@
                 <img class="img-fluid" src="/img/starter/208-min.png" alt="..." style="width: 75%"/>  
             </div>
 
-            <div style="flex: 1; text-align: -webkit-left; padding-left: 7%; padding-top: 10%; ">
+            <div style="flex: 1; text-align: -webkit-left; padding-left: 3%; padding-top: 9%;">
                 <p style="font-size: 35px; color: black;"><b>Renovação e fim de contrato</b></p> 
-                <p style="font-size: 20px; color: black;">
+                <p style="font-size: 20px; color: black;  padding-right: 43%;">
                     No que respeita à gestão de contratos de trabalho, torna-se tudo muito mais rápido e assertivo. 
                     A solução simplifica toda a gestão contratual: desde o controlo dos períodos experimentais, passando 
                     pela renovação e fins de contrato.
@@ -255,13 +249,13 @@
         
     </div>
     
-    <div style="height: 750px; position: relative; padding: 0% 0%">
+    <div style="height: 860px; position: relative; padding: 0% 0%">
             
         <div class="padding" style="display: flex;">
 
-            <div style="flex: 1; text-align: -webkit-left; padding-left: 7%; padding-top: 10%; ">
+            <div style="flex: 1; text-align: -webkit-left; padding-top: 13%; padding-left: 7%;">
                 <p style="font-size: 35px; color: black;"><b>Formação de colaboradores</b></p> 
-                <p style="font-size: 20px; color: black;">
+                <p style="font-size: 20px; color: black; padding-right: 20%;">
                     A gestão da formação é outra das preocupações do departamento de gestão de Recursos Humanos, mas só é uma 
                     preocupação se não tiver suporte tecnológico. Esta solução identifica facilmente as necessidades de formação 
                     dos colaboradores, de acordo com os requisitos de cada cargo, e suporta todos os processos de formação de 
@@ -269,8 +263,8 @@
                 </p>  
             </div>
             
-            <div style="flex: 1; text-align: -webkit-center;">
-                <img class="img-fluid" src="/img/starter/204-min.png" alt="..." style="width: 75%"/>  
+            <div style="flex: 1; text-align: -webkit-center; padding-top: 7%; padding-right: 5%;">
+                <img class="img-fluid" src="/img/starter/204-min.png" alt="..." style="width: 75%;"/>  
             </div>
             
         </div>
@@ -282,9 +276,9 @@
         <div class="container" style="max-width: 1400px;">
             
             <div class="padding" style="display: flex;">
-                <div style="flex: 1; padding-top: 15%;">
+                <div style="flex: 1; padding-top: 10%;">
                     <p style="font-size: 35px; color: black; text-align: -webkit-center; "><b>Dinamismo e crescimento no seu negócio</b></p> 
-                    <p style="font-size: 20px; color: black; text-align: -webkit-left; padding-left: 20%">
+                    <p style="font-size: 23px; color: black; text-align: -webkit-left; padding-left: 20%">
                         Libertar-se do trabalho administrativo de gestão dos recursos humanos 
                         <br>Acelere as vendas com ferramentas simples de gestão de Caixa
                         <br>Gestão de Tesouraria 
@@ -302,7 +296,6 @@
         </div>
         
     </div>
-
     
     <div style="height: 790px; position: relative; padding: 5% 0%; background-color: #e1e1e1;">
             
@@ -313,8 +306,8 @@
             </div>
 
             <div style="flex: 1; text-align: -webkit-left; padding-top: 10%;">
-                <p style="font-size: 35px; color: black;"><b>Informação financeira para tomar decisões acertivas</b></p> 
-                <p style="font-size: 20px; color: black;">
+                <p style="font-size: 35px; color: black; padding-right: 47%;"><b>Informação financeira para tomar decisões acertivas</b></p> 
+                <p style="font-size: 20px; color: black; padding-right: 40%;">
                     A solução PRO PLUS permite-lhe gerir de forma automática os processos operacionais de contabilidade, recursos humanos, 
                     vendas, compras, inventário, gestão de stocks, caixa, stock, e acima de tudo, dá-lhe ferramentas de análises 
                     operacional que lhe permitirão tomar melhores decisões.
@@ -327,7 +320,7 @@
     
     <div style="height: 480px; position: relative;">        
         <div class="container padding">
-            <p class="text-center" style="font-size:30px;  word-spacing: 10px; padding-top: 6%; color: black">
+            <p class="text-center" style="font-size:35px;  word-spacing: 10px; padding-top: 6%; color: black">
                 <b>COMO TER ACESSO AO PRIMAVERA PRO LITE</b> 
             </p>  
 
@@ -336,11 +329,10 @@
                 o qual inclui atualizações de produto. 
             </p>   
             
-            <div class="botao_2 btn-center botao_cor" style="text-align: -webkit-center;">
-                <a href="#" style="color: white; position: relative; display: flex; justify-content: center;">
-                    Estou Interessado/a
-                </a>
-            </div>
+            
+            <a href="#" class="botao_2 btn-center botao_cor" style="text-align: -webkit-center; color: white; position: relative; display: flex; justify-content: center;">
+                Estou Interessado/a
+            </a>
 
         </div>        
     </div> 

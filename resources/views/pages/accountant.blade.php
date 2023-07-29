@@ -91,19 +91,19 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <p style="font-size: 50px; color: white" class="padding">ACCOUNTANT SUITE</p>
+                <h3 style="font-size: 50px; color: white" class="padding">ACCOUNTANT SUITE</h3>
                 <p style="font-size: 30px; color: white" class="padding">Com esta solução as contas estão sempre em dia</p>
             </div>
         </div>
         
     </div>
 
-    <div style="margin-bottom: 5%; margin-top: 3%">
+    <div style="margin-bottom: 5%; margin-top: 9%">
 
         <div class="text-center">
-            <p style="font-size: 50px; color: black">
+            <h5 style="font-size: 50px; color: black">
                 <b>Accountant Suite</b>
-            </p>            
+            </h5>            
         </div> 
         
         <div class="text-left" style="padding: 2% 15%"> 
@@ -124,28 +124,27 @@
 
 
     <div style="background-color: #98b2cb; height: 900px; position: relative; padding: 0% 0%">
-
         
         <p class="text-center" style="font-size: 35px; color: black; padding-top: 7%"><b>A Escolha de Milhares de Escritórios de Contabilidade</b></p> 
             
         <div class="padding" style="display: flex;">
             
             <div style="flex: 1; text-align: -webkit-center;">
-                <img class="img-fluid" src="/img/pages/236-min.png" alt="..." style="width: 70%"/>  
+                <img class="img-fluid" src="/img/pages/236-min.png" alt="..." style="width: 60%"/>  
             </div>
 
-            <div style="flex: 1; text-align: -webkit-left;">
-                <p style="font-size: 20px; color: black;">
+            <div style="flex: 1; text-align: -webkit-left; padding-right: 7%">
+                <p style="font-size: 25px; color: black;">
                     Garanta rapidez e segurança nas operações contabilísticas e financeiras
-                    <br>Processe salários em lote, de forma rápida e sem erros
-                    <br>Acelere o cumprimento das obrigações legais e fiscais
-                    <br>Simplifique a gestão de contratos de vínculo
-                    <br>Agilize a gestão dos bens de imobilizado
-                    <br>Sistematize os processos de faturação recorrentes
-                    <br>Aumente a eficiência na gestão das compras
-                    <br>Elimine a carga administrativa com a faturação eletrónica
-                    <br>Obtenha inputs do sistema que garantem mais produtividade
-                    <br>Aceda a relatórios de gestão sempre atualizados
+                    <br><br>Processe salários em lote, de forma rápida e sem erros
+                    <br><br>Acelere o cumprimento das obrigações legais e fiscais
+                    <br><br>Simplifique a gestão de contratos de vínculo
+                    <br><br>Agilize a gestão dos bens de imobilizado
+                    <br><br>Sistematize os processos de faturação recorrentes
+                    <br><br>Aumente a eficiência na gestão das compras
+                    <br><br>Elimine a carga administrativa com a faturação eletrónica
+                    <br><br>Obtenha inputs do sistema que garantem mais produtividade
+                    <br><br>Aceda a relatórios de gestão sempre atualizados
                 </p>  
             </div>
             
@@ -156,13 +155,13 @@
 
     <div style="margin-bottom: 5%; margin-top: 3%">
 
-        <div class="text-center">
-            <p style="font-size: 30px; color: black">
+        <div class="text-center" style="text-align: -webkit-center;">
+            <h5 style="font-size: 30px; color: black">
                 <b>COMO TER ACESSO A ESTA SOLUÇÃO</b>
-            </p>            
+            </h5>            
         </div> 
         
-        <div class="text-left" style="padding: 2% 15%"> 
+        <div class="text-center" style="padding: 2% 0%;"> 
             <p style="font-size: 20px; color: black">
                 São aceites encomendas de empresas ou pessoas singulares que estejam inscritas na OCPCA. 
             </p>             

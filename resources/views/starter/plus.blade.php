@@ -33,18 +33,17 @@
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
-            margin-top: 5%; 
+            margin-top: 0%; 
         }
         .circle3 {
             width: 314px;
             height: 5%;
             position: absolute;
-            top: 449.5%;
+            top: 463.8%;
             left: 51%;
             border-radius: 12.5% 12.5% 0 0;
             transform: skewY(0deg);
         }
-
         .carousel-center-text {
             position: absolute;
             top: 52%;
@@ -58,6 +57,12 @@
             color: black;
             border-radius: 25px 0 0 25px;  
             transform: skewY(0deg);
+        }        
+        ::marker {
+            color: blue;
+        }
+        .altura {
+            padding-top: 0.5%;
         }
     </style>
 
@@ -72,8 +77,8 @@
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
                 <img src="img/starter/starter.png" alt="Slide 1" class="padding"> 
-                <p style="font-size:50px; color: white" class="padding"><b>PRIMAVERA STARTER PLUS</b></p>
-                <p style="font-size: 30px; color: white" class="padding">A chave para o crescimento sustentável do seu negócio</p>
+                <h3 style="font-size:50px; color: white" class="padding"><b>PRIMAVERA STARTER PLUS</b></h3>
+                <p style="font-size: 25px; color: white" class="padding">A chave para o crescimento sustentável do seu negócio</p>
             </div>
         </div>
         
@@ -87,27 +92,27 @@
             </p>            
         </div> 
 
-        <div class="container" style="padding-top: 2.5%">
-            <div class="row" style="border-radius: 25px; border: 1px solid #000; justify-content: space-between">
-                <a href="#" class="col-2 text-center menu_activo" style="max-width: 14%; color: #131212">  
+        <div class="container" style="padding-top: 2.5%;">
+            <div class="row" style="border-radius: 25px; border: 1px solid #000; justify-content: space-between; height: 35px;">
+                <a href="#" class="col-2 text-center menu_activo altura" style="max-width: 14%; color: #131212;">  
                     <b>Módulos</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 13%; color: #131212">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 13%; color: #131212;">  
                     <b>VENDAS</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 14%; color: #131212">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 14%; color: #131212;">  
                     <b>INVENTÁRIOS</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 14%; color: #131212">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 14%; color: #131212;">  
                     <b>BANCOS</b>        
                 </a>    
-                <a href="#" class="col-4 text-center" style="max-width: 18%; color: #131212">  
+                <a href="#" class="col-4 text-center altura" style="max-width: 18%; color: #131212;">  
                     <b>CONTAS CORRENTES</b>       
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 14%; color: #131212">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 14%; color: #131212;">  
                     <b>ENCOMENDAS</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 13%; color: #131212">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 13%; color: #131212;">  
                     <b>COMPRAS</b>        
                 </a>        
             </div>         
@@ -177,30 +182,30 @@
                 
     </div>  
     
-    <div style="background-color: #3b00a2; height: 600px; position: relative;">        
+    <div style="background-color: #3b00a2; height: 650px; position: relative;">        
         <div class="container padding">
-            <p class="text-center" style="font-size:30px; color: white; word-spacing: 10px; padding-top: 3%">
+            <p class="text-center" style="font-size:35px; color: white; word-spacing: 10px; margin-top: 9%">
                 <b>Simplifique o esforço ao máximo</b> 
             </p>  
 
-            <p style="font-size:20px; color: white; word-spacing: 10px;">
+            <p style="font-size:25px; color: white; word-spacing: 10px;">
                 Deixe o seu negócio crescer. O PRIMAVERA Starter Plus impulsiona os pequenos negócios, para
                 que rapidamente alcancem grandes resultados. Simplifique ao máximo, com o mínimo esforço:
             </p>     
             
             <ul style="color: white; word-spacing: 10px">
-                <li style="font-size:18px;">Selecione fornecedores e efetue encomendas de forma simples e rápida</li>
-                <li style="font-size:18px;">Calcule as necessidades efetivas de compra automaticamente</li>
-                <li style="font-size:18px;">Obtenha mais eficiência na gestão de stocks e armazéns</li>
-                <li style="font-size:18px;">Controle facilmente as regras de preços</li>
-                <li style="font-size:18px;">Adquira mais rigor na gestão de Contas Correntes de clientes e fornecedores</li>
-                <li style="font-size:18px;">Cumpra, sem preocupações, todos os requisitos legais e fiscais</li>
-                <li style="font-size:18px;">Aceda a análises que auxiliam na condução do negócio</li>
+                <li style="font-size:22px;">Selecione fornecedores e efetue encomendas de forma simples e rápida</li>
+                <li style="font-size:22px;">Calcule as necessidades efetivas de compra automaticamente</li>
+                <li style="font-size:22px;">Obtenha mais eficiência na gestão de stocks e armazéns</li>
+                <li style="font-size:22px;">Controle facilmente as regras de preços</li>
+                <li style="font-size:22px;">Adquira mais rigor na gestão de Contas Correntes de clientes e fornecedores</li>
+                <li style="font-size:22px;">Cumpra, sem preocupações, todos os requisitos legais e fiscais</li>
+                <li style="font-size:22px;">Aceda a análises que auxiliam na condução do negócio</li>
             </ul>
         </div>        
     </div>
 
-    <div style="height: 400px; position: relative;">
+    <div style="height: 450px; position: relative;">
         
         <div class="container padding">
             <p class="text-center" style="font-size:30px; color: #ff6900; word-spacing: 10px; padding-top: 3%;">
@@ -222,7 +227,7 @@
     <div style="background-color: #3b00a2; height: 895px; position: relative;">
         
         <div class="container padding">
-            <p class="text-center" style="font-size:25px; color: white; word-spacing: 10px; padding-top: 3%;">
+            <p class="text-center" style="font-size: 30px; color: white; word-spacing: 10px; padding-top: 3%;">
                 <b>O que os clientes falam do Primavera Starter Plus</b> 
             </p>  
 
@@ -247,7 +252,6 @@
         </div>
         
     </div>
-
     
     <div style="background-color: #b2b2b2; height: 700px; position: center; padding-top: 4.5%">        
             
@@ -260,8 +264,8 @@
 
                 <hr style="width: 157%; color: black; border-top: 1.5px solid black; transform: translateX(-18%);">
 
-                <ul style="text-align: left">
-                    <li style="padding-top: 6%">3* utilizadores</li>
+                <ul style="text-align: left;">
+                    <li style="padding-top: 6%;">3* utilizadores</li>
                     <li style="padding-top: 6%">Limite de 3* Empresas</li>
                     <li style="padding-top: 6%">Suporte Remoto</li>
                     <li style="padding-top: 6%">Suporte Presencial</li>
@@ -271,7 +275,7 @@
 
                 <hr style="width: 157%; color: black; border-top: 1.5px solid black; transform: translateX(-18%);"> 
 
-                <div class="botao_2 btn-center  botao_cor">
+                <div class="botao_2 btn-center botao_cor">
                     <a href="#" style="color: white;">
                         Estou Interessado/a
                     </a>

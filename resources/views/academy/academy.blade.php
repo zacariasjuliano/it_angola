@@ -31,9 +31,9 @@
             display: flex; 
             justify-content: center; 
             align-items: center;
-            margin-bottom: 5%;
-            margin-top: 5%;
-            margin-left: 11%; 
+            /*margin-bottom: 1.5%;*/
+            /*margin-top: 1.5%;*/
+            margin-left: 19%; 
         }
                 
         .botao_3 {
@@ -88,6 +88,19 @@
             border-radius: 25px; 
 
         }
+        .curvas {
+            /*background-color: white;*/
+            /*border-radius: 25px;*/ 
+            border: 1px solid white;
+            border-radius: 55px;
+            padding-top: 1.5%;
+            padding-bottom: 1.5%;
+            padding-left: 2.5%;
+            /*
+            width: 350px;
+            height: 55px;
+            */
+        }
     </style>
 
 
@@ -101,7 +114,7 @@
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
                 <img hidden src="/img/solucoes/manufature.png" alt="Slide 1" class="padding"> 
-                <p style="font-size:50px; color: white" class="padding"><b>IT-ACADEMY</b></p>
+                <h3 style="font-size:50px; color: white" class="padding"><b>IT-ACADEMY</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">Formação do Software Cegid Erp Primavera</p>
             </div>
         </div>
@@ -139,10 +152,11 @@
                 <div class="card mb-4 padding panel_itens" style="margin-left: 0px; margin-right: 7px;">
                     <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%">
                         16 horas
-                    </p> <p class="text-center" style="font-size: 30px; color: white;">
+                    </p> 
+                    <h5 class="text-left curvas" style="font-size: 30px; color: white;">
                         RECURSOS HUMANOS
-                    </p>
-                    <p class="padding" style="font-size: 15px; color: white;">
+                    </h5>
+                    <p class="padding" style="font-size: 19px; color: white;">
                         Criação da Ficha do Funcionário;
                         <br>Processamentos;
                         <br>Recibos/Pagamentos;
@@ -153,7 +167,7 @@
                         <br>Outras Funcionalidades;
                     </p> 
 
-                    <div class="botao_2 botao_cor" style="background-color: #2680eb;">
+                    <div class="botao_2 botao_cor" style="background-color: #2680eb; margin-top:20%">
                         <a href="#" class="btn-center" style="color: white; font-size: 25px;">
                             Estou Interessado/a 
                         </a>
@@ -163,10 +177,11 @@
                 <div class="card mb-4 padding panel_itens" style="margin-left: 7px; margin-right: 7px;">
                     <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%">
                         16 horas
-                    </p> <p class="text-center" style="font-size: 30px; color: white;">
+                    </p> 
+                    <h5 class="text-left curvas" style="font-size: 30px; color: white;">
                         CONTABILIDADE
-                    </p>
-                    <p class="padding" style="font-size: 15px; color: white;">
+                    </h5>
+                    <p class="padding" style="font-size: 19px; color: white;">
                         Criação da Ficha do Funcionário;
                         <br>Introdução de Movimentos;
                         <br>Centros de Custo;
@@ -177,7 +192,7 @@
                         <br>Movimentos Diferidos
                     </p> 
 
-                    <div class="botao_2 botao_cor" style="background-color: #2680eb;">
+                    <div class="botao_2 botao_cor" style="background-color: #2680eb; margin-top:20%">
                         <a href="#" class="btn-center" style="color: white; font-size: 25px;">
                             Estou Interessado/a 
                         </a>
@@ -187,10 +202,11 @@
                 <div class="card mb-4 padding panel_itens" style="margin-left: 7px; margin-right: 0px;">
                     <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%">
                         16 horas
-                    </p> <p class="text-center" style="font-size: 30px; color: white;">
+                    </p> 
+                    <h5 class="text-left curvas" style="font-size: 30px; color: white;">
                         INVENTÁRIO
-                    </p>
-                    <p class="padding" style="font-size: 15px; color: white;">
+                    </h5>
+                    <p class="padding" style="font-size: 19px; color: white;">
                         Enquadramento;
                         <br>Processamentos;
                         <br>Dados Mestre;
@@ -202,7 +218,7 @@
                         <br>Mapas de Análise;
                     </p> 
 
-                    <div class="botao_2 botao_cor" style="background-color: #2680eb;">
+                    <div class="botao_2 botao_cor" style="background-color: #2680eb; margin-top:15%">
                         <a href="#" class="btn-center" style="color: white; font-size: 25px;">
                             Estou Interessado/a 
                         </a>
@@ -214,10 +230,11 @@
                 <div class="card mb-4 padding panel_itens" style="margin-left: 0px; margin-right: 7px;">
                     <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%">
                         8 horas
-                    </p> <p class="text-center" style="font-size: 30px; color: white;">
+                    </p> 
+                    <h5 class="text-left curvas" style="font-size: 30px; color: white;">
                         FINANÇAS
-                    </p>
-                    <p class="padding" style="font-size: 15px; color: white;">
+                    </h5>
+                    <p class="padding" style="font-size: 19px; color: white;">
                         Tesouraria;
                         <br>Pagamentos e Recebimentos;
                         <br>Gestão de Bancos/Caixa;
@@ -239,10 +256,11 @@
                 <div class="card mb-4 padding panel_itens" style="margin-left: 7px; margin-right: 7px;">
                     <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%">
                         8 horas
-                    </p> <p class="text-center" style="font-size: 30px; color: white;">
+                    </p> 
+                    <h5 class="text-left curvas" style="font-size: 30px; color: white;">
                         LOGÍSTICA
-                    </p>
-                    <p class="padding" style="font-size: 15px; color: white;">
+                    </h5>
+                    <p class="padding" style="font-size: 19px; color: white;">
                         Vendas;
                         <br>Ficha de Clientes;
                         <br>Artigos;
@@ -250,7 +268,7 @@
                         <br>Outros;
                     </p> 
 
-                    <div class="botao_2 botao_cor" style="background-color: #2680eb;">
+                    <div class="botao_2 botao_cor" style="background-color: #2680eb; margin-top:20%">
                         <a href="#" class="btn-center" style="color: white; font-size: 25px;">
                             Estou Interessado/a 
                         </a>
@@ -260,10 +278,11 @@
                 <div class="card mb-4 padding panel_itens" style="margin-left: 7px; margin-right: 0px;">
                     <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%">
                         8 horas
-                    </p> <p class="text-center" style="font-size: 30px; color: white;">
+                    </p> 
+                    <h5 class="text-left curvas" style="font-size: 30px; color: white;">
                         COMPRAS
-                    </p>
-                    <p class="padding" style="font-size: 15px; color: white;">
+                    </h5>
+                    <p class="padding" style="font-size: 19px; color: white;">
                         Ficha de Fornecedores;
                         <br>Artigos;
                         <br>Contas Correntes;
@@ -271,7 +290,7 @@
                         <br>Outros;
                     </p> 
 
-                    <div class="botao_2 botao_cor" style="background-color: #2680eb;">
+                    <div class="botao_2 botao_cor" style="background-color: #2680eb; margin-top:20%">
                         <a href="#" class="btn-center" style="color: white; font-size: 25px;">
                             Estou Interessado/a 
                         </a>
@@ -281,23 +300,17 @@
 
             <div class="card-deck mb-3">
                 <div class="card mb-4 padding" style="margin-left: 0px; margin-right: 7px;">
-                    <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%">
-                        
-                    </p> <p class="text-center" style="font-size: 30px; color: white;">
-                        
-                    </p>
-                    <p class="padding" style="font-size: 15px; color: white;">
-                        
-                    </p>  
+                     
                 </div>  
                 
                 <div class="card mb-4 padding panel_itens" style="margin-left: 7px; margin-right: 7px;">
                     <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%">
                         8 horas
-                    </p> <p class="text-center" style="font-size: 30px; color: white;">
+                    </p> 
+                    <h5 class="text-left curvas" style="font-size: 30px; color: white;">
                         EQUIPAMENTOS
-                    </p>
-                    <p class="padding" style="font-size: 15px; color: white;">
+                    </h5>
+                    <p class="padding" style="font-size: 19px; color: white;">
                         Criação da Ficha do Imobilizado;
                         <br>Identificação do Activo/Bem;;
                         <br>Centro de Custo;
@@ -312,15 +325,7 @@
                 </div>
 
                 <div class="card mb-4 padding" style="margin-left: 7px; margin-right: 0px;">
-                    <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%">
-                        
-                    </p> <p class="text-center" style="font-size: 30px; color: white;">
-                        
-                    </p>
-                    <p class="padding" style="font-size: 15px; color: white;">
-                        
-                    </p> 
-
+                    
                 </div>
             </div>
 
@@ -328,18 +333,18 @@
                 
     </div>
 
-    <div style="background-color: #042447; height: 950px; position: relative; padding: 0% 0%">
+    <div style="background-color: #042447; height: 980px; position: relative; padding: 0% 0%">
         
-        <div class="contanier" style="flex: 1; padding-top: 10%;">
+        <div class="contanier" style="flex: 1; padding-top: 7%;">
             <p style="font-size: 40px; color: white; text-align: -webkit-center;">
                 <b>Certificado + Bonus</b>
             </p>
-            <p class="padding" style="font-size: 25px; color: white; text-align: -webkit-center;">
+            <p class="padding" style="font-size: 20px; color: white; text-align: -webkit-center;">
                 <b>No final da formação receba o seu certificado e o matérial do curso</b>
             </p> 
             
             <div style="display: flex; justify-content: center; align-items: center">
-                <img src="/img/academy/certificado.png" alt="Slide 1" style="width: 50%; display: flex; justify-content: center; align-items: center">
+                <img src="/img/academy/certificado.png" alt="Slide 1" style="width: 45%; display: flex; justify-content: center; align-items: center">
             </div>
 
         </div>
@@ -359,9 +364,9 @@
     <div style="background-color: #6aa8a1; height: 500px; position: relative;">
         
         <div class="container padding">
-            <p class="text-center" style="font-size: 35px; color: black; word-spacing: 10px; padding-top: 8%;">
+            <h5 class="text-center" style="font-size: 35px; color: black; word-spacing: 10px; padding-top: 8%;">
                 <b>O Que Falam Os Formandos</b> 
-            </p>  
+            </h5>  
             
             <p class="text-center" style="font-size: 20px; color: black; word-spacing: 10px; padding-left: 15%; padding-right: 15%;">
                 “o starter plus é como um amigo que podemos confiar, que quando precisamos contar algum segredo do nosso negócio ele esta aí para 

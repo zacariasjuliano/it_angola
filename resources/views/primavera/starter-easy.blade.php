@@ -39,12 +39,11 @@
             width: 314px;
             height: 5%;
             position: absolute;
-            top: 293.5%;
+            top: 296.7%;
             left: 51%;
             border-radius: 12.5% 12.5% 0 0;
             transform: skewY(0deg);
         }
-
         .carousel-center-text {
             position: absolute;
             top: 45%;
@@ -58,6 +57,12 @@
             color: black;
             border-radius: 25px 0 0 25px;  
             transform: skewY(0deg);
+        }      
+        ::marker {
+            color: blue;
+        }
+        .altura {
+            padding-top: 0.5%;
         }
     </style>
 
@@ -72,7 +77,7 @@
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
                 <img src="/img/starter/starter.png" alt="Slide 1" class="padding"> 
-                <p style="font-size:50px; color: white" class="padding"><b>PRIMAVERA STARTER EASY</b></p>
+                <h3 style="font-size:50px; color: white" class="padding"><b>PRIMAVERA STARTER EASY</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">Começe a facturar e não pare <br> nunca mais</p>
             </div>
         </div>
@@ -88,17 +93,17 @@
         </div> 
 
         <div class="container" style="padding-top: 2.5%">
-            <div class="row" style="border-radius: 25px; border: 1px solid #000; justify-content: space-between">
-                <a href="#" class="col-2 text-center menu_activo" style="max-width: 50%; color: #131212">  
+            <div class="row" style="border-radius: 25px; border: 1px solid #000; justify-content: space-between; height: 35px;">
+                <a href="#" class="col-2 text-center menu_activo altura" style="max-width: 50%; color: #131212">  
                     <b>Módulos</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 50%; color: #131212">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 50%; color: #131212">  
                     <b>VENDAS</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 50%; color: #131212">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 50%; color: #131212">  
                     <b>INVENTÁRIOS</b>        
                 </a>    
-                <a href="#" class="col-4 text-center" style="max-width: 50%; color: #131212">  
+                <a href="#" class="col-4 text-center altura" style="max-width: 50%; color: #131212">  
                     <b>CONTAS CORRENTES</b>       
                 </a>       
             </div>         

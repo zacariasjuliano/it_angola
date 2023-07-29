@@ -39,12 +39,11 @@
             width: 314px;
             height: 5%;
             position: absolute;
-            top: 452.9%;
+            top: 444%;
             left: 51%;
             border-radius: 12.5% 12.5% 0 0;
             transform: skewY(0deg);
         }
-
         .carousel-center-text {
             position: absolute;
             top: 45%;
@@ -58,6 +57,12 @@
             color: black;
             border-radius: 25px 0 0 25px;  
             transform: skewY(0deg);
+        }        
+        ::marker {
+            color: blue;
+        }
+        .altura {
+            padding-top: 0.5%;
         }
     </style>
 
@@ -72,7 +77,7 @@
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
                 <img src="/img/starter/starter.png" alt="Slide 1" class="padding"> 
-                <p style="font-size:50px; color: white" class="padding"><b>PRIMAVERA STARTER</b></p>
+                <h3 style="font-size:50px; color: white" class="padding"><b>PRIMAVERA STARTER</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">Duas vezes mais facíl para <br> encomendar e vender</p>
             </div>
         </div>
@@ -88,23 +93,23 @@
         </div> 
 
         <div class="container" style="padding-top: 2.5%">
-            <div class="row" style="border-radius: 25px; border: 1px solid #000; justify-content: space-between">
-                <a href="#" class="col-2 text-center menu_activo" style="max-width: 15%; color: #131212">  
+            <div class="row" style="border-radius: 25px; border: 1px solid #000; justify-content: space-between; height: 35px;">
+                <a href="#" class="col-2 text-center menu_activo altura" style="max-width: 15%; color: #131212">  
                     <b>Módulos</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 15%; color: #131212">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 15%; color: #131212">  
                     <b>VENDAS</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 15%; color: #131212">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 15%; color: #131212">  
                     <b>INVENTÁRIOS</b>        
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 15%; color: #131212">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 15%; color: #131212">  
                     <b>BANCOS</b>        
                 </a>    
-                <a href="#" class="col-4 text-center" style="max-width: 18%; color: #131212">  
+                <a href="#" class="col-4 text-center altura" style="max-width: 18%; color: #131212">  
                     <b>CONTAS CORRENTES</b>       
                 </a>
-                <a href="#" class="col-2 text-center" style="max-width: 15%; color: #131212">  
+                <a href="#" class="col-2 text-center altura" style="max-width: 15%; color: #131212">  
                     <b>ENCOMENDAS</b>        
                 </a>       
             </div>         
@@ -168,21 +173,21 @@
     
     <div style="background-color: #3b00a2; height: 480px; position: relative;">        
         <div class="container padding">
-            <p class="text-center" style="font-size:30px; color: white; word-spacing: 10px; padding-top: 6%">
+            <p class="text-center" style="font-size: 35px; color: white; word-spacing: 10px; padding-top: 6%">
                 <b>Dê asas ao negócio para começar a crescer</b> 
             </p>  
 
-            <p style="font-size:20px; color: white; word-spacing: 10px;">
+            <p style="font-size: 25px; color: white; word-spacing: 10px;">
                 A solução PRIMAVERA Starter consolida a gestão de pequenos negócios. É a peça que faltava para dar mais solidez 
                 ao seu negócio. Converta o dinamismo em crescimento. Dê asas ao negócio para que possa crescer. 
             </p>     
             
             <ul style="color: white; word-spacing: 10px">
-                <li style="font-size:18px;">Aumente a produtividade na gestão de documentos administrativos </li>
-                <li style="font-size:18px;">Acelere as vendas com ferramentas simples de gestão de Caixa</li>
-                <li style="font-size:18px;">Obtenha uma gestão controlada da Tesouraria</li>
-                <li style="font-size:18px;">Cumpra com segurança todos os requisitos legais e fiscais</li>
-                <li style="font-size:18px;">Obtenha maior segurança dos dados, através de cópias de segurança automáticas</li>
+                <li style="font-size: 22px;">Aumente a produtividade na gestão de documentos administrativos </li>
+                <li style="font-size: 22px;">Acelere as vendas com ferramentas simples de gestão de Caixa</li>
+                <li style="font-size: 22px;">Obtenha uma gestão controlada da Tesouraria</li>
+                <li style="font-size: 22px;">Cumpra com segurança todos os requisitos legais e fiscais</li>
+                <li style="font-size: 22px;">Obtenha maior segurança dos dados, através de cópias de segurança automáticas</li>
             </ul>
         </div>        
     </div>

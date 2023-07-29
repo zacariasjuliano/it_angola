@@ -21,7 +21,7 @@
                     <a  href="/responsabilidade-social">
                         Responsabilidade social
                     </a><br>
-                    <a href="#">
+                    <a href="/familia#recrutamento">
                         Recrutamento
                     </a><br>
                     <a href="/consultoria">
@@ -56,10 +56,10 @@
                 <h4 style="color:rgb(196, 196, 196); padding-bottom: 20px;"><b>Contactos</b></h4>
                 <p style="color:rgb(196, 196, 196)"> 
                     
-                    <a href="#">
+                    <a href="/contactos#localizacao">
                         Chegue até nós
                     </a><br>
-                    <a href="#">
+                    <a href="/contactos#whatsapp">
                         Contactar agora
                     </a><br>
                 </p>

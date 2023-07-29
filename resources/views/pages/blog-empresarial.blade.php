@@ -91,7 +91,7 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <p style="font-size: 50px; color: white" class="padding">BLOG EMPRESARIAL</p>
+                <h3 style="font-size: 50px; color: white" class="padding"><b>BLOG EMPRESARIAL</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">Informações pertineste para o seu negócio</p>
             </div>
         </div>

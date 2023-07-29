@@ -82,7 +82,7 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <p style="font-size: 60px; color: white" class="padding">SOBRE NÓS</p>
+                <h3 style="font-size: 60px; color: white" class="padding">SOBRE NÓS</h3>
             </div>
         </div>
         
@@ -91,9 +91,9 @@
     <div style="background-color: white; margin: 10% 0%;">
 
         <div class="text-center" style="margin-top: 3%;">
-            <p style="font-size: 50px; color: blue">
+            <h3 style="font-size: 50px; color: blue">
                 <b>Quem Somos</b>
-            </p>            
+            </h3>            
         </div> 
         
         <div class="text-left" style="padding: 2% 15%"> 
@@ -112,7 +112,8 @@
                 de proactivamente despistar e resolver qualquer incidente.
 
             </p>          
-        </div>
+        </div>         
+    </div>
 
         
 @endsection

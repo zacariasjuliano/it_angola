@@ -24,16 +24,15 @@
             background-color: white;
             border-radius: 55px;
             width: 225px;
-            height: 60px;
+            height: 40px;
         }
         .botao_cor {
-            background-color: #0f0034; 
-            
+            background-color: #0f0034;            
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
-            margin-top: 15%;
-            margin-left: 25%; 
+            margin-top: 5%;
+            margin-left: 30%; 
         }
         .circle3 {
             width: 475px;
@@ -70,6 +69,19 @@
             margin-bottom: 0px;
             */
         }
+        .curvas {
+            /*background-color: white;*/
+            /*border-radius: 25px; */
+            border: 1px solid rgb(0, 0, 0);
+            border-radius: 55px;
+            padding-top: 1.5%;
+            padding-bottom: 1.5%;
+            padding-left: 2.5%;
+            /*
+            width: 350px;
+            height: 55px;
+            */
+        }
     </style>
 
 
@@ -82,58 +94,58 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <p style="font-size: 50px; color: white" class="padding">CHEGOU A ERA DIGITAL</p>
+                <h3 style="font-size: 50px; color: white" class="padding"><b>CHEGOU A ERA DIGITAL<b></h3>
                 <p style="font-size: 30px; color: white" class="padding">A sua empresa já esta preparada para ela?</p>
             </div>
         </div>
         
     </div>
 
-    <div class="container">
+    <div class="container" style="padding: 10% 0">
         <div class="text-center" style="padding-top:60px">
             <h4 style="color:black;"> Cadastre-se e Receber Mais Informações, Sem Qualquer </h4>
 
-            <form class="padding" style="padding-left:4rem !important; padding-right:6rem !important;" method="post" enctype="multipart/form-data">
+            <form style="padding: 0 25%" method="post" enctype="multipart/form-data">
 
                 <div class="text-left" style="padding-top:20px">
                     <label for="name" style="padding-top: 1.5%; color: blue;">Nome*</label>
-                    <input type="text" id="name" name="name" style="width: 100%; border: none; border-bottom: 1px solid black;">
+                    <input class="curvas" type="text" id="name" name="name" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
                 <div class="text-left" style="padding-top:20px">
-                    <label for="email" style="padding-top: 1.5%;  color: blue;">Email*</label>
-                    <input type="email" id="email" name="email" style="width: 100%; border: none; border-bottom: 1px solid black;">
+                    <label for="email" style="padding-top: 1.5%; color: blue;">Email*</label>
+                    <input class="curvas" type="email" id="email" name="email" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
                 <div class="text-left" style="padding-top:20px">
-                    <label for="contacts" style="padding-top: 1.5%;  color: blue;">Telefone*</label>
-                    <input type="text" id="contacts" name="contacts" style="width: 100%; border: none; border-bottom: 1px solid black;">
+                    <label for="contacts" style="padding-top: 1.5%; color: blue;">Telefone*</label>
+                    <input class="curvas" type="text" id="contacts" name="contacts" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
                 <div class="text-left" style="padding-top:20px">
                     <label for="empresa" style="padding-top: 1.5%;  color: blue;">Empresa*</label>
-                    <input type="text" id="empresa" name="empresa" style="width: 100%; border: none; border-bottom: 1px solid black;">
+                    <input class="curvas" type="text" id="empresa" name="empresa" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
                 <div class="text-left" style="padding-top:20px">
-                    <label for="nif" style="padding-top: 1.5%;  color: blue;">NIF*</label>
-                    <input type="text" id="nif" name="nif" style="width: 100%; border: none; border-bottom: 1px solid black;">
+                    <label for="nif" style="padding-top: 1.5%; color: blue;">NIF*</label>
+                    <input class="curvas" type="text" id="nif" name="nif" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
                 <div class="text-left" style="padding-top:20px">
-                    <label for="cargo" style="padding-top: 1.5%;  color: blue;">Cargo*</label>
-                    <input type="text" id="cargo" name="cargo" style="width: 100%; border: none; border-bottom: 1px solid black;">
+                    <label for="cargo" style="padding-top: 1.5%; color: blue;">Cargo*</label>
+                    <input class="curvas" type="text" id="cargo" name="cargo" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
                 <div class="text-left" style="padding-top:20px">
-                    <label for="nif" style="padding-top: 1.5%;  color: blue;">NIF*</label>
-                    <input type="text" id="nif" name="nif" style="width: 100%; border: none; border-bottom: 1px solid black;">
+                    <label for="nif" style="padding-top: 1.5%; color: blue;">NIF*</label>
+                    <input class="curvas" type="text" id="nif" name="nif" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
                 <div class="text-left" style="padding-top:20px">
-                    <label for="funcionarios_n" style="padding-top: 1.5%;  color: blue;">Número de Funcionários*</label>
-                    <input type="text" id="funcionarios_n" name="funcionarios_n" style="width: 100%; border: none; border-bottom: 1px solid black;">
+                    <label for="funcionarios_n" style="padding-top: 1.5%; color: blue;">Número de Funcionários*</label>
+                    <input class="curvas" type="text" id="funcionarios_n" name="funcionarios_n" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
                 <div class="text-left" style="padding-top:20px">
-                    <label for="primavera" style="padding-top: 1.5%;  color: blue;">Utiliza Software Primavera*</label>
-                    <input type="text" id="primavera" name="primavera" style="width: 100%; border: none; border-bottom: 1px solid black;">
+                    <label for="primavera" style="padding-top: 1.5%; color: blue;">Utiliza Software Primavera*</label>
+                    <input class="curvas" type="text" id="primavera" name="primavera" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
                 <div class="text-left" style="padding-top:20px">
-                    <label for="modulo" style="padding-top: 1.5%;  color: blue;">Módulo que necessita*</label>
-                    <input type="text" id="modulo" name="modulo" style="width: 100%; border: none; border-bottom: 1px solid black;">
+                    <label for="modulo" style="padding-top: 1.5%; color: blue;">Módulo que necessita*</label>
+                    <input class="curvas" type="text" id="modulo" name="modulo" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
 
                 <div class="botao_2 botao_cor" style="background-color: blue;">

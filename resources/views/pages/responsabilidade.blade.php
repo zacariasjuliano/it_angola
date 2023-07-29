@@ -82,60 +82,76 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <p style="font-size: 40px; color: white" class="padding">RESPONSABILIDADE SOCIAL</p>
+                <h3 style="font-size: 40px; color: white" class="padding"><b>RESPONSABILIDADE SOCIAL</b></h3>
             </div>
         </div>
         
     </div>
 
-    <div style="background-color: white; margin: 10% 0%;">
+    <div style="background-color: white; margin: 5% 0%;">
 
-        <div class="text-center" style="margin-top: 3%;">
-            <p style="font-size: 50px; color: blue">
+        <div class="text-center">
+            <h3 style="font-size: 50px; color: blue">
                 <b>Nós e a Comunidade</b>
-            </p>            
+            </h3>            
         </div> 
         
-        <div class="text-left" style="padding: 2% 15%"> 
-            <p style="font-size: 25px; color: black">
-                <b>1. Parceria com a comunidade:</b> Na IT-Angola, acreditamos que é nosso dever contribuir para 
-                o desenvolvimento sustentável das comunidades onde actuamos. Estabelecemos parcerias estratégicas 
-                com organizações locais, como escolas e instituições de caridade, para apoiar projetos educacionais, 
-                melhorar a infraestrutura e promover o acesso à tecnologia. Estamos comprometidos em criar um 
-                impacto positivo e duradouro na vida das pessoas.
-            </p> 
-            <p style="font-size: 25px; color: black">
-                <b>2. Sustentabilidade ambiental:</b> Como empresa de tecnologia, reconhecemos nossa responsabilidade em 
-                proteger o meio ambiente. Implementamos medidas para reduzir nossa pegada de carbono, como o uso de 
-                energias renováveis, a promoção do teletrabalho e a gestão eficiente de resíduos. Além disso, incentivamos 
-                nossos colaboradores a adotarem práticas sustentáveis em seu cotidiano. Juntos, estamos a construir um 
-                futuro mais verde.
-            </p>
-            <p style="font-size: 25px; color: black">
-                <b>3. Inclusão e diversidade:</b> Na IT-Angola, valorizamos a diversidade e a inclusão em nosso ambiente de trabalho. 
-                Nosso compromisso é proporcionar igualdade de oportunidades para todos os colaboradores, independentemente de sua 
-                origem étnica, gênero, orientação sexual ou qualquer outra característica pessoal. Promovemos uma cultura de respeito 
-                e valorização das diferenças, pois acreditamos que a diversidade impulsiona a inovação e o crescimento.
-            </p>
-            <p style="font-size: 25px; color: black">
-                <b>4. Voluntariado corporativo: </b> Acreditamos que cada um de nós tem a capacidade de fazer a diferença. Por isso, 
-                incentivamos nossos colaboradores a se engajarem em atividades de voluntariado.
-            </p>
-            <p style="font-size: 25px; color: black">
-                5. Organizamos programas e eventos em parceria com organizações sociais, oferecendo oportunidades para que nossos 
-                colaboradores dediquem seu tempo e habilidades a causas relevantes. Juntos, estamos construindo uma sociedade 
-                mais solidária.
-            </p>
-            <p style="font-size: 25px; color: black">
-                <b>6. Ética e transparência: </b> A IT-Angola é comprometida com os mais altos padrões éticos e de governança 
-                corporativa. Agimos de forma transparente em nossas operações e nos relacionamentos com clientes, fornecedores e 
-                demais partes interessadas. Nosso código de conduta orienta todas as nossas ações, garantindo a integridade e a 
-                confiança em todas as nossas atividades. Estamos empenhados em agir com responsabilidade e promover a ética nos negócios.
-            </p>
-            <p style="font-size: 25px; color: black">
-                Esses são apenas alguns exemplos de como a IT-Angola se envolve em responsabilidade social. Estamos comprometidos 
-                em causar um impacto positivo em nossa comunidade e no mundo ao nosso redor.
-            </p>
+        <div class="text-left" style="padding: 5% 15%"> 
+            
+            <ol style="list-style-position: outside; list-style-position: outside;">
+                <li style="font-size: 20px; padding-left: 40px;">
+                    <b>Parceria com a comunidade:</b> Na IT-Angola, acreditamos que é nosso dever contribuir para 
+                    o desenvolvimento sustentável das comunidades onde actuamos. Estabelecemos parcerias estratégicas 
+                    com organizações locais, como escolas e instituições de caridade, para apoiar projetos educacionais, 
+                    melhorar a infraestrutura e promover o acesso à tecnologia. Estamos comprometidos em criar um 
+                    impacto positivo e duradouro na vida das pessoas.
+                </li>
+                <br>
+
+                <li style="font-size: 20px; padding-left: 40px;">
+                    <b>Sustentabilidade ambiental:</b> Como empresa de tecnologia, reconhecemos nossa responsabilidade em 
+                    proteger o meio ambiente. Implementamos medidas para reduzir nossa pegada de carbono, como o uso de 
+                    energias renováveis, a promoção do teletrabalho e a gestão eficiente de resíduos. Além disso, incentivamos 
+                    nossos colaboradores a adotarem práticas sustentáveis em seu cotidiano. Juntos, estamos a construir um 
+                    futuro mais verde.
+                </li>
+                <br>
+
+                <li style="font-size: 20px; padding-left: 40px;">
+                    <b>Inclusão e diversidade:</b> Na IT-Angola, valorizamos a diversidade e a inclusão em nosso ambiente de trabalho. 
+                    Nosso compromisso é proporcionar igualdade de oportunidades para todos os colaboradores, independentemente de sua 
+                    origem étnica, gênero, orientação sexual ou qualquer outra característica pessoal. Promovemos uma cultura de respeito 
+                    e valorização das diferenças, pois acreditamos que a diversidade impulsiona a inovação e o crescimento.
+                </li>
+                <br>
+
+                <li style="font-size: 20px; padding-left: 40px;">
+                    <b>Voluntariado corporativo:</b> Acreditamos que cada um de nós tem a capacidade de fazer a diferença. Por isso, 
+                    incentivamos nossos colaboradores a se engajarem em atividades de voluntariado.
+                </li>
+                <br>
+
+                <li style="font-size: 20px; padding-left: 40px;">
+                    Organizamos programas e eventos em parceria com organizações sociais, oferecendo oportunidades para que nossos 
+                    colaboradores dediquem seu tempo e habilidades a causas relevantes. Juntos, estamos construindo uma sociedade 
+                    mais solidária.
+                </li>
+                <br>
+
+                <li style="font-size: 20px; padding-left: 40px;">
+                    <b>Ética e transparência:</b> A IT-Angola é comprometida com os mais altos padrões éticos e de governança 
+                    corporativa. Agimos de forma transparente em nossas operações e nos relacionamentos com clientes, fornecedores e 
+                    demais partes interessadas. Nosso código de conduta orienta todas as nossas ações, garantindo a integridade e a 
+                    confiança em todas as nossas atividades. Estamos empenhados em agir com responsabilidade e promover a ética nos negócios.
+                    <br>
+                    <br>
+                    <p style="font-size: 20px; color: black;">
+                        Esses são apenas alguns exemplos de como a IT-Angola se envolve em responsabilidade social. Estamos comprometidos 
+                        em causar um impacto positivo em nossa comunidade e no mundo ao nosso redor.
+                    </p>
+                </li>
+            </ol>
+
         </div>
     </div>
 

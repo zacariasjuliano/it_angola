@@ -82,7 +82,7 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <p style="font-size: 50px; color: white" class="padding">SUPORTE</p>
+                <h3 style="font-size: 50px; color: white" class="padding"><b>SUPORTE</b></h3>
             </div>
         </div>
         
@@ -92,12 +92,10 @@
     <section class="section" style="padding: 0px 0px; background-color:white;">		
         <div class="row" style="padding-left: 5%; padding-bottom: 7%">  
 
-            <div class="col-md-6" style="padding-right: 5%">
-                <h3 class="animated-element margin-bottom-20"  style="padding-top: 20%;">
-                    <b style="color:blue; font-size:38px;">
-                        Serviços de suporte técnico
-                    </b>								
-                </h3>
+            <div class="col-md-6" style="padding-right: 11%; padding-top: 13%;">
+                <h2 class="animated-element margin-bottom-20"  style="color:blue; font-size: 55px;">                   
+                    Serviços de suporte técnico                    								
+                </h2>
 
                 <p class="animated-element slow margin-bottom-20" style="color:black; font-size:21px;">
                     A IT-ANGOLA oferece suporte técnico especializado para o software Cegid ERP Primavera e de 
@@ -109,15 +107,15 @@
                     Alguns dos nossos principais serviços de suporte incluem:
                 </b>                               
 
-                <ul style="text-align: left">
-                    <li style="padding-top: 1%">Resolução de problemas técnicos</li>
-                    <li style="padding-top: 1%">Atualizações e manutenção do software</li>
-                    <li style="padding-top: 1%">Otimização de desempenho e configuração</li>
-                    <li style="padding-top: 1%">Suporte remoto e presencial</li>
-                    <li style="padding-top: 1%">Treinamento e capacitação dos usuários</li>
+                <ul style="text-align: left; padding-top: 2%">
+                    <li style="padding-top: 1%; font-size: 18px;">Resolução de problemas técnicos</li>
+                    <li style="padding-top: 1%; font-size: 18px;">Atualizações e manutenção do software</li>
+                    <li style="padding-top: 1%; font-size: 18px;">Otimização de desempenho e configuração</li>
+                    <li style="padding-top: 1%; font-size: 18px;">Suporte remoto e presencial</li>
+                    <li style="padding-top: 1%; font-size: 18px;">Treinamento e capacitação dos usuários</li>
                 </ul>
 
-                <p class="animated-element slow margin-bottom-20" style="color:black; font-size:21px;">
+                <p class="animated-element slow margin-bottom-20" style="color:black; font-size:21px; padding-right: 9%;">
                     Nossa equipe técnica experiente está disponível para ajudar sua empresa a obter o máximo 
                     de sua tecnologia de gestão do software Cegid ERP Primavera e informática. Entre em contato 
                     conosco hoje mesmo para saber mais sobre nossos serviços de
@@ -125,13 +123,13 @@
 
                 <div class="botao_2 botao_cor" style="background-color: blue;">
                     <a href="#" class="btn-center" style="color: white; font-size: 25px;">
-                        Estou Interessado/a 
+                        Receber Suporte
                     </a>
                 </div>
             </div>                            
                                     
-            <div class="col-md-6" style="flex: 0 0 45%; padding-top: 3.5%;">
-                <img src="/img/pages/1000-min.png" alt="" style="width: 75%">
+            <div class="col-md-6" style="flex: 0 0 45%; padding-top: 13%;">
+                <img src="/img/pages/1000-min.png" alt="" style="width: 55%">
             </div>
 
         </div>			

@@ -66,6 +66,14 @@
             margin-bottom: 0px;
             */
         }
+        .modulo {
+            text-align: -webkit-left; 
+            color: white;
+            padding-top: 9%; 
+            padding-bottom: 13%;
+            padding-left: 13%; 
+            padding-right: 5%;
+        }
     </style>
 
 
@@ -78,15 +86,15 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <img hidden src="/img/starter/starter.png" alt="Slide 1" class="padding"> 
-                <p style="font-size:50px; color: white" class="padding"><b>PRIMAVERA PROFICIONAL</b></p>
+                <img src="/img/starter/primavera.png" alt="Slide 1" class="padding" style="width:22.5%"> 
+                <h3 style="font-size:50px; color: white" class="padding"><b>PRIMAVERA PROFICIONAL</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">O caminho inteligente para as médias empresas que procuram grandes resultados</p>
             </div>
         </div>
         
     </div>
 
-    <div style="margin-bottom: 5%; margin-top: 3%">
+    <div style="margin-bottom: 1.5%; margin-top: 6%">
 
         <div class="text-center">
             <p style="font-size: 50px; color: black">
@@ -94,7 +102,7 @@
             </p>            
         </div> 
         
-        <div class="text-left" style="padding: 2% 15%"> 
+        <div class="text-left" style="padding: 1% 15%"> 
             <p style="font-size: 25px; color: black">
                 A solução PRIMAVERA Professional é o motor das PME que exigem o sucesso como resultado final. 
                 Uma tecnologia inovadora que simplifica o acesso à informação. As operações são mais rápidas. 
@@ -105,20 +113,20 @@
     </div>
 
 
-    <div class="row" style="padding-left: 20%; padding-top: 3.5%; padding-bottom: 1%">
+    <div class="row" style="padding-left: 20%; padding-top: 1.5%; padding-bottom: 1%">
             
         <div class="col-md-4 text-center" style="max-width: 25%;">
             <p style="font-size: 25px; color: blue">
                 <b> Logística </b>
             </p>
             <div style="display: flex; background-image: url('/img/starter/Subtracao10.png')">
-                <div style="flex: 1;" style="text-align: -webkit-center;"> 
-                    <p>   
+                <div style="flex: 1;"> 
+                    <p class="modulo">   
                         Vedas
-                        Inventário
-                        Compras
-                        Encomendas
-                        Requisições Internas 
+                        <br>Inventário
+                        <br>Compras
+                        <br>Encomendas
+                        <br>Requisições Internas 
                     </p>                  
                 </div>
             </div>
@@ -128,13 +136,13 @@
             <p style="font-size: 25px; color: blue">
                 <b> Finanças  </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao10.png')">
-                <div style="flex: 1;" style="text-align: -webkit-center;">    
-                    <p>   
+            <div style="display: flex; background-image: url('/img/starter/Subtracao12.png')">
+                <div style="flex: 1;">    
+                    <p class="modulo" style="padding-bottom: 17%;">   
                         Tesouraria/Contas C
-                        Tesouraria/Bancos
-                        Contabilidade Base
-                        Contabilidade Gestão 
+                        <br>Tesouraria/Bancos
+                        <br>Contabilidade Base
+                        <br>Contabilidade Gestão 
                     </p>               
                 </div>
             </div>
@@ -144,24 +152,26 @@
             <p style="font-size: 25px; color: blue">
                 <b> Relatórios </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao10.png')">
-                <div style="flex: 1;" style="text-align: -webkit-center;">  
-                    <p>Dashboards de Gestão</p>                 
+            <div style="display: flex; background-image: url('/img/starter/Subtracao16.png')">
+                <div style="flex: 1;">  
+                    <p class="modulo" style="padding: 23% 10%;">Dashboards de Gestão</p>                 
                 </div>
             </div>
         </div> 
 
     </div>
 
-    <div class="row" style="padding-left: 20%; padding-top: 3.5%; padding-bottom: 1%">
+    <div class="row" style="padding-left: 20%; padding-top: 1.5%; padding-bottom: 1%">
             
         <div class="col-md-4 text-center" style="max-width: 25%;">
             <p style="font-size: 25px; color: blue">
                 <b> ERM </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao10.png')">
-                <div style="flex: 1;" style="text-align: -webkit-center;">
-                    <p>Contactos, OPV, Cobranças</p>                     
+            <div style="display: flex; background-image: url('/img/starter/Subtracao17.png')">
+                <div style="flex: 1;">
+                    <p class="modulo" style="padding-bottom: 40%;">
+                        Contactos, OPV, Cobranças
+                    </p>                     
                 </div>
             </div>
         </div>  
@@ -170,11 +180,11 @@
             <p style="font-size: 25px; color: blue">
                 <b> Projectos/Serviços  </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao10.png')">
-                <div style="flex: 1;" style="text-align: -webkit-center;"> 
-                    <p>
+            <div style="display: flex; background-image: url('/img/starter/Subtracao14.png')">
+                <div style="flex: 1;"> 
+                    <p class="modulo" style="padding-bottom: 33%;">
                         Serviços Técnicos
-                        Projetos/Obras
+                        <br>Projetos/Obras
                     </p>                  
                 </div>
             </div>
@@ -184,11 +194,11 @@
             <p style="font-size: 25px; color: blue">
                 <b> Instrumentos de Gestão </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao10.png')">
-                <div style="flex: 1;" style="text-align: -webkit-center;"> 
-                    <p>
+            <div style="display: flex; background-image: url('/img/starter/Subtracao15.png')">
+                <div style="flex: 1;"> 
+                    <p class="modulo" style="padding-bottom: 33%;">
                         Controlo Financeiro de Projetos
-                        Gestão de Contratos
+                        <br>Gestão de Contratos
                     </p>                   
                 </div>
             </div>
@@ -196,15 +206,15 @@
 
     </div>
 
-    <div class="row" style="padding-left: 20%; padding-top: 3.5%; padding-bottom: 1%">
+    <div class="row" style="padding-left: 20%; padding-top: 1.5%; padding-bottom: 5%">
             
         <div class="col-md-4 text-center" style="max-width: 25%;">
             <p style="font-size: 25px; color: blue">
                 <b> Equipamentos & Activos </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao10.png')">
-                <div style="flex: 1;" style="text-align: -webkit-center;"> 
-                    <p>
+            <div style="display: flex; background-image: url('/img/starter/Subtracao13.png')">
+                <div style="flex: 1;"> 
+                    <p class="modulo" style="padding: 23% 10%;">
                         Ativos
                     </p>                  
                 </div>
@@ -215,12 +225,12 @@
             <p style="font-size: 25px; color: blue">
                 <b> Recursos Humanos  </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao10.png')">
-                <div style="flex: 1;" style="text-align: -webkit-center;">
-                    <p>
+            <div style="display: flex; background-image: url('/img/starter/Subtracao11.png')">
+                <div style="flex: 1;">
+                    <p class="modulo" style="padding-bottom: 26%;">
                         RH Até 20 Colaboradores
-                        RH Até 100 Colaboradores
-                        RH (Ilimitado)
+                        <br>RH Até 100 Colaboradores
+                        <br>RH (Ilimitado)
                     </p>                                    
                 </div>
             </div>
@@ -233,13 +243,13 @@
             
         <div class="padding" style="display: flex;">
             
-            <div style="flex: 1; text-align: -webkit-center; padding-top: 10%;">
+            <div style="flex: 1; text-align: -webkit-center; padding-top: 8%;">
                 <img class="img-fluid" src="/img/starter/218-min.png" alt="..." style="width: 75%"/>  
             </div>
 
-            <div style="flex: 1; text-align: -webkit-left; padding-left: 7%; padding-top: 12.5%;">
+            <div style="flex: 1; text-align: -webkit-left; padding-left: 3%; padding-top: 9.5%;">
                 <p style="font-size: 35px; color: black;"><b>Inteligência Artificial</b></p> 
-                <p style="font-size: 20px; color: black;">
+                <p style="font-size: 20px; color: black; padding-right: 35%;">
                     O ECHO é o assistente pessoal de negócios que trabalha por si, de forma autónoma e contínua, analisando permanentemente 
                     os dados do ERP PRIMAVERA para verificar padrões, analisar dados e dinâmicas de negócio e correlacioná-los , de forma 
                     a alertar para incongruências de dados e erros na informação.
@@ -255,23 +265,23 @@
         <div class="container" style="max-width: 1400px;">
             
             <div class="padding" style="display: flex;">
-                <div style="flex: 1; padding-top: 15%;">
+                <div style="flex: 1; padding-top: 5%;">
                     <p style="font-size: 35px; color: black; text-align: -webkit-center;"><b>Descubra o que esta solução lhe garante</b></p> 
-                    <p style="font-size: 20px; color: black;">
+                    <p style="font-size: 22px; color: black;">
                         O Primavera Professional impulsiona os resultados através de mecanismos de produtividade. As operações são rápidas. 
                         Os processos seguros. E a informação fidedigna. O negócio acontece mais rapidamente. Os resultados surgem de forma 
                         mais expressiva. Descubra uma solução de gestão que lhe garante:
                     </p> 
                     <ul>
-                        <li>Toda a informação que precisa sempre à mão</li>
-                        <li>Mais rentabilidade, novas oportunidades de negócio</li> 
-                        <li>Segurança no cumprimento das obrigações fiscais</li> 
-                        <li>Simplicidade de utilização, facilidade de adaptação às regras do negócio</li> 
-                        <li>Operações mais rápidas, informação mais fidedigna</li> 
-                        <li>Mais eficiência</li> 
-                        <li>Máxima capacidade de controlo do negócio</li> 
-                        <li>Adaptação fácil a qualquer área de atividade e modelo de negócio</li> 
-                        <li>Atualizações automáticas contínuas</li> 
+                        <li style="font-size: 20px; color: black;">Toda a informação que precisa sempre à mão</li>
+                        <li style="font-size: 20px; color: black;">Mais rentabilidade, novas oportunidades de negócio</li> 
+                        <li style="font-size: 20px; color: black;">Segurança no cumprimento das obrigações fiscais</li> 
+                        <li style="font-size: 20px; color: black;">Simplicidade de utilização, facilidade de adaptação às regras do negócio</li> 
+                        <li style="font-size: 20px; color: black;">Operações mais rápidas, informação mais fidedigna</li> 
+                        <li style="font-size: 20px; color: black;">Mais eficiência</li> 
+                        <li style="font-size: 20px; color: black;">Máxima capacidade de controlo do negócio</li> 
+                        <li style="font-size: 20px; color: black;">Adaptação fácil a qualquer área de atividade e modelo de negócio</li> 
+                        <li style="font-size: 20px; color: black;">Atualizações automáticas contínuas</li> 
                     <ul>  
                 </div>
             </div>
@@ -285,10 +295,10 @@
         <div class="padding" style="display: flex;">
             
             <div style="flex: 1; text-align: -webkit-center; padding-top: 10%;">
-                <img class="img-fluid" src="/img/starter/218-min.png" alt="..." style="width: 75%"/>  
+                <img class="img-fluid" src="/img/starter/youtube.png" alt="..." style="width: 45%"/>  
             </div>
 
-            <div style="flex: 1; text-align: -webkit-left; padding-left: 7%; padding-top: 12.5%;">
+            <div style="flex: 1; text-align: -webkit-left; padding-left: 7%; padding-top: 12.5%;  padding-right: 23%;">
                 <p style="font-size: 35px; color: black;"><b>Análises de performance em tempo</b></p> 
                 <p style="font-size: 20px; color: black;">
                     Otimize a gestão estratégica da sua empresa através do acesso a um conjunto de dashboards de 
@@ -301,14 +311,14 @@
         
     </div>
         
-    <div style="height: 790px; position: relative; padding: 5% 0%; background-color: #e1e1e1;">
+    <div style="height: 560px; position: relative; padding: 3% 0%; background-color: #e1e1e1;">
             
         <div class="container padding" style="display: flex;">
 
-            <div style="flex: 1; text-align: -webkit-left; padding-top: 10%;">
-                <p style="font-size: 35px; color: black;"><b>TENHA ACESSO AO PRIMAVERA PROFESSIONAL</b></p> 
+            <div style="flex: 1; text-align: -webkit-left; padding-top: 3%;">
+                <p style="font-size: 40px; color: black;"><b>TENHA ACESSO AO PRIMAVERA PROFESSIONAL</b></p> 
                 <b>On-premises</b><br>
-                <p style="font-size: 20px; color: black;">
+                <p style="font-size: 22px; color: black;">
                     Obtenha uma licença perpétua de utilização da solução. Aceda à sua solução de gestão na modalidade mais 
                     convencional: On-premises. Com esta modalidade terá acesso a uma licença perpétua de utilização do software. 
                     Poderá ainda evitar custos de atualização imprevisíveis e encargos elevados de manutenção do sistema com o 
@@ -317,7 +327,7 @@
                     competitivo. 
                 </p>
                 <b>Subscrição Anual</b><br> 
-                <p style="font-size: 20px; color: black;">
+                <p style="font-size: 22px; color: black;">
                     Obtenha uma licença de subscrição anual para dois 2 utilzadores inicialmente. 
                 </p>  
             </div>
