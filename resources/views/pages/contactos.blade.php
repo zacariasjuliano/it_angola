@@ -167,27 +167,27 @@
 
             <form style="padding: 0 7%;" method="post" enctype="multipart/form-data">
 
-                <div col-lg-6 col-md-4 style="display: flex; align-items: center; padding-top:20px">
+                <div class="col-lg-6 col-md-4" style="display: flex; align-items: center; padding-top:20px">
                     <label for="name" style="padding-top: 1.5%; font-size: 18px;"><b>Nome</b>*</label>
                     <input type="text" id="name" name="name" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
-                <div col-lg-6 col-md-4 style="display: flex; align-items: center;padding-top:20px">
+                <div class="col-lg-6 col-md-4" style="display: flex; align-items: center;padding-top:20px">
                     <label for="email" style="padding-top: 1.5%; font-size: 18px;"><b>Email</b>*</label>
                     <input type="email" id="email" name="email" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
-                <div col-lg-6 col-md-4 style="display: flex; align-items: center; padding-top:20px">
+                <div class="col-lg-6 col-md-4" style="display: flex; align-items: center; padding-top:20px">
                     <label for="contacts" style="padding-top: 1.5%; font-size: 18px;"><b>Telefone</b>*</label>
                     <input type="text" id="contacts" name="contacts" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
-                <div col-lg-6 col-md-4 style="display: flex; align-items: center; padding-top:20px">
+                <div class="col-lg-6 col-md-4" style="display: flex; align-items: center; padding-top:20px">
                     <label for="empresa" style="padding-top: 1.5%; font-size: 18px;"><b>Empresa</b>*</label>
                     <input type="text" id="empresa" name="empresa" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
-                <div col-lg-6 col-md-4 style="display: flex; align-items: center; padding-top:20px">
+                <div class="col-lg-6 col-md-4" style="display: flex; align-items: center; padding-top:20px">
                     <label for="nif" style="padding-top: 1.5%; font-size: 18px;"><b>NIF</b>*</label>
                     <input type="text" id="nif" name="nif" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
-                <div col-lg-6 col-md-4 style="display: flex; align-items: center; padding-top:20px">
+                <div class="col-lg-6 col-md-4" style="display: flex; align-items: center; padding-top:20px">
                     <label for="Provincia" style="padding-top: 1.5%; font-size: 18px;"><b>Provincia</b>*</label>
                     <input type="text" id="cargo" name="Provincia" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>

@@ -41,19 +41,19 @@
 
     <div>
 
-        <section class="section" style="color:black; padding-top: 6%; padding-bottom: 6%;">		
+        <section class="section" style="color:black; padding-top: 11%; padding-bottom: 6%;">		
             <div class="row" style="padding-left: 5%">
 
                 <div class="col-md-6">
-                    <h3 style="flex: 0 0 45%; color:rgb(33, 177, 243); font-size:45px;">
-                        <b>
-                            Soluções para automatizar processos  manuais e fornecer informações em tempo real para tomada de decisão
-                        </b>								
+                    <h3 style="flex: 0 0 45%; color: rgb(38, 128, 235); font-size:48px;">
+                        
+                        Soluções para automatizar processos  manuais e fornecer informações em tempo real para tomada de decisão
+                        								
                     </h3>
 
-                    <p style="color:black; font-size:23px;">
+                    <h6 style="color:black; font-size:26px; width: 80%">
                         Gerencie com eficiência as operações do seu negócio com tecnologias de gestão preparadas para a nova era digital e para o futuro.
-                    </p>							
+                    </h6>							
                 </div>                
                                     
                 <div class="col-md-6">
@@ -67,18 +67,18 @@
         <section class="section" style="padding: 0px 0px; background-color:#8abce6;">		
             <div class="row" style="padding-left: 5%">                             
                                         
-                <div class="col-md-8" style="flex: 0 0 45%; padding-top: 3.5%;">
+                <div class="col-md-6" style="flex: 0 0 45%; padding-top: 3.5%;">
                     <img src="/img/home/40.png" alt="">
                 </div>
 
-                <div class="col-md-6" style="padding-right: 17.5%">
-                    <h3 class="animated-element margin-bottom-20"  style="padding-top: 20%;">
+                <div class="col-md-6" style="padding-right: 1.5%;">
+                    <h3 class="animated-element margin-bottom-20"  style="padding-top: 20%; width:75%">
                         <b style="color:white; font-size:42px;">
                             Tome decisões com base em dados reias que farão o seu negócio prosperar
                         </b>								
                     </h3>
 
-                    <p class="animated-element slow margin-bottom-20" style="color:black; font-size:25px;">
+                    <p class="animated-element slow margin-bottom-20" style="color:black; font-size:25px; width:63%">
                         Escolha a solução de gestão de acordo ao tamanho do seu negócio, não importa se a sua companhia é uma micro, 
                         pequena, média ou grandes empresas. Temos as tecnologias de gestão, certas para si.
                     </p>							

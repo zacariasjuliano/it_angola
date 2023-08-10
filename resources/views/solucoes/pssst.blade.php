@@ -39,7 +39,7 @@
             width: 475px;
             height: 5%;
             position: absolute;
-            top: 487.8%;
+            top: 474%;
             left: 51%;
             border-radius: 12.5% 12.5% 0 0;
             transform: skewY(0deg);
@@ -305,7 +305,7 @@
             
         <div style="display: flex; justify-content: center; align-items: center">
 
-            <div style="text-align: center; border-radius: 25px; background-color: white; padding-top: 5%; margin-right: 1%; width:25%; height:600px">
+            <div style="text-align: center; border-radius: 25px; background-color: white; padding-top: 2.5%; margin-right: 1%; width:25%; height:600px">
                 <h5 style="font-size:30px; color: blue;"><b>PSSST EASY</b></h5>
                 <h5 style="font-size:25px; color: #a4a3a5;"><b>1 ANO</b></h5>
                 <h5 style="font-size:20px; color: black;"><b>PREÇO SOB CONSULTA</b></h5>

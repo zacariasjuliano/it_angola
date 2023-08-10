@@ -43,7 +43,7 @@
                     <a href="/blog">
                         Blog
                     </a><br>
-                    <a  href="#">
+                    <a  href="/blog#newsletter">
                         Newsletter
                     </a><br>
                     <a href="#">

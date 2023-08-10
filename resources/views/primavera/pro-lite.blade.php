@@ -165,11 +165,11 @@
             </div>            
         
             <div class="card-deck mb-3">
-                <div class="card mb-4 padding" style="background-color: #0f0034; border-radius: 5%">
+                <div class="card mb-4 padding" style="background-color: #0f0034; border-radius: 0%; margin-right: 0px">
                  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #3b00a2; border-radius: 5%">
+                <div class="card mb-4 padding" style="background-color: #3b00a2; border-radius: 0%; margin-left: 0px; margin-right: 0px">
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Encomendas
                     </p> 
@@ -179,7 +179,7 @@
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #0f0034; border-radius: 5%">
+                <div class="card mb-4 padding" style="background-color: #0f0034; border-radius: 0%; margin-left: 0px">
 
                 </div>                
             </div>

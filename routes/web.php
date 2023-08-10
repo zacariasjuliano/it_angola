@@ -31,6 +31,10 @@ Route::get('/primavera/executive', function () {
     return view('primavera.executive');
 });
 
+Route::get('/primavera/evolution', function () {
+    return view('evolution.evolution');
+});
+
 Route::get('/academy', function () {
     return view('academy.academy');
 });
@@ -75,10 +79,6 @@ Route::get('/familia', function () {
     return view('pages.familia');
 });
 
-Route::get('/blog', function () {
-    return view('pages.blog-empresarial');
-});
-
 Route::get('/solucoes/tlim', function () {
     return view('solucoes.tlim');
 });
@@ -92,7 +92,7 @@ Route::get('/solucoes/manufacturing', function () {
 });
 
 Route::get('/blog', function () {
-    return view('blog.blog');
+    return view('blog.blog-empresarial');
 });
 
 Route::get('/blog/post', function () {

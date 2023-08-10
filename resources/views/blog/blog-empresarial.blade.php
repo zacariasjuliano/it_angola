@@ -132,7 +132,7 @@
                 </div>
 
                 <div class="botao_2 botao_cor text-center" style="background-color: blue;">
-                    <a href="#" class="btn-left" style="color: white; font-size: 25px;">
+                    <a href="/blog/post" class="btn-left" style="color: white; font-size: 25px;">
                         ler mais...
                     </a>
                 </div>
@@ -228,7 +228,7 @@
 
     <div style="background-color: #9cadcf; height: 500px; position: relative;">
         
-        <div class="container" style="max-width: 1400px;">
+        <div class="container" style="max-width: 1400px;" id="newsletter">
 
             <p class="text-center" style="font-size: 35px; color: white; padding-top: 9%; padding-bottom: 6%;"> Não perca nada, subscreva a nossa newsletter</p>
             
