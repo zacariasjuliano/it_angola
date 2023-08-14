@@ -77,54 +77,101 @@
     <!-- Slides -->
     <div class="carousel-inner"  style="max-height: 920px;">
         <div class="carousel-item active">
-            <img src="/img/slide/11-min.jpg" alt="Slide 1">
-            <div class="carousel-caption" hidden>
-                <h3>Slide 1</h3>
-                <p>Descrição do slide 1</p>
+            <div>
+                <img src="/img/slide/11-min.jpg" alt="Slide 1">
+                <div class="carousel-caption" hidden>
+                    <h3>Slide 1</h3>
+                    <p>Descrição do slide 1</p>
+                </div>
             </div>
-        </div>
-        <div class="carousel-item" style="max-height: 920px;">
-            <img src="/img/slide/img-22.png" alt="Slide 2">
-            <div class="carousel-caption" hidden>
-                <h3>Slide 2</h3>
-                <p>Descrição do slide 2</p>
+
+            <div  style="margin-top: -18.5%">
+                <!-- Texto central -->
+                <div class="carousel-center-text">
+                    <h1 style="font-size: 30px; color: white">SOLUÇÕES PARA ESCRITÓRIOS DE CONTABILIDADE</h1>
+                </div>
+                      
+                <a href="#" class="btn circle text-center carousel-center-text1 h-15 w-13" style="font-size: 20px; color: white; background-color: blue; padding: 0.9rem;">
+                    Saber mais...
+                </a>
             </div>
-        </div>
-        <div class="carousel-item" style="max-height: 920px;">
-            <img src="/img/slide/img-23.png" alt="Slide 3">
-            <div class="carousel-caption" hidden>
-                <h3>Slide 3</h3>
-                <p>Descrição do slide 3</p>
-            </div>
-        </div>
-        <div class="carousel-item" style="max-height: 920px;">
-            <img src="/img/slide/img-24.png" alt="Slide 4">
-            <div class="carousel-caption" hidden>
-                <h3>Slide 4</h3>
-                <p>Descrição do slide 4</p>
-            </div>
+
         </div>
         
-    </div>
+        <div class="carousel-item" style="max-height: 920px;">
+            <div>
+                <img src="/img/slide/img-22.png" alt="Slide 2">
+                <div class="carousel-caption" hidden>
+                    <h3>Slide 2</h3>
+                    <p>Descrição do slide 2</p>
+                </div>
+            </div>
 
-    <!-- Texto central -->
-    <div class="carousel-center-text">
-        <p style="font-size: 40px; color: white">SOLUÇÕES PARA ESCRITÓRIOS DE CONTABILIDADE</p>
-    </div>
+            <div>
+                <!-- Texto central -->
+                <div class="carousel-center-text">
+                    <p style="font-size: 40px; color: white">SOLUÇÕES PARA VENDA A RETALHO</p>
+                </div>
+      
+                <a href="/solucoes/tlim" class="btn circle text-center carousel-center-text1 h-15 w-13" style="font-size: 20px; color: white; background-color: blue; padding: 0.9rem;">
+                    Saber mais...
+                </a>
+            </div>
 
-    <div class="circle text-center carousel-center-text1 h-15 w-13" style="background-color: blue; padding: 0.9rem;">        
-        <a href="#" class="btn" style="font-size: 20px; color: white;">
-            Saber mais...
-        </a>
-    </div>
+        </div>
+        <div class="carousel-item" style="max-height: 920px;">
+            <div>
+                <img src="/img/slide/img-23.png" alt="Slide 3">
+                <div class="carousel-caption" hidden>
+                    <h3>Slide 3</h3>
+                    <p>Descrição do slide 3</p>
+                </div>
+            </div>
+
+            <div>
+                <!-- Texto central -->
+                <div class="carousel-center-text">
+                    <p style="font-size: 40px; color: white">SOLUÇÕES PARA RESTAURAÇÂO</p>
+                </div>
+
+                <a href="/solucoes/pssst" class="btn circle text-center carousel-center-text1 h-15 w-13" style="font-size: 20px; color: white; background-color: blue; padding: 0.9rem;">
+                    Saber mais...
+                </a>
+            </div>
+
+        </div>
+        <div class="carousel-item" style="max-height: 920px;">
+
+            <div>
+                <img src="/img/slide/img-24.png" alt="Slide 4">
+                <div class="carousel-caption" hidden>
+                    <h3>Slide 4</h3>
+                    <p>Descrição do slide 4</p>
+                </div>
+            </div>
+
+            <div>
+                <!-- Texto central -->
+                <div class="carousel-center-text">
+                    <p style="font-size: 40px; color: white">SOLUÇÕES PARA INDÚSTRIA</p>
+                </div>
+                
+                <a href="/solucoes/manufacturing" class="btn circle text-center carousel-center-text1 h-15 w-13" style="font-size: 20px; color: white; background-color: blue; padding: 0.9rem;">
+                    Saber mais...
+                </a>                
+            </div>
+
+        </div>
+        
+    </div>    
     
     <!-- Botões de controle -->
     <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev" style="padding-left: 15%;">
-        <p class="carousel-control-icon" style="background-color: blue; font-size:60px; padding-top:5%; color: white"> <
+        <p class="carousel-control-icon" style="background-color: blue; font-size:60px; padding-top:1%; color: white"> <
         </p>
     </a>
     <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next" style="padding-right: 15%;">
-        <p class="carousel-control-icon" style="background-color: blue; font-size:60px; padding-top:5%; color: white"> >
+        <p class="carousel-control-icon" style="background-color: blue; font-size:60px; padding-top:1%; color: white"> >
         </p>
     </a>
     

@@ -13,7 +13,7 @@
         <!-- CUSTOM STYLE -->      
         <link rel="stylesheet" href="/css/template-style.css">
         <script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
-        <script type="text/javascript" src="/js/jquery-ui.min.js"></script>  
+        <script type="text/javascript" src="/js/jquery-ui.min.js"></script>          
 
         
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
@@ -25,6 +25,8 @@
                 
         <!-- Main Stylesheet File -->
         <link href="/css/style.css" rel="stylesheet">    
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sua+Fonte+Aqui">
 
     </head>
 
@@ -45,6 +47,8 @@
 
         <script type="text/javascript" src="/js/responsee.js"></script>
         <script type="text/javascript" src="/owl-carousel/owl.carousel.js"></script>
-        <script type="text/javascript" src="/js/template-scripts.js"></script> 
+        <script type="text/javascript" src="/js/template-scripts.js"></script>
+        
+        <link rel="stylesheet" href="/css/it_angola.css">
     </body>
 </html>
