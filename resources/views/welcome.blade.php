@@ -204,7 +204,7 @@
                     <p class="text-center" style="color:#338ed5; font-size:25px">
                         Veja os resultodos dos gestores que confiam nas soluções
                     </p>
-                    <p class="text-justify" style="color:black; font-size:20px; padding: 0 32%;">
+                    <p class="text-justify" style="color:black; font-size:20px; padding: 0 32.68%; line-height: 35px;">
                         "Com as soluções de gestão da IT-ANGOLA o nosso acompanhamento dos dados dentro da ferramenta de
                         gestão, mudou completamente a nossa visão de gerir o nosso negócio"
                     </p>
@@ -219,7 +219,7 @@
 
         <div class="row" style="height: 700px;">
             <div class="col-lg-6 col-md-4" style="background-color:#899cc6; padding-bottom: 27px; flex: 0 0 45%;">         
-                <p style="color:white; font-size:35px; padding: 20% 28%; word-spacing: 15px;">                          
+                <p style="color:white; font-size:35px; padding: 20% 30%; word-spacing: 15px; line-height: 50px;">                          
                     Você esta a um paço de garantir que o seu negócio começe a factura com rapidez e eficiência
                 </p>
             </div> 

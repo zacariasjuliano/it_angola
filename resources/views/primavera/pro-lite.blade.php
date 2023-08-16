@@ -91,11 +91,11 @@
 
         <div style="padding: 2.5% 7%">        
             <div class="card-deck mb-3">
-                <div class="card mb-4 padding" style="background-color: #0f0034; border-radius: 5%">
+                <div class="card mb-4 padding box_pro_lite" style="background-color: #0f0034; border-radius: 5%;">
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Vendas
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p style="font-size: 15px; color: white; line-height: 30px;">
                         Emita faturas, recibos, notas de débito, guias de remessa e de transporte, registe vendas a dinheiro, 
                         adiantamentos e devoluções.
                         Trata do IVA e os requisitos legais, documentos de transporte e envie o ficheiro SAFT ao portal da 
@@ -103,11 +103,11 @@
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #3b00a2; border-radius: 5%">
+                <div class="card mb-4 padding box_pro_lite" style="background-color: #3b00a2; border-radius: 5%">
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Bancos
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p style="font-size: 15px; color: white; line-height: 30px;">
                         Facilmente controla os pagamentos (quer sejam feitos em numerário, cheque, cartão de crédito, multicaixa, 
                         ou outros meios de pagamento) e as comissões de vendedores. A gestão de talões também é simples.
                         Alertas de valores a receber e estatísticas sobre a atividade de cada Caixa, movimentos efetuados, vendas, 
@@ -115,11 +115,11 @@
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #0f0034; border-radius: 5%">
+                <div class="card mb-4 padding box_pro_lite" style="background-color: #0f0034; border-radius: 5%">
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Contabilidade
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p style="font-size: 15px; color: white; line-height: 30px;">
                         Acelere a execução e obtenha o máximo rigor contabilístico. A solução PRIMAVERA Pro lite agiliza todo o 
                         processo contabilístico: desde o registo de documentos, passando pela gestão de orçamentos, elaboração 
                         de planos de contas por exercícios, até ao apuramento de resultados.
@@ -128,11 +128,11 @@
             </div>            
         
             <div class="card-deck mb-3">
-                <div class="card mb-4 padding" style="background-color: #0f0034; border-radius: 5%">
+                <div class="card mb-4 padding box_pro_lite" style="background-color: #0f0034; border-radius: 5%">
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Inventários
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p style="font-size: 15px; color: white; line-height: 30px;">
                         Com esta solução as encomendas são mais assertivas, a seleção de fornecedores mais ágil, o tratamento 
                         dos encargos relacionados com as compras mais eficiente, e a receção e conferência de compras mais fácil. 
                         Otimiza a gestão de armazéns, com ferramentas que lhe permitem gerir quantidades de reposição, entregas 
@@ -140,11 +140,11 @@
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #3b00a2; border-radius: 5%">
+                <div class="card mb-4 padding box_pro_lite" style="background-color: #3b00a2; border-radius: 5%">
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Contas Correntes
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p style="font-size: 15px; color: white; line-height: 30px;">
                         Obtenha uma gestão eficiente dos Compras pagamentos e recebimentos. Reconciliação bancária, transferência 
                         entre contas,liquidação de aplicações financeiras, gestão de cheques pré-datados, transferência de cheques, 
                         entre muitas outras operações bancárias. Controe os limites de crédito por cada cliente,reorganize a carteira 
@@ -152,11 +152,11 @@
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #0f0034; border-radius: 5%">
+                <div class="card mb-4 padding box_pro_lite" style="background-color: #0f0034; border-radius: 5%">
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Compras
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p style="font-size: 15px; color: white; line-height: 30px;">
                         Acabe com a rotura de stocks. Elimine o desperdício. Satisfaça os pedidos dos seus clientes com a máxima 
                         eficiência. Otimize ainda a gestão de inventário com ferramentas que auxiliam o controlo de stocks e 
                         respetiva valorização do Preço de Custo Médio em diversos.
@@ -165,73 +165,68 @@
             </div>            
         
             <div class="card-deck mb-3">
-                <div class="card mb-4 padding" style="background-color: #0f0034; border-radius: 0%; margin-right: 0px">
+                <div class="card mb-4 padding box_pro_lite" style="background-color: #0f0034; border-radius: 5% 0 0 5%; margin-right: 0px">
                  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #3b00a2; border-radius: 0%; margin-left: 0px; margin-right: 0px">
+                <div class="card mb-4 padding box_pro_lite" style="background-color: #3b00a2; border-radius: 0%; margin-left: 0px; margin-right: 0px">
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Encomendas
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p style="font-size: 15px; color: white; line-height: 30px;">
                         Com esta solução as encomendas são mais assertivas, a seleção de fornecedores mais ágil, o tratamento dos 
                         encargos relacionados com as compras mais eficiente, e a receção e conferência de compras mais fácil.
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #0f0034; border-radius: 0%; margin-left: 0px">
+                <div class="card mb-4 padding box_pro_lite" style="background-color: #0f0034; border-radius: 0 5% 5% 0; margin-left: 0px">
 
                 </div>                
             </div>
         </div>
                 
     </div> 
-    
-    <div style="height: 700px; position: relative; padding: 0% 5%">
-            
-        <div class="padding" style="display: flex;">
-            
-            <div style="flex: 1; text-align: -webkit-center;">
-                <img class="img-fluid" src="/img/starter/203-min.png" alt="..." style="width: 95%"/>  
+
+    <div style="margin-bottom: 5%;">
+               
+        <div class="card-deck mb-3" style="padding: 0 7%">
+            <div class="card mb-4 padding" style="border: 0px solid rgba(0,0,0,.125);">
+                <img class="img-fluid" src="/img/starter/203-min.png" alt="..." style="width: 95%"/>    
             </div>
 
-            <div style="flex: 1; text-align: -webkit-left; padding: 5% 11% 0 11%;">
-                <p style="font-size: 40px; color: black;"><b>Rigor na contabilidade e rapidez nas exigências fiscais</b></p> 
-                <p style="font-size: 25px; color: black;">
+            <div class="card mb-4 padding" style="padding-left:15px; border: 0px solid rgba(0,0,0,.125);">
+                <p style="font-size: 40px; color: black; padding: 0% 6% 0 0; margin-left: 13%"><b>Rigor na contabilidade e rapidez nas exigências fiscais</b></p> 
+                <p style="font-size: 25px; color: black; padding: 0% 6% 0 0; margin-left: 13%">
                     Agilize todo o processo contabilístico. Acelere a introdução de documentos, a gestão de orçamentos, os 
                     lançamentos, a elaboração de planos de contas por exercícios, a obtenção de mapas, demonstrações 
                     económico-financeiras periódicas e de final de exercício, demonstrações de fluxo de caixa e funções ou 
                     o apuramento de resultados.
                 </p>  
             </div>
-            
-        </div>
-        
-    </div>
-
-    <div style="background-color: #9cadcf; height: 700px; position: relative;">
-        
-        <div class="container" style="max-width: 1400px;">
-            
-            <div class="padding" style="display: flex;">
-                <div style="flex: 1; text-align: -webkit-left; padding-top: 15%">
-                    <p style="font-size: 35px; color: black;"><b>Gandes vantagesns com o Pro Lite</b></p> 
-                    <p style="font-size: 23px; color: black; padding-top: 2.5%">
-                        Eficiência na gestão de fornecedores 
-                        <br>Foco na satisfação dos seus clientes 
-                        <br>Movimentações e valorização da mercadoria 
-                        <br>Controlo total sobre os pagamentos e recebimentos 
-                        <br>Credibilidade dos números da sua empresa.
-                    </p>  
-                </div>
+                            
+        </div>         
                 
-                <div style="flex: 1; text-align: -webkit-center; padding-top: 3%">
-                    <img class="img-fluid" src="/img/starter/202-min.png" alt="..." style="width: 80%"/>  
-                </div>
+    </div> 
+
+    <div style="background-color: #9cadcf; margin-bottom: 5%; margin-top: 3%">
+               
+        <div class="card-deck mb-3" style="background-color: #9cadcf; padding: 2.5% 7%">
+            <div class="card mb-4 padding" style="background-color: #9cadcf; padding-left:15px; border: 0px solid rgba(0,0,0,.125);">
+                <p style="font-size: 40px; color: black; padding: 15% 6% 0 0;"><b>Gandes vantagesns com o Pro Lite</b></p> 
+                <p style="font-size: 25px; color: black; padding: 3% 6% 0 0;">
+                    Eficiência na gestão de fornecedores 
+                    <br>Foco na satisfação dos seus clientes 
+                    <br>Movimentações e valorização da mercadoria 
+                    <br>Controlo total sobre os pagamentos e recebimentos 
+                    <br>Credibilidade dos números da sua empresa.
+                </p>  
             </div>
-            
-        </div>
-        
+
+            <div class="card mb-4 padding" style="background-color: #9cadcf; border: 0px solid rgba(0,0,0,.125);">
+                <img class="img-fluid" src="/img/starter/202-min.png" alt="..." style="width: 85%; text-align: -webkit-right; "/>    
+            </div>                            
+        </div>         
+                
     </div>
     
     <div style="height: 480px; position: relative;">        
@@ -240,7 +235,7 @@
                 <b>Tenha acesso ao primavera pro</b> 
             </p>  
 
-            <p style="font-size: 20px; word-spacing: 10px; color: black">
+            <p style="font-size: 20px; word-spacing: 10px; color: black; padding: 1.5% 0 0 0;">
                 O produto Primavera Pro Lite é comercializados através de um contrato de subscrição (anual ou por dois anos), 
                 o qual inclui updates de produto. 
             </p>   

@@ -12,7 +12,7 @@
         <div class="row" style="padding-left: 50px">
             <div class="col-lg-3 col-md-4">     
                 <img class="img-fluid footer_logotipo" src="/img/home/itangola_branco.png" alt="..." style="padding-top: 43px; padding-bottom: 0px; background-color: transparent"/> 
-                <p style="color:rgb(196, 196, 196); font-size: 15pt; padding-top: 12px; ">
+                <p style="color:rgb(196, 196, 196); font-size: 15pt; padding-top: 12px; line-height: 40px;">
                                         
                     <a href="/sobre">
                         Sobre nós
@@ -37,7 +37,7 @@
 
             <div class="col-lg-3 col-md-4">
                 <h5 class="footer_titulo" style="color:rgb(196, 196, 196); padding-top: 69px; padding-bottom: 20px;"><b>Notícias</b></h5>
-                <p style="color:rgb(196, 196, 196); font-size: 15pt"> 
+                <p style="color:rgb(196, 196, 196); font-size: 15pt; line-height: 40px;"> 
 
                     <a href="/blog">
                         Blog
@@ -53,7 +53,7 @@
 
             <div class="col-lg-3 col-md-4">
                 <h4 class="footer_titulo" style="color:rgb(196, 196, 196); padding-top: 69px; padding-bottom: 20px;"><b>Contactos</b></h4>
-                <p style="color:rgb(196, 196, 196); font-size: 15pt"> 
+                <p style="color:rgb(196, 196, 196); font-size: 15pt; line-height: 40px;"> 
                     
                     <a href="/contactos#localizacao">
                         Chegue até nós
@@ -66,7 +66,7 @@
 
             <div class="col-lg-3 col-md-4">
                 <h5 class="footer_titulo" style="color:rgb(196, 196, 196); padding-top: 69px; padding-bottom: 20px;"><b>Site</b></h5>
-                <p style="color:rgb(196, 196, 196); font-size: 15pt">  
+                <p style="color:rgb(196, 196, 196); font-size: 15pt; line-height: 40px;">  
                     
                     <a href="/privacidade">
                         Políticas
