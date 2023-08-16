@@ -23,7 +23,7 @@
 
     .carousel-control-icon {
       position: absolute;
-      top: 50%;
+      top: 53%;
       transform: translateY(-30%);
       width: 50px;
       height: 50px;
@@ -119,6 +119,7 @@
             </div>
 
         </div>
+
         <div class="carousel-item" style="max-height: 920px;">
             <div>
                 <img src="/img/slide/img-23.png" alt="Slide 3">
@@ -140,6 +141,7 @@
             </div>
 
         </div>
+
         <div class="carousel-item" style="max-height: 920px;">
 
             <div>

@@ -1,0 +1,78 @@
+/*
+    Nome: ZACARIAS J. CAPINGALA
+    Data: 11-08-2023
+    Organização: TIV Tecnologias - PagaSo
+    ESTRUTURAÇÃO DOS ESTILOS DO WEBSITE
+*/
+
+
+body {
+    font-family: 'Gothic A1', sans-serif;
+    /*width: 1920px; /* Largura da página */
+    margin: 0 auto; /* Centralizar horizontalmente */
+}
+
+
+/*START Estilos do Footer*/
+.footer_logotipo {
+    width: 264px;
+    height: 88px;
+}
+
+.footer_cegid_logotipo {
+    width: 274px;
+    height: 124.01px;
+}
+
+.footer_titulo {
+    font-family: 'Gothic A1', sans-serif;
+    font-size: 30pt;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 44px;
+    text-transform: capitalize;
+}
+
+.footer_paragrafo {
+    font-family: 'Gothic A1', sans-serif;
+    font-size: 30pt;
+    font-weight: bold;
+    letter-spacing: 100;
+    line-height: 44px;
+    text-transform: capitalize;
+}
+/*END Estilos do Footer*/
+
+
+/*START Estilos dos Títulos*/
+h1 {
+    font-family: 'Gothic A1', sans-serif;
+    /*
+    font-size: 60pt;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 80px;
+    text-transform: uppercase;
+    */
+}
+
+h2 {
+    font-family: 'Gothic A1', sans-serif;
+    /*
+    font-size: 44pt;
+    font-weight: light;
+    letter-spacing: 0;
+    line-height: 60px;
+    text-transform: capitalize;
+    */
+}
+
+p {
+    font-family: 'Gothic A1', sans-serif;
+    font-size: 30pt;
+    font-weight: normal;
+    letter-spacing: 0;
+    line-height: 50px;
+    /*text-transform: capitalize;*/
+}
+/*END Estilos dos Títulos*/
