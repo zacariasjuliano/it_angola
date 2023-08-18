@@ -124,13 +124,13 @@
 
     <div style="margin-bottom: 5%;">
 
-        <div style="padding: 1.5% 7%">        
+        <div style="padding: 2.5% 7%">        
             <div class="card-deck mb-3" >
                 <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: 0px; margin-right: -3px;">
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Vendas
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p class="box_text_pro_plus" style="font-size: 15px; color: white; line-height: 30px;">
                         Emita faturas, recibos, notas de débito, guias de remessa e de transporte, registe vendas a dinheiro, 
                         adiantamentos e devoluções.
                         Trata do IVA e os requisitos legais, documentos de transporte e envie o ficheiro SAFT ao portal da 
@@ -142,7 +142,7 @@
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Bancos
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p class="box_text_pro_plus" style="font-size: 15px; color: white; line-height: 30px;">
                         Facilmente controla os pagamentos (quer sejam feitos em numerário, cheque, cartão de crédito, multicaixa, 
                         ou outros meios de pagamento) e as comissões de vendedores. A gestão de talões também é simples.
                         Alertas de valores a receber e estatísticas sobre a atividade de cada Caixa, movimentos efetuados, vendas, 
@@ -154,7 +154,7 @@
                     <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
                         Contabilidade
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p class="box_text_pro_plus" style="font-size: 15px; color: white; line-height: 30px;">
                         Acelere a execução e obtenha o máximo rigor contabilístico. A solução PRIMAVERA Pro lite agiliza todo o 
                         processo contabilístico: desde o registo de documentos, passando pela gestão de orçamentos, elaboração 
                         de planos de contas por exercícios, até ao apuramento de resultados.
@@ -163,11 +163,11 @@
             </div>            
         
             <div class="card-deck mb-3" style="margin-bottom: -3rem!important; margin-top: -3rem!important;">
-                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: 0px; margin-right: -3px;">
-                    <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
+                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: 0px; margin-right: -3px; margin-top: -3.6rem!important;">
+                    <p class="text-center" style="font-size: 30px; color: white;">
                         Inventários
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p class="box_text_pro_plus" style="font-size: 15px; color: white; line-height: 30px;">
                         Com esta solução as encomendas são mais assertivas, a seleção de fornecedores mais ágil, o tratamento 
                         dos encargos relacionados com as compras mais eficiente, e a receção e conferência de compras mais fácil. 
                         Otimiza a gestão de armazéns, com ferramentas que lhe permitem gerir quantidades de reposição, entregas 
@@ -176,10 +176,10 @@
                 </div>
 
                 <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: -3px; margin-right: -3px;">
-                    <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
+                    <p class="text-center" style="font-size: 30px; color: white;">
                         Contas Correntes
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p class="box_text_pro_plus" style="font-size: 15px; color: white; line-height: 30px;">
                         Obtenha uma gestão eficiente dos Compras pagamentos e recebimentos. Reconciliação bancária, transferência 
                         entre contas, liquidação de aplicações financeiras, gestão de cheques pré-datados, transferência de cheques, 
                         entre muitas outras operações bancárias. Controe os limites de crédito por cada cliente,reorganize a carteira 
@@ -187,11 +187,11 @@
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: -3px; margin-right: 0px;">
-                    <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
+                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: -3px; margin-right: 0px; margin-top: -3rem!important;">
+                    <p class="text-center" style="font-size: 30px; color: white;">
                         Recursos Humanos
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p class="box_text_pro_plus" style="font-size: 15px; color: white; line-height: 30px;">
                         Trata automaticamente o processamento de salários e outras remunerações, sistemas contributivos e retenções, 
                         avenças, comissões, indemnizações e outros encargos.
                     </p>  
@@ -199,11 +199,11 @@
             </div>            
         
             <div class="card-deck mb-3" style="margin-bottom: 0rem!important; margin-top: 0rem!important;">
-                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: 0px; margin-right: 0px;">
-                    <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
+                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: 0px; margin-right: 0px; margin-top: -3.6rem!important;">
+                    <p class="text-center" style="font-size: 30px; color: white;">
                         Compras
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p class="box_text_pro_plus" style="font-size: 15px; color: white; line-height: 30px;">
                         Acabe com a rotura de stocks. Elimine o desperdício. Satisfaça os pedidos dos seus clientes com a máxima 
                         eficiência. Otimize ainda a gestão de inventário com ferramentas que auxiliam o controlo de stocks e 
                         respetiva valorização do Preço de Custo Médio em diversos.
@@ -211,10 +211,10 @@
                 </div>
 
                 <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: -6px; margin-right: -1px;">
-                    <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
+                    <p class="text-center" style="font-size: 30px; color: white;">
                         Encomendas
                     </p> 
-                    <p style="font-size: 15px; color: white;">
+                    <p class="box_text_pro_plus" style="font-size: 15px; color: white; line-height: 30px;">
                         Com esta solução as encomendas são mais assertivas, a seleção de fornecedores mais ágil, o tratamento dos 
                         encargos relacionados com as compras mais eficiente, e a receção e conferência de compras mais fácil.
                     </p>  
@@ -238,7 +238,7 @@
 
             <div style="flex: 1; text-align: -webkit-left; padding-left: 3%; padding-top: 9%;">
                 <p style="font-size: 35px; color: black;"><b>Renovação e fim de contrato</b></p> 
-                <p style="font-size: 20px; color: black;  padding-right: 43%;">
+                <p style="font-size: 20px; color: black;  padding-right: 58%; line-height: 35px;">
                     No que respeita à gestão de contratos de trabalho, torna-se tudo muito mais rápido e assertivo. 
                     A solução simplifica toda a gestão contratual: desde o controlo dos períodos experimentais, passando 
                     pela renovação e fins de contrato.
@@ -255,7 +255,7 @@
 
             <div style="flex: 1; text-align: -webkit-left; padding-top: 13%; padding-left: 7%;">
                 <p style="font-size: 35px; color: black;"><b>Formação de colaboradores</b></p> 
-                <p style="font-size: 20px; color: black; padding-right: 20%;">
+                <p style="font-size: 20px; color: black; padding-right: 43%; line-height: 35px;">
                     A gestão da formação é outra das preocupações do departamento de gestão de Recursos Humanos, mas só é uma 
                     preocupação se não tiver suporte tecnológico. Esta solução identifica facilmente as necessidades de formação 
                     dos colaboradores, de acordo com os requisitos de cada cargo, e suporta todos os processos de formação de 
@@ -271,14 +271,14 @@
         
     </div>
 
-    <div style="background-color: #9cadcf; height: 650px; position: relative;">
+    <div style="background-color: #9cadcf; height: 780px; position: relative;">
         
         <div class="container" style="max-width: 1400px;">
             
             <div class="padding" style="display: flex;">
-                <div style="flex: 1; padding-top: 10%;">
+                <div style="flex: 1; padding-top: 7.2%;">
                     <p style="font-size: 35px; color: black; text-align: -webkit-center; "><b>Dinamismo e crescimento no seu negócio</b></p> 
-                    <p style="font-size: 23px; color: black; text-align: -webkit-left; padding-left: 20%">
+                    <p style="font-size: 23px; color: black; text-align: -webkit-left; padding-left: 20%;">
                         Libertar-se do trabalho administrativo de gestão dos recursos humanos 
                         <br>Acelere as vendas com ferramentas simples de gestão de Caixa
                         <br>Gestão de Tesouraria 
@@ -305,9 +305,9 @@
                 <img class="img-fluid" src="/img/starter/212-min.png" alt="..." style="width: 60%"/>  
             </div>
 
-            <div style="flex: 1; text-align: -webkit-left; padding-top: 10%;">
+            <div style="flex: 1; text-align: -webkit-left; padding-top: 5.4%;">
                 <p style="font-size: 35px; color: black; padding-right: 47%;"><b>Informação financeira para tomar decisões acertivas</b></p> 
-                <p style="font-size: 20px; color: black; padding-right: 40%;">
+                <p style="font-size: 20px; color: black; padding-right: 55%; line-height: 40px;">
                     A solução PRO PLUS permite-lhe gerir de forma automática os processos operacionais de contabilidade, recursos humanos, 
                     vendas, compras, inventário, gestão de stocks, caixa, stock, e acima de tudo, dá-lhe ferramentas de análises 
                     operacional que lhe permitirão tomar melhores decisões.
@@ -324,7 +324,7 @@
                 <b>COMO TER ACESSO AO PRIMAVERA PRO LITE</b> 
             </p>  
 
-            <p style="font-size: 20px; word-spacing: 10px; color: black; width: 80%; margin-left: 10%">
+            <p class="text-center" style="font-size: 20px; word-spacing: 10px; color: black; width: 80%; margin-left: 7%">
                 O produto Primavera Pro Lite é comercializados através de um contrato de subscrição (anual ou por dois anos), 
                 o qual inclui atualizações de produto. 
             </p>   
@@ -336,8 +336,7 @@
 
         </div>        
     </div> 
-        
-    
+            
     
 
 @endsection

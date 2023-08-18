@@ -82,3 +82,8 @@ p {
 .box_pro_lite {
     height: 300px;
 }
+
+/*PRIMAVERA Pro Plus*/
+.box_text_pro_plus {
+    padding: 0 5%;
+}
