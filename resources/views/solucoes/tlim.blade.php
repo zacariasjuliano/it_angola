@@ -139,7 +139,7 @@
     <div style="background-color: rgb(246, 246, 246);">
         <div style="padding: 1.5% 20% 6% 20%;">        
             <div class="card-deck mb-3" >
-                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: 0px; margin-right: -3px; border-radius: 25px 0 0 0;">
+                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: 0px; margin-right: -3px; border-radius: 25px 0 0 0; border: 0">
                     <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 3%">
                         Artigos
                     </h5> 
@@ -151,7 +151,7 @@
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: -3px; margin-right: -3px; border-radius: 0 25px 0 0;">
+                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: -3px; margin-right: -3px; border-radius: 0 25px 0 0; border: 0">
                     <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 3%">
                         Caixa
                     </h5> 
@@ -165,7 +165,7 @@
             </div>            
         
             <div class="card-deck mb-3" style="margin-bottom: -3rem!important; margin-top: -3rem!important;">
-                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: 0px; margin-right: -3px; border-radius: 0 0 0 25px;">
+                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: 0px; margin-right: -3px; border-radius: 0 0 0 25px; border: 0">
                     <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 6%">
                         Clientes
                     </h5> 
@@ -176,7 +176,7 @@
                     </p>  
                 </div>
 
-                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: -3px; margin-right: -3px; border-radius: 0 0 25px 0;">
+                <div class="card mb-4 padding" style="background-color: #0f0034; margin-left: -3px; margin-right: -3px; border-radius: 0 0 25px 0; border: 0">
                     <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 6%">
                         Gestão
                     </h5> 
@@ -276,7 +276,7 @@
                 <h5 style="font-size:25px; color: #25006d;" hidden><b>2 ANOS</b></h5>
                 <h5 style="font-size:15px; font-style:bond; color: black;"><b>PREÇO SOB CONSULTA</b></h5>
                 
-                <hr style="width: 100%; color: black; border-top: 1.5px solid black; transform: translateX(-18%); margin-left: 85px;">                   
+                <hr style="width: 100%; color: black; border-top: 1.5px solid black; margin-left: 0px;">                   
                 
                 <ul style="text-align: left;">
                     <li style="padding-top: 6%">Integra com o ERP e com soluções móveis</li>
@@ -285,7 +285,7 @@
                     <li style="padding-top: 6%">Atualizações legais e fiscais</li>
                 </ul>                
 
-                <hr style="width: 100%; color: black; border-top: 1.5px solid black; transform: translateX(-18%); margin-left: 85px;"> 
+                <hr style="width: 100%; color: black; border-top: 1.5px solid black; margin-left: 0px;"> 
 
                 <div class="botao_2 botao_cor">
                     <a href="#" class="btn-center" style="color: white;">
