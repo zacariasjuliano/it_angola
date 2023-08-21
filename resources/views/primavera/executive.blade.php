@@ -1,7 +1,6 @@
 @extends('layout.template')
  
-@section('content')
-    
+@section('content')    
 
     <style>
         .botao {
@@ -72,8 +71,7 @@
     </style>
 
 
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">
-            
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">            
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -85,31 +83,29 @@
                 <h3 style="font-size:50px; color: white" class="padding"><b>PRIMAVERA EXECUTIVE</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">Para grandes empresas que procuram por grandes resultados</p>
             </div>
-        </div>
-        
+        </div>        
     </div>
 
-    <div style="margin-top: 3%; background-color: rgb(246, 246, 246);">
-
-        <div class="text-center">
+    <div style="background-color: rgb(246, 246, 246);">
+        <div style="padding-top: 6%;" class="text-center">
             <p style="font-size: 50px; color: blue">
                 <b>Adaptado a Realidade dos Grandes Negócios</b>
             </p>            
         </div> 
         
-        <div class="text-left" style="padding: 2% 15%"> 
-            <p style="font-size: 25px; color: black">
+        <div class="text-left" style="padding: 2% 0"> 
+            <p style="font-size: 25px; color: black; padding: 0 20%">
                 Usufrua de tecnologia que prepara a sua empresa para a era digital. Um sistema de gestão global, híbrido, que 
                 integra com aplicações cloud, inteligente, integrado, tecnologicamente preparado para integrar com qualquer 
                 sistema, plataforma ou aplicação e fácil de adaptar à realidade da sua empresa.
             </p>           
         </div>
 
-        <hr style="width: 37%; color: black; border-top: 1.5px solid black; transform: translateX(-18%);">
+        <hr style="width: 37%; color: black; border-top: 1.5px solid black;">
        
-        <div class="row text-center" style="margin-left: 10%; margin-top:2.5%">
+        <div class="row text-center" style="margin-top:2.5%; position: relative; display: flex; justify-content: center;">
             <div class="col-lg-3 col-md-4">                             
-                <img class="img-fluid" src="/img/home/Camada-3.png" alt="..." style="height: 13%; display: inline;"/>
+                <img class="img-fluid" src="/img/home/Camada-3.png" alt="..." style="height: 20%; display: inline;"/>
                             
                 <h4 class="my-3" style="color:#29598d;"><b>Logística</b></h4>
                 <div class="text-center">
@@ -122,7 +118,7 @@
             </div>
 
             <div class="col-lg-3 col-md-4">                          
-                <img class="img-fluid" src="/img/home/Camada-4.png" alt="..." style="height: 13%; display: inline"/>
+                <img class="img-fluid" src="/img/home/Camada-4.png" alt="..." style="height: 18%; display: inline"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Finanças</b></h4>
                 <div class="text-center equal-column fundo">
@@ -134,7 +130,7 @@
             </div>
 
             <div class="col-lg-3 col-md-4">                          
-                <img class="img-fluid" src="/img/home/Camada-1.png" alt="..." style="height: 10%; display: inline;"/>
+                <img class="img-fluid" src="/img/home/Camada-1.png" alt="..." style="height: 18%; display: inline;"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Recursos Humanos</b></h4>
                 <div class="text-center equal-column fundo">
@@ -146,9 +142,9 @@
             </div>
         </div>
 
-        <div class="row text-center" style="margin-left: 10%;">         
+        <div class="row text-center" style="position: relative; display: flex; justify-content: center;">         
             <div class="col-lg-3 col-md-4">                         
-                <img class="img-fluid" src="/img/home/Camada-2.png" alt="..." style="height: 10%; display: inline;"/>
+                <img class="img-fluid" src="/img/home/Camada-2.png" alt="..." style="height: 20%; display: inline;"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Equipamentos e activos</b></h4>
                 <div class="text-center equal-column fundo">
@@ -157,7 +153,7 @@
             </div>
 
             <div class="col-lg-3 col-md-4">                          
-                <img class="img-fluid" src="/img/home/Camada-4.png" alt="..." style="height: 13%; display: inline"/>
+                <img class="img-fluid" src="/img/home/Camada-4.png" alt="..." style="height: 20%; display: inline"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Projectos/Serviços</b></h4>
                 <div class="text-center equal-column fundo">
@@ -167,7 +163,7 @@
             </div>
 
             <div class="col-lg-3 col-md-4">                          
-                <img class="img-fluid" src="/img/home/Camada-1.png" alt="..." style="height: 10%; display: inline;"/>
+                <img class="img-fluid" src="/img/home/Camada-1.png" alt="..." style="height: 20%; display: inline;"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Instrumentos de Gestão</b></h4>
                 <div class="text-center equal-column fundo">
@@ -177,9 +173,9 @@
             </div>
         </div>
 
-        <div class="row text-center" style="margin-left: 10%;">         
+        <div class="row text-center" style="margin-left: 13.2%;">         
             <div class="col-lg-3 col-md-4">                         
-                <img class="img-fluid" src="/img/home/Camada-2.png" alt="..." style="height: 10%; display: inline;"/>
+                <img class="img-fluid" src="/img/home/Camada-2.png" alt="..." style="height: 20%; display: inline;"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>Relatórios</b></h4>
                 <div class="text-center equal-column fundo">
@@ -187,22 +183,19 @@
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-4">                          
-                <img class="img-fluid" src="/img/home/Camada-4.png" alt="..." style="height: 13%; display: inline"/>
+            <div class="col-lg-3 col-md-4" style="margin-left: 4.2%;">                          
+                <img class="img-fluid" src="/img/home/Camada-4.png" alt="..." style="height: 20%; display: inline"/>
                 
                 <h4 class="my-3" style="color:#29598d;"><b>ERM</b></h4>
                 <div class="text-center equal-column fundo">
                     <h6>Contactos, OPV, Cobranças</h6> 
                 </div>
             </div>
-        </div>
-                
+        </div>                
     </div>
 
     <div style="background-color: white; height: 650px; position: relative;">
-            
-        <div style="display: flex;">
-            
+        <div style="display: flex;">            
             <div style="flex: 1; text-align: -webkit-center;">
                 <img class="img-fluid" src="/img/starter/221.png" alt="..." style="width: 75%"/>  
             </div>
@@ -215,41 +208,38 @@
                     e dinâmicas de negócio e correlacionálos , de forma a alertar para incongruências de dados 
                     e erros na informação.
                 </p>  
-            </div>
-            
-        </div>
-        
+            </div>            
+        </div>        
     </div>  
 
-    <div class="container" style="background-color: white; height: 550px; position: relative;">
-        
+    <div class="container" style="background-color: white; height: 600px; position: relative;">        
         <div style="flex: 1; text-align: -webkit-center; padding-top: 10%;">
             <p style="font-size: 30px; color: black;"><b>Impulsione a preformance da sua empresa</b></p> 
-            <p style="font-size: 20px; color: black; text-align: -webkit-center; padding: 0 11%;">
+            <p style="font-size: 20px; color: black; text-align: -webkit-left; padding: 0 14%;">
                 O erp primavera executive é uma solução global de gestão que fortalece a performance das organizações 
                 de grande dimensão, destacando-se pela:
             </p> 
 
-            <ul style="text-align: left;">
-                <li style="padding-top: 1%; font-size: 16px;">Profunda capacidade de adaptação com baixos custos de customização</li>
-                <li style="padding-top: 1%; font-size: 16px;">Integração de todos os processos de negócio</li>
-                <li style="padding-top: 1%; font-size: 16px;">Rápida resposta à fiscalidade</li>
-                <li style="padding-top: 1%; font-size: 16px;">Atualização contínua</li>
-                <li style="padding-top: 1%; font-size: 16px;">Facilidade de obtenção de informação consolidada do negócio</li>
-                <li style="padding-top: 1%; font-size: 16px;">Simplicidade e rapidez de reporting</li>
+            <ul style="text-align: left; font-size: 20px;">
+                <li style="padding-top: 1%;">Profunda capacidade de adaptação com baixos custos de customização</li>
+                <li style="padding-top: 1%;">Integração de todos os processos de negócio</li>
+                <li style="padding-top: 1%;">Rápida resposta à fiscalidade</li>
+                <li style="padding-top: 1%;">Atualização contínua</li>
+                <li style="padding-top: 1%;">Facilidade de obtenção de informação consolidada do negócio</li>
+                <li style="padding-top: 1%;">Simplicidade e rapidez de reporting</li>
             </ul>
 
-        </div>
-        
+        </div>        
     </div> 
     
-    <div style="background-color: #8abce6; height: 700px; position: relative;">
-        
+    <div style="background-color: #8abce6; height: 750px; position: relative;">        
         <div class="container" style="max-width: 1400px;">
             
             <div class="padding" style="display: flex;">
-                <div style="flex: 1; text-align: -webkit-left; padding-top: 15%">
-                    <p style="font-size: 35px; color: black;">Agilidade, robustez e segurança para gerir o seu negócio de forma transversal:</p> 
+                <div style="flex: 1; text-align: -webkit-left; padding-top: 9%">
+                    <p style="font-size: 32.1px; color: black;">
+                        <b>Agilidade, robustez e segurança para gerir o seu negócio de forma transversal:</b>
+                    </p> 
                     <p style="font-size: 20px; color: black;">
                         Uma solução sólida com mais de 25 anos de experiência
                         <br>Integre todas as aplicações e sistemas num ERP sólido
@@ -261,19 +251,17 @@
                     </p>  
                 </div>
                 
-                <div style="flex: 1; text-align: -webkit-center; padding-top: 8%">
-                    <img class="img-fluid" src="/img/starter/223-min.png" alt="..." style="width: 70%"/>  
+                <div style="flex: 1; text-align: -webkit-center; padding-top: 6%">
+                    <img class="img-fluid" src="/img/starter/223-min.png" alt="..." style="width: 80%"/>  
                 </div>
             </div>
             
-        </div>
-        
-    </div>
+        </div>        
+    </div>    
     
-    
-    <div style="height: 900px; position: relative;">        
+    <div style="height: 800px; position: relative;">        
         <div class="container padding">
-            <h3 class="text-center" style="word-spacing: 10px; padding-top: 6%; color: blue;">
+            <h3 class="text-center" style="font-size: 36px; word-spacing: 10px; padding-top: 6%; color: blue;">
                 <b>Acesso Ao Primavera Executive</b> 
             </h3>  
 
@@ -293,12 +281,20 @@
                     Obtenha uma licença de subscrição anual para dois 2 utilzadores inicialmente. 
                 </p>  
             </div>   
-            
-            <a href="#" class="botao_2 btn-center botao_cor" style="color: white; position: relative; display: flex; justify-content: center;">
-                Obter esta solução
-            </a>
-
         </div>        
     </div>
+    
+
+    <div style="height: 350px; position: relative;">        
+        <div class="container padding">  
+            
+            <div class="botao_2 btn-center botao_cor" style="text-align: -webkit-center;">
+                <a href="#" style="color: white; position: relative; display: flex; justify-content: center;">
+                    Obter esta solução
+                </a>
+            </div>
+
+        </div>        
+    </div> 
 
 @endsection
