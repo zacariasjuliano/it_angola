@@ -87,3 +87,15 @@ p {
 .box_text_pro_plus {
     padding: 0 5%;
 }
+
+
+/*PRIMAVERA Proficional*/
+.modulos_info {
+    text-align: -webkit-left;
+    color: white;
+    /*padding-top: 9%;
+    padding-bottom: 0%;*/
+    padding-left: 13%;
+    padding-right: 5%;
+}
+

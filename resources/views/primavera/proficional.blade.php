@@ -119,16 +119,22 @@
             <p style="font-size: 25px; color: blue">
                 <b> Logística </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao10.png')">
-                <div style="flex: 1;"> 
-                    <p class="modulo">   
-                        Vedas
-                        <br>Inventário
-                        <br>Compras
-                        <br>Encomendas
-                        <br>Requisições Internas 
-                    </p>                  
-                </div>
+            <div style="background-image: url('/img/starter/Subtracao10.png'); height: 220px;">   
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; padding-top: 6%">   
+                    Vedas
+                </p>
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; margin-top: -9%;">   
+                    Inventário 
+                </p>
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; margin-top: -7%;">   
+                    Compras 
+                </p>
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; margin-top: -7%;">   
+                    Encomendas 
+                </p>
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; margin-top: -8%;">   
+                    Requisições Internas 
+                </p>   
             </div>
         </div>  
 
@@ -136,15 +142,19 @@
             <p style="font-size: 25px; color: blue">
                 <b> Finanças  </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao12.png')">
-                <div style="flex: 1;">    
-                    <p class="modulo" style="padding-bottom: 17%;">   
-                        Tesouraria/Contas C
-                        <br>Tesouraria/Bancos
-                        <br>Contabilidade Base
-                        <br>Contabilidade Gestão 
-                    </p>               
-                </div>
+            <div style="background-image: url('/img/starter/Subtracao12.png'); height: 220px;"> 
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; padding-top: 6%">   
+                    Tesouraria/Contas C
+                </p>
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; margin-top: -9%;">   
+                    Tesouraria/Bancos 
+                </p>
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; margin-top: -7%;">   
+                    Contabilidade Base 
+                </p>
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; margin-top: -7%;">   
+                    Contabilidade Gestão 
+                </p>
             </div>
         </div> 
 
@@ -152,10 +162,10 @@
             <p style="font-size: 25px; color: blue">
                 <b> Relatórios </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao16.png')">
-                <div style="flex: 1;">  
-                    <p class="modulo" style="padding: 23% 10%;">Dashboards de Gestão</p>                 
-                </div>
+            <div style="background-image: url('/img/starter/Subtracao16.png'); height: 220px;">                 
+                <p class="modulos_info" style="font-size: 15pt; line-height: 212px;">
+                    Dashboards de Gestão
+                </p> 
             </div>
         </div> 
 
@@ -167,12 +177,10 @@
             <p style="font-size: 25px; color: blue">
                 <b> ERM </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao17.png')">
-                <div style="flex: 1;">
-                    <p class="modulo" style="padding-bottom: 40%;">
-                        Contactos, OPV, Cobranças
-                    </p>                     
-                </div>
+            <div style="background-image: url('/img/starter/Subtracao17.png'); height: 220px;">                
+                <p class="modulos_info" style="font-size: 15pt; line-height: 215px;">
+                    Contactos, OPV, Cobranças
+                </p>      
             </div>
         </div>  
 
@@ -180,13 +188,13 @@
             <p style="font-size: 25px; color: blue">
                 <b> Projectos/Serviços  </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao14.png')">
-                <div style="flex: 1;"> 
-                    <p class="modulo" style="padding-bottom: 33%;">
-                        Serviços Técnicos
-                        <br>Projetos/Obras
-                    </p>                  
-                </div>
+            <div style="background-image: url('/img/starter/Subtracao14.png'); height: 220px;">                
+                <p class="modulos_info" style="font-size: 15pt; line-height: 115px;">
+                    Serviços Técnicos
+                </p>
+                <p class="modulos_info" style="font-size: 15pt; margin-top: -90px; line-height: 115px;">
+                    Projetos/Obras
+                </p> 
             </div>
         </div> 
 
@@ -194,13 +202,13 @@
             <p style="font-size: 25px; color: blue">
                 <b> Instrumentos de Gestão </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao15.png')">
-                <div style="flex: 1;"> 
-                    <p class="modulo" style="padding-bottom: 33%;">
-                        Controlo Financeiro de Projetos
-                        <br>Gestão de Contratos
-                    </p>                   
-                </div>
+            <div style="background-image: url('/img/starter/Subtracao15.png'); height: 220px;">                
+                <p class="modulos_info" style="font-size: 15pt; line-height: 115px;">
+                    Controlo Financeiro de Projetos
+                </p> 
+                <p class="modulos_info" style="font-size: 15pt; line-height: 115px; margin-top: -90px;">
+                    Gestão de Contratos
+                </p>  
             </div>
         </div> 
 
@@ -212,12 +220,10 @@
             <p style="font-size: 25px; color: blue">
                 <b> Equipamentos & Activos </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao13.png')">
-                <div style="flex: 1;"> 
-                    <p class="modulo" style="padding: 23% 10%;">
-                        Ativos
-                    </p>                  
-                </div>
+            <div style="background-image: url('/img/starter/Subtracao13.png'); height: 220px;">                
+                <p class="modulos_info" style="font-size: 15pt; line-height: 215px;">
+                    Ativos
+                </p>      
             </div>
         </div>  
 
@@ -225,14 +231,16 @@
             <p style="font-size: 25px; color: blue">
                 <b> Recursos Humanos  </b>
             </p>
-            <div style="display: flex; background-image: url('/img/starter/Subtracao11.png')">
-                <div style="flex: 1;">
-                    <p class="modulo" style="padding-bottom: 26%;">
-                        RH Até 20 Colaboradores
-                        <br>RH Até 100 Colaboradores
-                        <br>RH (Ilimitado)
-                    </p>                                    
-                </div>
+            <div style="background-image: url('/img/starter/Subtracao11.png'); height: 220px;">                                
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; padding-top: 6%">   
+                    RH Até 20 Colaboradores
+                </p>
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; margin-top: -9%;">   
+                    RH Até 100 Colaboradores 
+                </p>
+                <p class="modulos_info" style="font-size: 15pt; line-height: 45px; margin-top: -7%;">   
+                    RH (Ilimitado) 
+                </p>                
             </div>
         </div> 
 
@@ -267,12 +275,12 @@
             <div class="padding" style="display: flex;">
                 <div style="flex: 1; padding-top: 5%;">
                     <p style="font-size: 35px; color: black; text-align: -webkit-center;"><b>Descubra o que esta solução lhe garante</b></p> 
-                    <p style="font-size: 22px; color: black;">
+                    <p style="font-size: 22px; color: black; padding-left: 9%; padding-right: 9%;">
                         O Primavera Professional impulsiona os resultados através de mecanismos de produtividade. As operações são rápidas. 
                         Os processos seguros. E a informação fidedigna. O negócio acontece mais rapidamente. Os resultados surgem de forma 
                         mais expressiva. Descubra uma solução de gestão que lhe garante:
                     </p> 
-                    <ul>
+                    <ul style="padding-left: 12%;">
                         <li style="font-size: 20px; color: black;">Toda a informação que precisa sempre à mão</li>
                         <li style="font-size: 20px; color: black;">Mais rentabilidade, novas oportunidades de negócio</li> 
                         <li style="font-size: 20px; color: black;">Segurança no cumprimento das obrigações fiscais</li> 
@@ -289,36 +297,36 @@
         </div>
         
     </div>
-    
+
     <div style="background-color: #9cadcf; height: 750px; position: relative; padding: 0% 0%">
-            
-        <div class="padding" style="display: flex;">
-            
-            <div style="flex: 1; text-align: -webkit-center; padding-top: 10%;">
-                <img class="img-fluid" src="/img/starter/youtube.png" alt="..." style="width: 45%"/>  
+               
+        <div class="card-deck mb-3" style="padding: 10% 7%;">
+            <div class="card mb-4 padding" style="border: 0px solid rgba(0,0,0,.125); background-color: #9cadcf;  justify-content: right;">
+                <img class="img-fluid" src="/img/starter/youtube.png" alt="..." style="width: 45%;"/>      
             </div>
 
-            <div style="flex: 1; text-align: -webkit-left; padding-left: 7%; padding-top: 12.5%;  padding-right: 23%;">
+            <div class="card mb-4 padding" style="padding-left:15px; border: 0px solid rgba(0,0,0,.125); background-color: #9cadcf;">
                 <p style="font-size: 35px; color: black;"><b>Análises de performance em tempo</b></p> 
-                <p style="font-size: 20px; color: black;">
+                <p style="font-size: 20px; color: black; padding-right: 24%;">
                     Otimize a gestão estratégica da sua empresa através do acesso a um conjunto de dashboards de 
                     gestão com métricas e indicadores sobre as principais áreas operacionais da empresa, 
                     nomeadamente, as vendas, compras, inventário, financeira e recursos humanos.
-                </p>  
+                </p>   
             </div>
-            
-        </div>
+                            
+        </div>         
+                
+    </div> 
         
-    </div>
-        
-    <div style="height: 560px; position: relative; padding: 3% 0%; background-color: #e1e1e1;">
+    <div style="height: 700px; position: relative; padding: 3% 0%; background-color: #e1e1e1;">
             
         <div class="container padding" style="display: flex;">
 
             <div style="flex: 1; text-align: -webkit-left; padding-top: 3%;">
                 <p style="font-size: 40px; color: black;"><b>TENHA ACESSO AO PRIMAVERA PROFESSIONAL</b></p> 
-                <b>On-premises</b><br>
+                
                 <p style="font-size: 22px; color: black;">
+                    <b>On-premises</b><br>
                     Obtenha uma licença perpétua de utilização da solução. Aceda à sua solução de gestão na modalidade mais 
                     convencional: On-premises. Com esta modalidade terá acesso a uma licença perpétua de utilização do software. 
                     Poderá ainda evitar custos de atualização imprevisíveis e encargos elevados de manutenção do sistema com o 
@@ -326,8 +334,8 @@
                     tecnológicas, e de acompanhar a evolução legal e fiscal em diversos mercados, a um custo controlado e 
                     competitivo. 
                 </p>
-                <b>Subscrição Anual</b><br> 
                 <p style="font-size: 22px; color: black;">
+                    <b>Subscrição Anual</b><br> 
                     Obtenha uma licença de subscrição anual para dois 2 utilzadores inicialmente. 
                 </p>  
             </div>
