@@ -105,8 +105,6 @@
 
 
     <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">
-            
-        <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="/img/academy/img-11.png" alt="Slide 1">                
@@ -117,12 +115,11 @@
                 <h3 style="font-size:50px; color: white" class="padding"><b>IT-ACADEMY</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">Formação do Software Cegid Erp Primavera</p>
             </div>
-        </div>
-        
+        </div>        
     </div>
 
-    <div style="margin-bottom: 2%; margin-top: 7%; background-color: white;">
 
+    <div style="margin-bottom: 2%; margin-top: 7%; background-color: white;">
         <div class="text-center">
             <p style="font-size: 50px; color: rgb(48, 48, 145)">
                 <b>Procura Por Uma Formação Primavera?</b>
@@ -140,12 +137,11 @@
             <p style="font-size: 25px; color: black">
                 O que você pode aprender:
             </p>          
-        </div>
-                
+        </div>                
     </div>
+    
 
     <div style="margin-bottom: 5%; margin-top: 1%;">
-
         <div style="padding: 1.5% 7%">        
             
             <div class="card-deck mb-3">
@@ -268,7 +264,7 @@
                         <br>Outros;
                     </p> 
 
-                    <div class="botao_2 botao_cor" style="background-color: #2680eb; margin-top:20%">
+                    <div class="botao_2 botao_cor" style="background-color: #2680eb; margin-top:40%">
                         <a href="#" class="btn-center" style="color: white; font-size: 25px;">
                             Estou Interessado/a 
                         </a>
@@ -290,7 +286,7 @@
                         <br>Outros;
                     </p> 
 
-                    <div class="botao_2 botao_cor" style="background-color: #2680eb; margin-top:20%">
+                    <div class="botao_2 botao_cor" style="background-color: #2680eb; margin-top:40%">
                         <a href="#" class="btn-center" style="color: white; font-size: 25px;">
                             Estou Interessado/a 
                         </a>
@@ -299,7 +295,7 @@
             </div>
 
             <div class="card-deck mb-3">
-                <div class="card mb-4 padding" style="margin-left: 0px; margin-right: 7px;">
+                <div class="card mb-4 padding" style="margin-left: 0px; margin-right: 7px; border: 0px">
                      
                 </div>  
                 
@@ -324,17 +320,16 @@
                     </div> 
                 </div>
 
-                <div class="card mb-4 padding" style="margin-left: 7px; margin-right: 0px;">
+                <div class="card mb-4 padding" style="margin-left: 7px; margin-right: 0px; border: 0px">
                     
                 </div>
             </div>
 
-        </div>
-                
+        </div>                
     </div>
 
-    <div style="background-color: #042447; height: 980px; position: relative; padding: 0% 0%">
-        
+
+    <div style="background-color: #042447; height: 980px; position: relative; padding: 0% 0%">        
         <div class="contanier" style="flex: 1; padding-top: 7%;">
             <p style="font-size: 40px; color: white; text-align: -webkit-center;">
                 <b>Certificado + Bonus</b>
@@ -347,28 +342,27 @@
                 <img src="/img/academy/certificado.png" alt="Slide 1" style="width: 45%; display: flex; justify-content: center; align-items: center">
             </div>
 
-        </div>
-        
+        </div>        
     </div> 
 
+
     <div style="display: flex; justify-content: center; align-items: center; padding-bottom: 7%;">
-            <p style="font-size:40px; color: white; margin-top: 10%; background-color: blue" class="padding">
-                + 120 
-            </p>
-            <p style="font-size:40px; color: black; margin-top: 10%; margin-left: -1%" class="padding">
-                <b>PROFISSIONAIS FORMADOS</b>
-            </p>
+        <p style="font-size:40px; color: white; margin-top: 6.3%; background-color: blue; height: 140px; padding: 4% 0.5% 0 0.5% ">
+            + 120 
+        </p>
+        <p style="font-size:40px; color: black; margin-top: 10%; margin-left: -1%" class="padding">
+            <b>PROFISSIONAIS FORMADOS</b>
+        </p>
     </div>
 
     
-    <div style="background-color: #6aa8a1; height: 500px; position: relative;">
-        
+    <div style="background-color: #6aa8a1; height: 500px; position: relative;">        
         <div class="container padding">
             <h5 class="text-center" style="font-size: 35px; color: black; word-spacing: 10px; padding-top: 8%;">
                 <b>O Que Falam Os Formandos</b> 
             </h5>  
             
-            <p class="text-center" style="font-size: 20px; color: black; word-spacing: 10px; padding-left: 15%; padding-right: 15%;">
+            <p class="text-center" style="font-size: 20px; color: black; word-spacing: 10px; padding: 0 14%;">
                 “o starter plus é como um amigo que podemos confiar, que quando precisamos contar algum segredo do nosso negócio ele esta aí para 
                 nos ouvir. o starter plus dá-nos uma visão ampla daquilo que fazemos no nosso dia a dia na empresa, é uma ferramenta muito 
                 importante para nós.” 
@@ -383,8 +377,7 @@
                 </div>
             </div>
             
-        </div>
-        
+        </div>        
     </div>
 
 
