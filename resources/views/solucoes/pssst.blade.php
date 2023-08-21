@@ -144,7 +144,7 @@
                     <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 3%">
                         Stocks
                     </h5> 
-                    <p style="font-size: 15px; color: white; padding: 0 5%; line-height: 30px; padding: 0 12%">
+                    <p style="font-size: 15px; color: white; line-height: 30px; padding: 0 12%">
                         Gerir as entradas e saídas de stock é muito simples com esta solução. Facilmente pode configurar 
                         alertas com níveis mínimos de reposição. Desta forma, tem sempre a certeza de que vai satisfazer 
                         oportunamente os pedidos dos seus clientes.
@@ -155,7 +155,7 @@
                     <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 3%">
                         Preços
                     </h5> 
-                    <p style="font-size: 15px; color: white; padding: 0 5%; line-height: 30px; padding: 0 12%">
+                    <p style="font-size: 15px; color: white; line-height: 30px; padding: 0 12%">
                         Simplifique ao máximo a gestão de preços com o Pssst!TM. A solução dispõe de um sistema de menus 
                         dinâmico que facilita a gestão de valores diferenciados conforme ingredientes; bem como a composição 
                         estática e dinâmica de artigos; a definição de preços por sala, por cliente, por hora (happy hours) 
@@ -167,7 +167,7 @@
                     <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 0%">
                         Pedidos
                     </h5> 
-                    <p style="font-size: 15px; color: white; padding: 0 5%; line-height: 30px; padding: 0 12%">
+                    <p style="font-size: 15px; color: white; line-height: 30px; padding: 0 12%">
                         As operações são muito simples e rápidas com o Pssst! De um modo intuitivo, e sem necessidade de formação, 
                         rapidamente os operadores executam todas as ações no POS.
                     </p>  
@@ -179,7 +179,7 @@
                     <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 0%">
                         Caixa
                     </h5> 
-                    <p style="font-size: 15px; color: white; padding: 0 5%; line-height: 30px; padding: 0 12%">
+                    <p style="font-size: 15px; color: white; line-height: 30px; padding: 0 12%">
                         Obtenha o máximo rigor na gestão de caixa. 
                         <br>Com o Pssst!TM é muito simples controlar a abertura/fecho de caixa, assim como as entradas e saídas. 
                         A gestão do Fundo de Maneio é mais rigorosa. Controla também com precisão as vendas, através de declarações 
@@ -191,7 +191,7 @@
                     <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 0%">
                         Fidelização
                     </h5> 
-                    <p style="font-size: 15px; color: white; padding: 0 5%; line-height: 30px; padding: 0 12%">
+                    <p style="font-size: 15px; color: white; line-height: 30px; padding: 0 12%">
                         Fortaleça a relação com os seus clientes. Implemente facilmente medidas que impulsionam a fidelização. 
                         Com o Pssst!TM é muito fácil gerir cartões de clientes.
                     </p>  
@@ -201,7 +201,7 @@
                     <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 0%">
                         Controlo
                     </h5> 
-                    <p style="font-size: 15px; color: white; padding: 0 5%; line-height: 30px; padding: 0 12%">
+                    <p style="font-size: 15px; color: white; line-height: 30px; padding: 0 12%">
                         Obtenha a máxima eficiência na gestão de caixa. Controle detalhadamente as existências de stock. 
                         Otimize as encomendas aos fornecedores. Simplifique a gestão dos colaboradores.
                     </p>  
@@ -213,7 +213,7 @@
                     <h5 class="text-center" style="font-size: 30px; color: white; padding-top: 0%">
                         Interatividade
                     </h5> 
-                    <p style="font-size: 15px; color: white; padding: 0 5%; line-height: 30px; padding: 0 12%">
+                    <p style="font-size: 15px; color: white; line-height: 30px; padding: 0 12%">
                         Nove na comunicação com os seus clientes. <br>Proporcione uma experiência interativa verdadeiramente 
                         fascinante. <br>Dê aos seus clientes a possibilidade de efetuarem os seus próprios pedidos através 
                         de equipamentos.
