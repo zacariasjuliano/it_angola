@@ -94,6 +94,7 @@
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
+                <img src="/img/itangola_branco.png" alt="..." style="width: 30%"> 
                 <h3 style="font-size: 50px; color: white" class="padding"><b>CHEGOU A ERA DIGITAL<b></h3>
                 <p style="font-size: 30px; color: white" class="padding">A sua empresa já esta preparada para ela?</p>
             </div>
