@@ -70,6 +70,9 @@
             margin-bottom: 0px;
             */
         }
+        ::marker {
+            font-family: fantasy;
+        }
     </style>
 
 
@@ -145,12 +148,12 @@
                     confiança em todas as nossas atividades. Estamos empenhados em agir com responsabilidade e promover a ética nos negócios.
                     <br>
                     <br>
-                    <p style="font-size: 20px; color: black;">
-                        Esses são apenas alguns exemplos de como a IT-Angola se envolve em responsabilidade social. Estamos comprometidos 
-                        em causar um impacto positivo em nossa comunidade e no mundo ao nosso redor.
-                    </p>
                 </li>
             </ol>
+            <p style="font-size: 20px; color: black; line-height: 30px;">
+                Esses são apenas alguns exemplos de como a IT-Angola se envolve em responsabilidade social. Estamos comprometidos 
+                em causar um impacto positivo em nossa comunidade e no mundo ao nosso redor.
+            </p>
 
         </div>
     </div>
