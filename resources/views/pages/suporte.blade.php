@@ -73,8 +73,7 @@
     </style>
 
 
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">
-            
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">            
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -84,15 +83,14 @@
             <div class="carousel-center-text" style="text-align: -webkit-center;">
                 <h3 style="font-size: 50px; color: white" class="padding"><b>SUPORTE</b></h3>
             </div>
-        </div>
-        
+        </div>        
     </div>
 
 
     <section class="section" style="padding: 0px 0px; background-color:white;">		
-        <div class="row" style="padding-left: 5%; padding-bottom: 7%">  
+        <div class="row" style="padding-left: 12%; padding-bottom: 7%">  
 
-            <div class="col-md-6" style="padding-right: 11%; padding-top: 13%;">
+            <div class="col-md-6" style="padding-right: 9%; padding-top: 13%;">
                 <h2 class="animated-element margin-bottom-20"  style="color:blue; font-size: 55px;">                   
                     Serviços de suporte técnico                    								
                 </h2>
@@ -129,7 +127,7 @@
             </div>                            
                                     
             <div class="col-md-6" style="flex: 0 0 45%; padding-top: 13%;">
-                <img src="/img/pages/1000-min.png" alt="" style="width: 55%">
+                <img src="/img/pages/1000-min.png" alt="" style="width: 70%">
             </div>
 
         </div>			
