@@ -106,10 +106,10 @@
                 Disponibilizamos um serviço de suporte personalizado e próximo para que retire o máximo valor da 
                 ecnologia com a mínima preocupação.<br> 
                 Trabalhamos para que o seu foco seja o crescimento da empresa e não a resolução das questões técnicas 
-                do dia-a-dia, <br>Disponibilizamos uma equipa comprometida com as necessidades técnicas da sua organização 
+                do dia-a-dia, Disponibilizamos uma equipa comprometida com as necessidades técnicas da sua organização 
                 e empenhada no apoio diário para a melhor utilização possível do software PRIMAVERA.
                 <br>Prestamos serviços de assistência e suporte informático via telefónica, remota ou local com o objectivo 
-                de proactivamente despistar e resolver qualquer incidente.
+                de pro-activamente despistar e resolver qualquer incidente.
 
             </p>          
         </div>         
