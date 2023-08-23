@@ -79,6 +79,9 @@
             margin-bottom: 0px;
             */
         }
+        ::marker {
+            font-family: fantasy;
+        }
     </style>
 
 
@@ -110,7 +113,7 @@
         </div> 
         
         <div class="text-left" style="padding: 2% 13%"> 
-            <p style="font-size: 25px; color: black">
+            <p style="font-size: 25px; color: black; line-height: 50px;">
                 Agradecemos por visitar o website www.it-angola.com. Estamos comprometidos em proteger a sua privacidade e em 
                 garantir a segurança dos seus dados pessoais. Esta Política de Privacidade de Uso de Dados 
                 ("Política de Privacidade") explica como coletamos, usamos, compartilhamos e protegemos as informações que 
@@ -118,88 +121,85 @@
                 estabelecidos nesta Política de Privacidade. Caso não concorde com estes termos, por favor, não utilize o Website. 
             </p>
 
-            <ol style="list-style-position: outside; list-style-position: outside;">
+            <ol style="list-style-position: outside; list-style-position: outside; margin-left: -22px;">
                 <li style="font-size: 20px; padding-left: 40px;">
-                    <b>INFORMAÇÕES COLETADAS</b> <br>
-                    <p  style="font-size: 18px; color: black">
-                        1.1. Informações fornecidas por você: Ao utilizar o Website, podemos coletar informações pessoais que você nos 
-                        fornece voluntariamente, como nome, endereço de e-mail, número de telefone, entre outras. Essas informações são 
-                        necessárias para fornecer os serviços solicitados por você e para melhorar a sua experiência no Website. 
-                    </p>                     
-                    <p style="font-size: 18px; color: black">
-                        <b>1.2. Informações coletadas automaticamente:</b>
-                        <br>Quando você acessa o Website, podemos coletar automaticamente informações não identificáveis, como endereço IP, 
-                        tipo de navegador, provedor de serviços de Internet, páginas visitadas, data e hora de acesso, entre outras. Essas 
-                        informações são coletadas para fins de análise estatística e para melhorar o desempenho e a segurança do Website.
-                    </p>
+                    <b>INFORMAÇÕES COLETADAS</b> <br>                    
                 </li>
+                <p style="font-size: 18px; color: black; margin-left: -1.5%; line-height: 35px;">
+                    1.1. Informações fornecidas por você: Ao utilizar o Website, podemos coletar informações pessoais que você nos 
+                    fornece voluntariamente, como nome, endereço de e-mail, número de telefone, entre outras. Essas informações são 
+                    necessárias para fornecer os serviços solicitados por você e para melhorar a sua experiência no Website. 
+                </p>                     
+                <p style="font-size: 18px; color: black; margin-left: -1.5%; line-height: 35px;">
+                    <b>1.2. Informações coletadas automaticamente:</b>
+                    <br>Quando você acessa o Website, podemos coletar automaticamente informações não identificáveis, como endereço IP, 
+                    tipo de navegador, provedor de serviços de Internet, páginas visitadas, data e hora de acesso, entre outras. Essas 
+                    informações são coletadas para fins de análise estatística e para melhorar o desempenho e a segurança do Website.
+                </p>
                 <br>
 
                 <li style="font-size: 20px; padding-left: 40px;">
                     <b>USO DAS INFORMAÇÕES COLETADAS</b>
-                    <p style="font-size: 18px; color: black">
-                        2.1. Utilização interna: As informações coletadas podem ser utilizadas para melhorar e personalizar a sua 
-                        experiência no Website, fornecer os serviços solicitados por você, responder a suas perguntas e solicitações, enviar 
-                        notificações relevantes, melhorar a segurança do Website e cumprir com obrigações legais.
-                    </p> 
-
-                    <b>2.2. Compartilhamento de informações:</b> 
-                    <p style="font-size: 18px; color: black">
-                        Não compartilhamos suas informações pessoais com terceiros, exceto quando necessário para cumprir com obrigações 
-                        legais ou com o seu consentimento prévio. Podemos compartilhar informações não identificáveis com parceiros de negócios 
-                        para fins de análise e marketing.
-                    </p>
-
-                    <b>2.3. Cookies e tecnologias similares:</b>
-                    <p style="font-size: 18px; color: black">
-                        <br>Utilizamos cookies e tecnologias similares para coletar informações sobre a sua interação com o Website. Essas 
-                        informações nos ajudam a melhorar a funcionalidade e a personalização do Website. Você pode gerenciar suas preferências 
-                        de cookies por meio das configurações do seu navegador.
-                    </p>
-
                 </li>
+                <p style="font-size: 18px; color: black; margin-left: -1.5%; line-height: 35px;">
+                    2.1. Utilização interna: As informações coletadas podem ser utilizadas para melhorar e personalizar a sua 
+                    experiência no Website, fornecer os serviços solicitados por você, responder a suas perguntas e solicitações, enviar 
+                    notificações relevantes, melhorar a segurança do Website e cumprir com obrigações legais.
+                </p> 
+
+                <p style="font-size: 18px; color: black; margin-left: -1.5%; line-height: 35px;"><b>2.2. Compartilhamento de informações:</b>
+                    Não compartilhamos suas informações pessoais com terceiros, exceto quando necessário para cumprir com obrigações 
+                    legais ou com o seu consentimento prévio. Podemos compartilhar informações não identificáveis com parceiros de negócios 
+                    para fins de análise e marketing.
+                </p>
+                
+                <p style="font-size: 18px; color: black; margin-left: -1.5%; line-height: 35px;"><b>2.3. Cookies e tecnologias similares:</b>
+                    Utilizamos cookies e tecnologias similares para coletar informações sobre a sua interação com o Website. Essas 
+                    informações nos ajudam a melhorar a funcionalidade e a personalização do Website. Você pode gerenciar suas preferências 
+                    de cookies por meio das configurações do seu navegador.
+                </p>
                 <br>
 
                 <li style="font-size: 20px; padding-left: 40px;">
                     <b>PROTEÇÃO DAS INFORMAÇÕES</b>
-                    <p style="font-size: 18px; color: black">
-                        <br>Adotamos medidas técnicas e organizacionais adequadas para proteger as informações coletadas contra acesso não 
-                        autorizado, uso indevido, alteração ou destruição. No entanto, é importante ressaltar que nenhum método de transmissão 
-                        pela Internet ou método de armazenamento eletrônico é totalmente seguro. Portanto, não podemos garantir a segurança 
-                        absoluta das suas informações.
-                    </p>
                 </li>
+                <p style="font-size: 18px; color: black; margin-left: -1.5%; line-height: 35px;">
+                    Adotamos medidas técnicas e organizacionais adequadas para proteger as informações coletadas contra acesso não 
+                    autorizado, uso indevido, alteração ou destruição. No entanto, é importante ressaltar que nenhum método de transmissão 
+                    pela Internet ou método de armazenamento eletrônico é totalmente seguro. Portanto, não podemos garantir a segurança 
+                    absoluta das suas informações.
+                </p>
                 <br>
 
                 <li style="font-size: 20px; padding-left: 40px;"> 
                     <b>LINKS PARA SITES DE TERCEIROS</b>
-                    <p style="font-size: 18px; color: black">
-                        <br>O Website pode conter links para sites de terceiros. Esta Política de Privacidade se aplica somente ao Website, e 
-                        não somos responsáveis pelas práticas de privacidade desses sites. Recomendamos que você leia as políticas de privacidade 
-                        de terceiros antes de fornecer suas informações pessoais.
-                    </p>
                 </li>
+                <p style="font-size: 18px; color: black; margin-left: -1.5%; line-height: 35px;">
+                    O Website pode conter links para sites de terceiros. Esta Política de Privacidade se aplica somente ao Website, e 
+                    não somos responsáveis pelas práticas de privacidade desses sites. Recomendamos que você leia as políticas de privacidade 
+                    de terceiros antes de fornecer suas informações pessoais.
+                </p>
                 <br>
 
                 <li style="font-size: 20px; padding-left: 40px;">
-                    <b>ATUALIZAÇÕES DESTA POLÍTICA DE PRIVACIDADE</b>
-                    <p style="font-size: 18px; color: black">
-                        <br>Podemos atualizar esta Política de Privacidade de tempos em tempos. Recomendamos que você revise regularmente esta 
-                        página para estar ciente de quaisquer alterações. A data de atualização mais recente será indicada no início deste 
-                        documento.
-                    </p> 
+                    <b>ATUALIZAÇÕES DESTA POLÍTICA DE PRIVACIDADE</b> 
                 </li>
+                <p style="font-size: 18px; color: black; margin-left: -1.5%; line-height: 35px;">
+                    Podemos atualizar esta Política de Privacidade de tempos em tempos. Recomendamos que você revise regularmente esta 
+                    página para estar ciente de quaisquer alterações. A data de atualização mais recente será indicada no início deste 
+                    documento.
+                </p>
                 <br>
 
                 <li style="font-size: 20px; padding-left: 40px;">
-                    <b>CONTATO</b>            
-                    <p style="font-size: 18px; color: black">
-                        <br>Caso tenha alguma dúvida ou preocupação em relação a esta Política de Privacidade, entre em contato connosco através 
-                        do seguinte endereço de e-mail: marketin@it-angola.com de +244 944908829. Ao utilizar o Website, você reconhece que leu, 
-                        entendeu e concorda com os termos desta Política de Privacidade. Agradecemos pela confiança depositada em nós e nos 
-                        comprometemos a proteger a sua privacidade e a garantir o uso adequado dos seus dados pessoais.
-                    </p> 
-                </li>
+                    <b>CONTATO</b> 
+                </li>            
+                <p style="font-size: 18px; color: black; margin-left: -1.5%; line-height: 35px;">
+                    Caso tenha alguma dúvida ou preocupação em relação a esta Política de Privacidade, entre em contato connosco através 
+                    do seguinte endereço de e-mail: marketin@it-angola.com de +244 944908829. Ao utilizar o Website, você reconhece que leu, 
+                    entendeu e concorda com os termos desta Política de Privacidade. Agradecemos pela confiança depositada em nós e nos 
+                    comprometemos a proteger a sua privacidade e a garantir o uso adequado dos seus dados pessoais.
+                </p>
 
             </ol>      
         </div>
