@@ -6,15 +6,13 @@
     <style>
         .botao {
             background-color: #ff6900; 
-            margin-left: 20%; 
-            
+            margin-left: 20%;             
             justify-content: center; 
             align-items: center;
             margin-bottom: 10%;
             margin-top: 10%; 
         }
-        .ao_centro {            
-            
+        .ao_centro {  
             justify-content: center; 
             align-items: center;
             margin-top: 20%; 
@@ -23,12 +21,11 @@
         .botao_2 {
             background-color: white;
             border-radius: 20px;
-            width: 375px;
-            height: 60px;
+            width: 300px;
+            height: 50px;
         }
         .botao_cor {
-            background-color: #0f0034; 
-            
+            background-color: #0f0034;             
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
@@ -82,8 +79,7 @@
     </style>
 
 
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">
-            
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">            
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -94,17 +90,16 @@
                 <h3 style="font-size: 45px; color: white" class="padding"><b>FAÇA PARTE DA NOSSA FAMÍLIA</b></h3>
                 <p style="font-size: 30px; color: white" class="padding" hidden>Com esta solução as contas estão sempre em dia</p>
             </div>
-        </div>
-        
+        </div>        
     </div>
 
     <div style="background-color: #f6f6f6;">
 
         <div style="text-align: -webkit-center; padding-top: 5%;">
-            <p style="font-size: 40px; color: blue">
+            <p style="font-size: 50px; color: blue">
                 <b>BEM-VINDO(A) À ITANGOLA</b>
             </p>
-            <img src="/img/Logo_IT.png" alt="Slide 1" style="padding: 3% 0; width: 25%">            
+            <img src="/img/Logo_IT.png" alt="Slide 1" style="padding: 3% 0; width: 20%">            
         </div> 
         
         <div class="text-left" style="padding: 2% 13%"> 
@@ -141,42 +136,39 @@
                 
     </div> 
     
-    <div style="background-color:rgb(99, 98, 98); padding-bottom:5%;">
+    <div style="background-color:rgb(21, 21, 21); padding-bottom:5%;">
         
         <div class="text-center" style="color:white; padding-top: 5%;" id="recrutamento">  
-            <h4 style="font-size: 40px;"> CANDIDATURA </h4>
+            <h4 style="font-size: 40px; color:white"> CANDIDATURA </h4>
         </div>  
 
         <div class="container text-left" style="padding-bottom: 5%;">
 
             <form class="padding" style="padding-left:4rem !important; padding-right:6rem !important;" method="post" enctype="multipart/form-data">
 
-                <div style="align-items: left; padding-top:5px">
-                    <label for="name" style="padding-top: 1.5%; color:white"><b>Nome</b></label>
+                <div class="form-container" style="align-items: left; padding-top:5px">
+                    <label for="name" style="padding-top: 1.5%; color:white">Nome:</label>
                     <input type="text" id="name" name="name" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
-                <div style="align-items: left; padding-top:20px">
-                    <label for="email" style="padding-top: 1.5%; color:white"><b>Email</b></label>
+                <div class="form-container" style="align-items: left; padding-top:20px">
+                    <label for="email" style="padding-top: 1.5%; color:white">E-mail:</label>
                     <input type="email" id="email" name="email" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
-                <div style="align-items: left; padding-top:20px">
-                    <label for="contacts" style="padding-top: 1.5%; color:white"><b>Telefone</b></label>
+                <div class="form-container" style="align-items: left; padding-top:20px">
+                    <label for="contacts" style="padding-top: 1.5%; color:white">Telefone:</label>
                     <input type="text" id="contacts" name="contacts" style="width: 100%; border: none; border-bottom: 1px solid black;">
                 </div>
-                <div style="align-items: left; padding-top:20px">
-                    <label for="contacts" style="padding-top: 1.5%; color:white"><b>Currículo (PDF)</b></label>
-                    <input type="file" class="custom-file-input" id="imagem" name="imagem" accept="image/png, image/jpeg" required>
-                </div>
-                
+                <div class="form-container" style="align-items: left; padding-top:20px">
+                    <label for="contacts" style="padding-top: 1.5%; color:white">Currículo (PDF):</label>
+                    <input type="file"  id="imagem" name="imagem" accept="image/png, image/jpeg" style="color: white;" required>
+                </div>                
 
-                <div class="center-text" style="text-align: -webkit-left; padding-top:1.5%">
-
+                <div class="center-text" style="text-align: -webkit-left; padding-top: 3%">
                     <div class="botao_2 botao_cor text-center" style="background-color: blue;">
                         <a href="#" class="btn-center" style="color: white; font-size: 25px;">
                             Enviar
                         </a>
                     </div>
-
                 </div>
 
             </form>            
