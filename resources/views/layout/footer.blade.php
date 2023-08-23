@@ -9,7 +9,7 @@
 
     <div class="padding">
 
-        <div class="row" style="padding-left: 50px">
+        <div class="row" style="padding-left: 60px">
             <div class="col-lg-3 col-md-4">     
                 <img class="img-fluid footer_logotipo" src="/img/home/itangola_branco.png" alt="..." style="padding-top: 43px; padding-bottom: 0px; background-color: transparent"/> 
                 <p style="color:rgb(196, 196, 196); font-size: 15pt; padding-top: 12px; line-height: 40px;">
@@ -81,7 +81,7 @@
             </div>
         </div>
 
-        <div class="row" style="padding-top: 20px;">    
+        <div class="row" style="padding-top: 20px; padding-left: 12px">    
             <div class="col-lg-8">
                 <!-- Social -->
                 <div style="padding-left: 50px; padding-top: 50px; color:rgb(196, 196, 196);">          
@@ -103,12 +103,12 @@
     
         <hr style="background-color:white; margin-left: 3%; margin-right: 10%;">            
 
-        <div class="row" style="color:rgb(196, 196, 196);"> 
+        <div class="row" style="color:rgb(196, 196, 196); padding-top: -3px"> 
 
-            <div class="col-lg-4" style="margin-left: 5%;">
+            <div class="col-lg-4" style="margin-left: 3.5%;">
                 <p for="name" style="font-size: 15pt"> Acrescentamos Valor Ao Seu Negócio </p>
             </div>    
-            <div class="col-lg-7" style="padding-right: 13%">
+            <div class="col-lg-7" style="padding-right: 10%">
                 <p class="text-right" style="font-size: 15pt"> <b> IT-Angola - © <?php echo date("Y"); ?></b>, All rights reserved.</p>
             </div>
                 
