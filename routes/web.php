@@ -100,6 +100,13 @@ Route::get('/blog/post', function () {
 });
 
 
+//PARCEIROS IT Angola
+
+Route::get('/cacimbo', function () {
+    return view('parceiros.cacimbo');
+});
+
+
 
 /*
 Route::get('/starter', function () {
