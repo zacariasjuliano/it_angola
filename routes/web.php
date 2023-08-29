@@ -106,6 +106,10 @@ Route::get('/cacimbo', function () {
     return view('parceiros.cacimbo');
 });
 
+Route::get('/phc', function () {
+    return view('parceiros.phc');
+});
+
 
 
 /*

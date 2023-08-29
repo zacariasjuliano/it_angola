@@ -39,7 +39,7 @@
             </div>
             
             <div class="center-text" style="padding: 3% 0 0 0">
-                <div class="botao_2 botao_cor_3" style="background-color: #d0005f; text-align: -webkit-left;">
+                <div class="botao_2 botao_cor_3" style="text-align: -webkit-left;">
                     <a href="#" class="btn-center" style="color: white; font-size: 25px; text-align: -webkit-cnter;">
                         Enviar
                     </a>
