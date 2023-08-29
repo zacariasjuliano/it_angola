@@ -110,6 +110,10 @@ Route::get('/phc', function () {
     return view('parceiros.phc');
 });
 
+Route::get('/logicpulse', function () {
+    return view('parceiros.logicpulse');
+});
+
 
 
 /*
