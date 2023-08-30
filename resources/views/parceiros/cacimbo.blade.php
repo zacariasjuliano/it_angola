@@ -62,7 +62,7 @@
                   
     <div class="card-deck mb-3" style="padding: 0 0%">
         <div class="card mb-4 padding" style="border: 0px solid rgba(0,0,0,.125); background-color: #d0005f">
-            <p style="font-size: 30px; color: black; padding: 0% 6% 0 0; margin-left: 13%"><b>SOLUÇOES CACIMBO ERP</b></p> 
+            <p style="font-size: 30px; color: black; padding: 6% 6% 0 0; margin-left: 13%"><b>SOLUÇOES CACIMBO ERP</b></p> 
             <p style="font-size: 15px; color: white; padding: 0; margin-left: 13%; text-decoration: underline;">
                 CACIMBO - MODULO GESTÃO
             </p>  
@@ -100,7 +100,7 @@
                 <b>SOLUÇÃO CERTA PARA O SEU NEGÓCIO</b>
             </p> 
             <hr style="margin-left: 30%; position: relative; display: flex; justify-content: center; width: 30%; border: 1.5px solid #d0005f">
-            <p style="font-size: 25px; color: black; padding: 0 13% 0 14%; position: relative; display: flex; justify-content: center;">
+            <p style="font-size: 22px; color: black; padding: 0 21% 0 15%; position: relative; display: flex; justify-content: center;">
                 EDUCAÇÃO, COMÊRCIO A RETALHO, RESTAURAÇÃO, LAVANDARIA, HOTELARIA, BOMBAS DE COBUSTÍVEL E OUTROS
             </p> 
             <p style="font-size: 25px; color: black; padding: 0 13% 0 14%; position: relative; display: flex; justify-content: center;">
@@ -132,9 +132,9 @@
         </div>        
     </div>
 
-    <div style="height: 350px; position: relative; background-color: rgb(45, 44, 44)">        
+    <div style="height: 450px; position: relative; background-color: rgb(45, 44, 44)">        
         <div class="container">
-            <p class="text-center" style="font-size:30px; word-spacing: 10px; padding-top: 6%; color: white">
+            <p class="text-center" style="font-size: 40px; word-spacing: 10px; padding-top: 11%; color: white">
                 <b>GARANTA JÁ O SEU SOFWARE CACIMBO ERP</b> 
             </p>   
             

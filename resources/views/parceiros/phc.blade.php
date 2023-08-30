@@ -79,7 +79,7 @@
 
     <div class="card-deck mb-3" style="padding: 0 0%">
         <div class="card mb-6" style="padding-left:35px; border: 0px solid rgba(0,0,0,.125); background-color: #ed0000; margin-right: 0; margin-bottom: 3%">
-            <p style="font-size: 40px; color: white; padding: 35% 25% 0 15%; position: relative; display: flex; justify-content: center;">
+            <p style="font-size: 40px; color: white; padding: 30% 25% 0 15%; position: relative; display: flex; justify-content: center;">
                 SOFTWARE FEITO PARA PEQUENOS, MÉDIOS E GRANDES NEGÓCIOS
             </p>
             <p style="font-size: 25px; color: white; padding: 0 25% 0 10%; position: relative; display: flex; justify-content: center;">
@@ -252,7 +252,7 @@
         </div>        
     </div>
 
-    <div style="background-color:white; padding-bottom: 1%;">
+    <div style="background-color:white; padding-bottom: 6%;">
             
         <div class="text-center" style="padding-top: 5%;">  
             <h4 style="font-size: 25px; color: black;"> 

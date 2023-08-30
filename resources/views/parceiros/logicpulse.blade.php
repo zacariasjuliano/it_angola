@@ -21,7 +21,7 @@
         .botao_2 {
             background-color: #ed0000;
             border-radius: 0px;
-            width: 500px;
+            width: 300px;
             height: 66px;
         }
         .botao_cor_2 {
@@ -46,7 +46,7 @@
             align-items: center;
             margin-bottom: 0%;
             margin-top: 9%;
-            margin-left: 0.1%; 
+            margin-left: 2%; 
         }       
         .botao_4 {
             background-color: white;
@@ -92,7 +92,7 @@
         <div class="card-deck mb-3" style="padding: 6% 0%">            
             <div class="card mb-6" style="border: 0px solid rgba(0,0,0,.125);"> 
                 <p style="font-size: 25px; color: black; padding: 0;">
-                    <b>SOFTWARE TIME.TRACK</b>
+                    <b>SOFTWARE <span style="color: #ed0000;">TIME</span>.TRACK</b>
                 </p>  
                 <p style="font-size: 20px; color: black; padding: 0;">
                     O time.track dá resposta a esta necessidade recorrendo às tecnologias RFID, biométrica e/ou outra tecnologia 
@@ -213,7 +213,7 @@
         </div> 
     </div>
 
-    <div style="background-color:white; padding-bottom: 1%;">
+    <div style="background-color:white; padding-bottom: 9%;">
             
         <div class="text-center" style="padding-top: 5%;">  
             <h4 style="font-size: 25px; color: red;"> 

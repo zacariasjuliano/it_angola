@@ -9,7 +9,7 @@
 
     <div class="padding">
 
-        <div class="row" style="padding-left: 60px">
+        <div class="row" style="padding-left: 60px; padding-top: 45px">
             <div class="col-lg-6 col-md-4">     
                 
                 <p style="font-size: 15pt; padding-top: 12px; line-height: 40px;">                    
