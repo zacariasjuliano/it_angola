@@ -6,6 +6,12 @@
         .paragrafo_espacamento {
             padding-left: 3%; 
             margin-bottom: 0%;
+        }      
+        .botao_formulario {
+            /*background-color: #ed0000;*/
+            border-radius: 0px;
+            width: 300px;
+            height: 66px;
         }
     </style>
 
@@ -39,11 +45,11 @@
             </div>
             <div class="col-lg-6 col-md-4" style="display: flex; align-items: center; padding-top: 10px; padding-left: 4.5%;">
                 <input type="checkbox" id="aceito" name="aceito" style="border: none; border-bottom: 1px solid black;">
-                <label for="aceito" style="display: flex; align-items: center; padding-left: 3.5%; padding-top: 1%;">Li e concordo com as <span style="color: blue;"> Política de Privacidade</span></label>                    
+                <label for="aceito" style="display: flex; align-items: center; padding-left: 3.5%; padding-top: 1%;">Li e concordo com as <span style="color: blue; padding-left: 6px;"> Política de Privacidade</span></label>                    
             </div>
             
             <div class="center-text" style="padding: 3% 0 0 2.7%">
-                <div class="botao_2 botao_cor_3" style="text-align: -webkit-left;">
+                <div class="botao_formulario botao_formulario_cor" style="text-align: -webkit-left;">
                     <a href="#" class="btn-center" style="color: white; font-size: 25px; text-align: -webkit-cnter;">
                         Enviar
                     </a>

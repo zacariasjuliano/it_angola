@@ -2,7 +2,16 @@
  
 @section('content')
 
-    <style>      
+    <style>     
+        .botao_formulario_cor {
+            background-color: #d0005f; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center;
+            margin-bottom: 0%;
+            margin-top: 5%;
+            margin-left: 2%; 
+        }
         .botao_1 {
             background-color: white;
             border-radius: 55px;
@@ -48,7 +57,7 @@
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/img/parceiros/cacimbo.jpg" alt="Slide 1">                
+                <img src="/img/parceiros/cacimbo.jpg" alt="Slide 1" style="width: 100%">                
             </div>
 
             <div class="carousel-center-text" style="text-align: -webkit-center;">
@@ -60,8 +69,8 @@
     </div>
 
                   
-    <div class="card-deck mb-3" style="padding: 0 0%">
-        <div class="card mb-4 padding" style="border: 0px solid rgba(0,0,0,.125); background-color: #d0005f">
+    <div class="card-deck mb-3" style="margin-right: 0px;">
+        <div class="card mb-4" style="border: 0px solid rgba(0,0,0,.125); background-color: #d0005f; border-radius: 0px;">
             <p style="font-size: 30px; color: black; padding: 6% 6% 0 0; margin-left: 13%"><b>SOLUÇOES CACIMBO ERP</b></p> 
             <p style="font-size: 15px; color: white; padding: 0; margin-left: 13%; text-decoration: underline;">
                 CACIMBO - MODULO GESTÃO
@@ -95,7 +104,7 @@
             </p> 
         </div>
 
-        <div class="card mb-8 padding" style="padding-left:15px; border: 0px solid rgba(0,0,0,.125);">
+        <div class="card mb-8" style="padding-left:0px; border: 0px solid rgba(0,0,0,.125); border-radius: 0px;">
             <p style="font-size: 30px; color: #d0005f; padding: 16% 0% 0 0; position: relative; display: flex; justify-content: center;">
                 <b>SOLUÇÃO CERTA PARA O SEU NEGÓCIO</b>
             </p> 
@@ -113,24 +122,14 @@
     </div> 
 
 
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="margin-top: -2.1%">            
-        <!-- Slides -->
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="/img/parceiros/cacimbo_1.jpg" alt="Slide 1">                
-            </div>
-        </div>        
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="margin-top: -2.1%"> 
+        <img src="/img/parceiros/cacimbo_1.jpg" alt="Slide 1" style="width: 100%">       
     </div>
 
-
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="margin-top: -2.1%">            
-        <!-- Slides -->
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="/img/parceiros/cacimbo_2.jpg" alt="Slide 1">                
-            </div>
-        </div>        
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="margin-top: -2.1%"> 
+        <img src="/img/parceiros/cacimbo_2.jpg" alt="Slide 1" style="width: 100%">     
     </div>
+    
 
     <div style="height: 450px; position: relative; background-color: rgb(45, 44, 44)">        
         <div class="container">
@@ -138,7 +137,7 @@
                 <b>GARANTA JÁ O SEU SOFWARE CACIMBO ERP</b> 
             </p>   
             
-            <a href="#" class="botao_1 btn-center botao_cor_1" style="font-size: 35px; color: white; position: relative; display: flex; justify-content: center;">
+            <a href="/contactos#formulario" class="botao_1 btn-center botao_cor_1" style="font-size: 35px; color: white; position: relative; display: flex; justify-content: center;">
                 Quero uma demostração do cacimbo erp
             </a>
 

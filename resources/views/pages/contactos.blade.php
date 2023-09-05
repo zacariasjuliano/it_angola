@@ -21,8 +21,8 @@
         .botao_2 {
             background-color: white;
             border-radius: 20px;
-            width: 375px;
-            height: 45px;
+            width: 300px;
+            height: 55px;
         }
         .botao_cor {
             background-color: #0f0034;             
@@ -115,13 +115,29 @@
                             <p style="font-size:30px; color: white; padding-top: 0%"><b>ITANGOLA</b></p>
                         </div>
         
-                        <p style="font-size:23px; color: black;"><b>Benguela (Sede)</b></p>
+                        <p style="font-size:23px; color: black;"><b>Benguela (Sede)</b></p> 
                         
-                        <p style="text-align: left; font-size:16px; color: black; margin-top: 0%">Edifício Acácias</p>
-                        <p style="text-align: left; font-size:16px; color: black; margin-top: -9%">Rua Infante Dom Henriques nº 2</p>
-                        <p style="text-align: left; font-size:16px; color: black; margin-top: 0%">(+244) 927316791</p>
-                        <p style="text-align: left; font-size:16px; color: black; margin-top: -9%">(+244) 944908829</p>
-                        <p style="text-align: left; font-size:16px; color: black; margin-top: 0%">comercial@it-angola.com</p>                        
+                        <div style="position: relative; justify-content: center;; padding-left: 9%">
+                            
+                            <div class="icon-text-container" style="display: flex; text-align: left;">
+                                <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+                                    <image href="/img/icon/pin-de-localizacao.png" width="40" height="40" />
+                                </svg>
+                                <p class="text" style="font-size:16px; color: black;">Edifício Acácias <br>Rua Infante Dom Henriques nº 2</p>
+                            </div>
+                            <div class="icon-text-container" style="display: flex; text-align: left;">
+                                <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+                                    <image href="/img/icon/telefone.png" width="40" height="40" />
+                                </svg>
+                                <p class="text" style="font-size:16px; color: black;">(+244) 927316791 <br>(+244) 944908829</p>
+                            </div>
+                            <div class="icon-text-container" style="display: flex; text-align: left;">                            
+                                <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+                                    <image href="/svg/email.svg" width="40" height="40" />
+                                </svg>
+                                <p class="text" style="padding-left: 6px; margin-top: 14px; font-size:16px; color: black;">comercial@it-angola.com</p>
+                            </div>
+                        </div>
                     </div>  
                     
     
@@ -132,57 +148,42 @@
                         </div>
         
                         <p style="font-size:23px; color: black;"><b>Luanda</b></p>
+
+                        <div style="position: relative; justify-content: center;; padding-left: 9%">
                         
-                        <p style="text-align: left; font-size:16px; color: black; margin-top: 0%">Edifício Atlactic Business Center</p>
-                        <p style="text-align: left; font-size:16px; color: black; margin-top: -9%">Talatona</p>
-                        <p style="text-align: left; font-size:16px; color: black; margin-top: 0%">(+244) 927316791</p>
-                        <p style="text-align: left; font-size:16px; color: black; margin-top: -9%">(+244) 944908829</p>
-                        <p style="text-align: left; font-size:16px; color: black; margin-top: 0%">comercial@it-angola.com</p>       
+                            <div class="icon-text-container" style="display: flex; text-align: left;">
+                                <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+                                    <image href="/img/icon/pin-de-localizacao.png" width="40" height="40" />
+                                </svg>
+                                <p class="text" style="font-size:16px; color: black;">Edifício Atlactic Business Center <br>Talatona</p>
+                            </div>
+                            <div class="icon-text-container" style="display: flex; text-align: left;">
+                                <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+                                    <image href="/img/icon/telefone.png" width="40" height="40" />
+                                </svg>
+                                <p class="text" style="padding-left: 6px; margin-top: 14px; font-size:16px; color: black;">(+244) 927316791 <br>(+244) 944908829</p>
+                            </div>
+                            <div class="icon-text-container" style="display: flex; text-align: left;">
+                                <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+                                    <image href="/svg/email.svg" width="40" height="40" />
+                                </svg>
+                                <p class="text" style="padding-left: 6px; padding-top: -9px; font-size:16px; color: black;">comercial@it-angola.com</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
     
             </div>                
         </div>
 
-            
-        <div style="display: flex; justify-content: center; align-items: center" id="localizacao" hidden>
-
-            <div style="text-align: center; border-radius: 25px; background-color: white; margin-right: 1%; padding:6% 3.5%">
-                <div class="circle3" style="background-color: blue;">
-                    <div class="top-part"></div>
-                    <p style="font-size:30px; color: white; padding-top: 4%"><b>ITANGOLA</b></p>
-                </div>
-
-                <p style="font-size:23px; color: black;"><b>Benguela (Sede)</b></p>
-                
-                <p style="text-align: left; font-size:16; color: black; margin-top: 0%">Edifício Acácias <br> Rua Infante Dom Henriques nº 2</p>
-                <p style="text-align: left; font-size:16px; color: black; margin-top: 0%">(+244) 927316791 <br> (+244) 944908829 </p>
-                <p style="text-align: left; font-size:16px; color: black; margin-top: 0%"><b>comercial@it-angola.com</b></p>
-                
-            </div>
-
-            <div style="text-align: center; border-radius: 25px; background-color: white; margin-left: 1%; padding:6% 3.5%">
-                <div class="circle4" style="background-color: blue;">
-                    <div class="top-part"></div>
-                    <p style="font-size:30px; color: white; padding-top: 4%"><b>ITANGOLA</b></p>
-                </div>
-
-                <p style="font-size:23px; color: black;"><b>Luanda</b></p>
-                
-                <p style="text-align: left; font-size:16px; color: black; margin-top: 0%">Edifício Atlactic Business Center <br> Talatona</p>
-                <p style="text-align: left; font-size:16px; color: black; margin-top: 0%">(+244) 927316791 <br> (+244) 944908829 </p>
-                <p style="text-align: left; font-size:16px; color: black; margin-top: 0%"><b>comercial@it-angola.com</b></p>
-
-            </div>
-
-        </div> 
+       
 
         <div class="center-text" style="text-align: -webkit-center; padding-top: 0%; padding-bottom:5%;" id="whatsapp">
             <p style="font-size: 25px; color: black" class="padding">Puxa no WhatsApp</p>
     
             <div class="botao_2 botao_cor" style="background-color: green;">
                 <a href="#" class="btn-center" style="color: white; font-size: 25px;">
-                    
+                    <img src="/img/icon/whatssap.png" alt="Slide 1" style="width: 15%; margin-top: 1.5%">
                 </a>
             </div>
     
@@ -190,46 +191,44 @@
         
     </div>
 
-    <div style="background-color:rgb(99, 98, 98); padding-bottom:5%;">
+    <div style="background-color:rgb(255, 255, 255); padding-bottom:5%;" id="formulario">
         
-        <div class="text-center" style="padding-top: 5%;">  
-            <h4 style="font-size: 25px; color:white;"> Quero ser contactado(a) pela ITANGOLA?  
-                <br>Identifique o motivo e exponha o seu pedido, de forma a identificarmos
-                <br>a equipa mais competente para o contactar.
+        <div class="text-center" style="padding: 5% 0;">  
+            <h4 style="font-size: 25px; color:black;">
+                <b> Quero receber mais informações sobre formações Primavera </b>
             </h4>        
-            <h4 style="padding: 2.5% 0; font-size: 25px; color:white;"> Dados de contacto </h4>
         </div>  
 
-        <div class="container text-center" style="padding-top: 3%; padding-bottom: 5%; background-color:white; border-radius: 35px; width: 1408px; height: 750px">
+        <div class="container text-center" style="padding-top: 3%; padding-bottom: 0%; background-color:white; border: 1px solid black; width: 1408px; ">
 
             <form style="padding: 0 7%;" method="post" enctype="multipart/form-data">
 
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
-                    <label for="name" style="padding-top: 1.5%; font-size: 18px;"><b>Nome</b>*</label>
+                    <label for="name" style="padding-top: 1.5%; font-size: 18px;"><b>Nome</b><span style="color: #ed0000;">*</span></label>
                     <input type="text" id="name" name="name" style="width: 864px; height: 56px; border: 1px; margin-left: 6%; background-color: rgb(195, 195, 195)">
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center;padding-top: 15px">
-                    <label for="email" style="padding-top: 1.5%; font-size: 18px;"><b>Email</b>*</label>
+                    <label for="email" style="padding-top: 1.5%; font-size: 18px;"><b>Email</b><span style="color: #ed0000;">*</span></label>
                     <input type="email" id="email" name="email" style="width: 644px; height: 56px; border: 1px; margin-left: 6.6%; background-color: rgb(195, 195, 195)">
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
-                    <label for="contacts" style="padding-top: 1.5%; font-size: 18px;"><b>Telefone</b>*</label>
+                    <label for="contacts" style="padding-top: 1.5%; font-size: 18px;"><b>Telefone</b><span style="color: #ed0000;">*</span></label>
                     <input type="text" id="contacts" name="contacts" style="width: 496px; height: 56px; border: 1px; margin-left: 3.9%; background-color: rgb(195, 195, 195)">
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
-                    <label for="empresa" style="padding-top: 1.5%; font-size: 18px;"><b>Empresa</b>*</label>
+                    <label for="empresa" style="padding-top: 1.5%; font-size: 18px;"><b>Empresa</b><span style="color: #ed0000;">*</span></label>
                     <input type="text" id="empresa" name="empresa" style="width: 864px; height: 56px; border: 1px; margin-left: 3.9%; background-color: rgb(195, 195, 195)">
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
-                    <label for="nif" style="padding-top: 1.5%; font-size: 18px;"><b>NIF</b>*</label>
+                    <label for="nif" style="padding-top: 1.5%; font-size: 18px;"><b>NIF</b><span style="color: #ed0000;">*</span></label>
                     <input type="text" id="nif" name="nif" style="width: 496px; height: 56px; border: 1px; margin-left: 8.5%; background-color: rgb(195, 195, 195)">
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
-                    <label for="Provincia" style="padding-top: 1.5%; font-size: 18px;"><b>Provincia</b>*</label>
+                    <label for="Provincia" style="padding-top: 1.5%; font-size: 18px;"><b>Provincia</b><span style="color: #ed0000;">*</span></label>
                     <input type="text" id="cargo" name="Provincia" style="width: 496px; height: 56px; border: 1px; margin-left: 3.4%; background-color: rgb(195, 195, 195)">
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
-                    <label for="message" style="padding-top: 1.5%; font-size: 18px;"><b>Mensagem</b>*</label>
+                    <label for="message" style="padding-top: 1.5%; font-size: 18px;"><b>Mensagem</b><span style="color: #ed0000;">*</span></label>
                     <textarea name="message" id="message" style="width: 864px; height: 56px; border: 1px; margin-left: 2%; background-color: rgb(195, 195, 195);" placeholder="" rows="4" cols="4"></textarea>                    
                 </div>
                 <div class="col-lg-6 col-md-4" style="display: flex; align-items: center; padding-top: 10px; padding-left: 14%;">
@@ -237,7 +236,7 @@
                     <label for="aceito" style="display: flex; align-items: center; padding-left: 3.5%; padding-top: 1%; text-decoration: underline;">Li e Aceito a Política de Privacidade</label>                    
                 </div>
                 
-                <div class="center-text" style="padding: 3% 0 0 14%">
+                <div class="center-text" style="padding: 3% 0 3% 14%">
                     <div class="botao_2 botao_cor" style="background-color: blue; text-align: -webkit-cnter;">
                         <a href="#" class="btn-center" style="color: white; font-size: 25px; text-align: -webkit-cnter;">
                             Enviar

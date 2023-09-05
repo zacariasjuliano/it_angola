@@ -2,7 +2,16 @@
  
 @section('content')
 
-    <style>      
+    <style>     
+        .botao_formulario_cor {
+            background-color: #ed0000; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center;
+            margin-bottom: 0%;
+            margin-top: 5%;
+            margin-left: 2%; 
+        }     
         .botao_1 {
             background-color: white;
             border-radius: 0px;
@@ -66,19 +75,19 @@
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/img/parceiros/phc.jpg" alt="Slide 1">                
+                <img src="/img/parceiros/phc.jpg" alt="Slide 1" style="width: 100%">                
             </div>
 
-            <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <img hidden src="/img/starter/starter.png" alt="Slide 1" class="padding"> 
+            <div hidden class="carousel-center-text" style="text-align: -webkit-center;">
+                <img src="/img/starter/starter.png" alt="Slide 1" class="padding"> 
                 <h3 style="font-size:50px; color: white" class="padding"><b>PARCEIRO ITANGOLA</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">SOFTWARE FACTURAÇÃO E GESTÃO</p>
             </div>
         </div>    
     </div>
 
-    <div class="card-deck mb-3" style="padding: 0 0%">
-        <div class="card mb-6" style="padding-left:35px; border: 0px solid rgba(0,0,0,.125); background-color: #ed0000; margin-right: 0; margin-bottom: 3%">
+    <div class="card-deck mb-3" style="margin-right: 0px;">
+        <div class="card mb-6" style="padding-left: 35px; border: 0px solid rgba(0,0,0,.125); background-color: #ed0000; margin-right: 0; margin-bottom: 3%; border-radius: 0px;">
             <p style="font-size: 40px; color: white; padding: 30% 25% 0 15%; position: relative; display: flex; justify-content: center;">
                 SOFTWARE FEITO PARA PEQUENOS, MÉDIOS E GRANDES NEGÓCIOS
             </p>
@@ -87,7 +96,7 @@
             </p> 
         </div> 
         
-        <div class="card mb-6" style="border: 0px solid rgba(0,0,0,.125); background-color: #ff8f92; margin-left: 0; margin-bottom: 3%">
+        <div class="card mb-6" style="border: 0px solid rgba(0,0,0,.125); background-color: #ff8f92; margin-left: 0; margin-right: 0px; margin-bottom: 3%; border-radius: 0px;">
             <p style="font-size: 30px; color: #ed0000; padding: 6% 6% 0 0; margin-left: 9%"><b>SOLUÇÕES SECTORIAIS</b></p> 
             <p class="texto_p">
                 Clínicas
@@ -245,7 +254,7 @@
                 SOFTWARE CERTIFICADO A RECONHECIDO PELA 11º VEZ COMO O MELHOR SOFTWARE DE GESTÃO
             </p>   
             
-            <a href="#" class="botao_1 btn-center botao_cor_1" style="font-size: 35px; color: black; position: relative; display: flex; justify-content: center;">
+            <a href="/contactos#formulario" class="botao_1 btn-center botao_cor_1" style="font-size: 35px; color: black; position: relative; display: flex; justify-content: center;">
                 <b>Peça uma demonstração</b>
             </a>
 

@@ -79,6 +79,17 @@
             height: 55px;
             */
         }
+        .search-icon {
+            position: absolute;
+            left: 10px; /* Ajuste a posição conforme necessário */
+            top: 50%; /* Centraliza verticalmente */
+            transform: translateY(-50%); /* Centraliza verticalmente */
+            width: 20px; /* Largura do ícone */
+            height: 20px; /* Altura do ícone */
+            background-image: url('caminho-para-o-seu-icone.svg'); /* Substitua pelo caminho da sua imagem de ícone */
+            background-size: contain; /* Ajuste o tamanho do ícone conforme necessário */
+            background-repeat: no-repeat;
+        }
     </style>
 
 
@@ -103,10 +114,11 @@
     <div style="margin-bottom: 1.5%; margin-top: 6%">
 
         <div class="container" style="padding-top: 2.5%"> 
-            <input class="curvas" type="text" id="contacts" name="contacts" placeholder="Pesquisar" style="width: 100%; border: none; border-bottom: 1px solid black;">       
+            <i class="search-icon"></i>
+            <input class="curvas" type="text" id="contacts" name="contacts" placeholder="Pesquisar" style="width: 100%; border: none; border: 1px solid black;">       
         </div>
 
-        <div class="text-center" style="padding-top: 6%">
+        <div class="text-center" style="padding: 3% 0">
             <h1 style="font-size: 50px; color: #20085e">
                 <b>Destaques</b>
             </h1>            
@@ -114,137 +126,108 @@
     </div>
 
 
-    <section class="section" style="padding: 0px 0px; background-color:white;">		
-        <div class="row" style="padding-left: 6%; padding-bottom: 0%">           
-                                      
-                                    
-            <div class="col-md-8" style="padding-top: 7%;">
-                <img src="/img/blog/happy-face-min.png" alt="" style="width: 90%">
+    
+    <div class="row" style="padding-left: 6%; padding-right: 0%; padding-bottom: 0%; background-color:white; margin-right: 0px;">   
+                                
+        <div class="col-md-8" style="padding-top: 0%;">
+            <img src="/img/blog/happy-face-min.png" alt="" style="width: 90%">
 
-                <div class="a">
-                    <h3 style="color: #20085e; padding-top: 5%"><b>The standard Lorem Ipsum passage</b></h3> 
-                    <p style="font-size: 20px; color: #20085e;"><b>Por:</b>  Orlando Salvador <br> 28/06/2023</p> 
-                    <p style="font-size: 20px; color: #20085e; padding-right: 15%">
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                    </p>  
-                </div>
+            <div class="a">
+                <h3 style="color: #20085e; padding-top: 5%"><b>The standard Lorem Ipsum passage</b></h3> 
+                <p style="font-size: 20px; color: #20085e;"><b>Por:</b>  Orlando Salvador <br> <b>28/06/2023<b></p> 
+                <p style="font-size: 20px; color: #20085e; padding-right: 15%">
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+                    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                </p>  
+            </div>
+
+            <div class="botao_2 botao_cor text-center" style="background-color: blue;">
+                <a href="/blog/post" class="btn-left" style="color: white; font-size: 15px;">
+                    ler mais...
+                </a>
+            </div>
+
+        </div> 
+
+
+
+        <div class="col-md-4" style="padding-top: 6%; border-left: 1px solid black; max-width: 100%; height:1050px">
+            <h5 class="animated-element" style="padding-top: 0%; padding-left: 15%; color:#20085e; font-size:45px;">
+                <b>Temas</b>								
+            </h5><br><br>
+
+            <a href="#" style="color:#20085e; font-size:33px;"><b>Finanças</b></a> <br><br>
+            <a href="#" style="color:#20085e; font-size:33px;"><b>Logistica</b></a> <br><br>
+            <a href="#" style="color:#20085e; font-size:33px; margin-top: 6%"><b>Relatórios</b></a> <br><br>
+            <a href="#" style="color:#20085e; font-size:33px; padding-top: 0%"><b>Restauração</b></a> <br><br>
+            <a href="#" style="color:#20085e; font-size:33px; padding-top: 0%"><b>Retalho</b></a> <br><br>
+            <a href="#" style="color:#20085e; font-size:33px; padding-top: 0%"><b>Indústria</b></a> <br><br>
+            <a href="#" style="color:#20085e; font-size:33px; padding-top: 0%"><b>Recursos Humanos</b></a> <br><br>
+            <a href="#" style="color:#20085e; font-size:33px; padding-top: 0%"><b>Suporte Técnico</b></a>
+        </div> 
+
+    </div>			
+    
+    
+
+    <div style="margin-bottom: 5%; padding: 6% 7% 0 7%">
+
+        <div class="card-deck mb-3" style="border-top: 1px solid black;">
+            <div class="card mb-4" style="margin-left: 0px; margin-right: -3px; border: 0px solid rgba(0,0,0,.125); padding: 3% 1.5% 0 1.5%">
+                <img src="/img/blog/woman-taking-care-flowers-floral-shop-min.png" alt="" style="width: 90%">
+
+                <h3 style="color: #20085e; padding-top: 5%"><b>The standard Lorem</b></h3> 
+                <p style="font-size: 20px; color: #20085e;"><b>Por:</b> Orlando Salvador </p> 
+                <p style="font-size: 20px; color: #20085e; padding-right: 15%">
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut"
+                </p>   
 
                 <div class="botao_2 botao_cor text-center" style="background-color: blue;">
-                    <a href="/blog/post" class="btn-left" style="color: white; font-size: 25px;">
+                    <a href="#" class="btn-left" style="color: white; font-size: 15px;">
                         ler mais...
                     </a>
                 </div>
-
             </div>
 
+            <div class="card mb-4" style="margin-left: -3px; margin-right: -3px; border: 0px solid rgba(0,0,0,.125); padding: 3% 1.5% 0 1.5%">
+                <img src="/img/blog/man-enjoying-indoor-farming-min.png" alt="" style="width: 90%">
 
-            <div class="col-md-4" style="padding-right: 0%">
-                <h5 class="animated-element margin-bottom-20" style="padding-top: 20%; padding-left: 11%; color:#20085e; font-size:45px;">
-                    <b>Temas</b>								
-                </h5>
+                <h3 style="color: #20085e; padding-top: 5%"><b>The standard Lorem</b></h3> 
+                <p style="font-size: 20px; color: #20085e;"><b>Por:</b> Orlando Salvador </p> 
+                <p style="font-size: 20px; color: #20085e; padding-right: 15%">
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut"
+                </p>  
 
-                <h5 style="color:#20085e; font-size:33px; padding-top: 4.5%"><b>Finanças</b></h5>
-                <h5 style="color:#20085e; font-size:33px; padding-top: 4.5%"><b>Logistica</b></h5>
-                <h5 style="color:#20085e; font-size:33px; padding-top: 4.5%"><b>Relatórios</b></h5>
-                <h5 style="color:#20085e; font-size:33px; padding-top: 4.5%"><b>Restauração</b></h5>
-                <h5 style="color:#20085e; font-size:33px; padding-top: 4.5%"><b>Retalho</b></h5>
-                <h5 style="color:#20085e; font-size:33px; padding-top: 4.5%"><b>Indústria</b></h5>
-                <h5 style="color:#20085e; font-size:33px; padding-top: 4.5%"><b>Recursos Humanos</b></h5>
-                <h5 style="color:#20085e; font-size:33px; padding-top: 4.5%"><b>Suporte Técnico</b></h5>
-            </div>  
-
-        </div>			
-    </section>
-    
-
-    <div style="margin-bottom: 5%;">
-
-        <div style="padding: 1.5% 7%">  
-
-            <hr>	
-
-            <div class="card-deck mb-3" >
-                <div class="card mb-4 padding" style="margin-left: 0px; margin-right: -3px;">
-                    <img src="/img/blog/woman-taking-care-flowers-floral-shop-min.png" alt="" style="width: 90%">
-
-                    <h3 style="color: #20085e; padding-top: 5%"><b>The standard Lorem</b></h3> 
-                    <p style="font-size: 20px; color: #20085e;"><b>Por:</b>  Orlando Salvador <br> 28/06/2023</p> 
-                    <p style="font-size: 20px; color: #20085e; padding-right: 15%">
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                    </p>   
-
-                    <div class="botao_2 botao_cor text-center" style="background-color: blue;">
-                        <a href="#" class="btn-left" style="color: white; font-size: 25px;">
-                            ler mais...
-                        </a>
-                    </div>
+                <div class="botao_2 botao_cor text-center" style="background-color: blue;">
+                    <a href="#" class="btn-left" style="color: white; font-size: 15px;">
+                        ler mais...
+                    </a>
                 </div>
+            </div>
 
-                <div class="card mb-4 padding" style="margin-left: -3px; margin-right: -3px;">
-                    <img src="/img/blog/man-enjoying-indoor-farming-min.png" alt="" style="width: 90%">
+            <div class="card mb-4" style="margin-left: -3px; margin-right: 0px; border: 0px solid rgba(0,0,0,.125); padding: 3% 1.5% 0 1.5%">
+                <img src="/img/blog/pexels-rfstudio-3622643-min.png" alt="" style="width: 90%">
 
-                    <h3 style="color: #20085e; padding-top: 5%"><b>The standard Lorem</b></h3> 
-                    <p style="font-size: 20px; color: #20085e;"><b>Por:</b>  Orlando Salvador <br> 28/06/2023</p> 
-                    <p style="font-size: 20px; color: #20085e; padding-right: 15%">
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                    </p>  
+                <h3 style="color: #20085e; padding-top: 5%"><b>The standard Lorem</b></h3> 
+                <p style="font-size: 20px; color: #20085e;"><b>Por:</b> Orlando Salvador </p> 
+                <p style="font-size: 20px; color: #20085e; padding-right: 15%">
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut"
+                </p>  
 
-                    <div class="botao_2 botao_cor text-center" style="background-color: blue;">
-                        <a href="#" class="btn-left" style="color: white; font-size: 25px;">
-                            ler mais...
-                        </a>
-                    </div>
+                <div class="botao_2 botao_cor text-center" style="background-color: blue;">
+                    <a href="#" class="btn-left" style="color: white; font-size: 15px;">
+                        ler mais...
+                    </a>
                 </div>
-
-                <div class="card mb-4 padding" style="margin-left: -3px; margin-right: 0px;">
-                    <img src="/img/blog/pexels-rfstudio-3622643-min.png" alt="" style="width: 90%">
-
-                    <h3 style="color: #20085e; padding-top: 5%"><b>The standard Lorem</b></h3> 
-                    <p style="font-size: 20px; color: #20085e;"><b>Por:</b>  Orlando Salvador <br> 28/06/2023</p> 
-                    <p style="font-size: 20px; color: #20085e; padding-right: 15%">
-                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                    </p>  
-
-                    <div class="botao_2 botao_cor text-center" style="background-color: blue;">
-                        <a href="#" class="btn-left" style="color: white; font-size: 25px;">
-                            ler mais...
-                        </a>
-                    </div>
-                </div>                
-            </div>            
-        </div>
+            </div>                
+        </div>   
                 
     </div> 
 
 
 
-    <div style="background-color: #9cadcf; height: 500px; position: relative;">
-        
-        <div class="container" style="max-width: 1400px;" id="newsletter">
-
-            <p class="text-center" style="font-size: 35px; color: white; padding-top: 9%; padding-bottom: 6%;"> Não perca nada, subscreva a nossa newsletter</p>
-            
-            <input class="curvas" type="text" id="contacts" name="contacts" placeholder="E-mail" style="width: 100%; border: none; border-bottom: 1px solid black;">
-            
-            <div class="center-text" style="text-align: -webkit-center;">
-                <div class="botao_2 botao_cor text-center" style="background-color: blue;">
-                    <a href="#" class="btn-center" style="color: white; font-size: 25px;">
-                        Subscrever
-                    </a>
-                </div>
-            </div>
-            
-        </div>
-        
-    </div>
+    @include('blog.subscription')
         
     
     

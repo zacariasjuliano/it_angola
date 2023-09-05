@@ -74,13 +74,20 @@
         }
         .botao_cor_1 {
             background-color: white; 
-            display: flex; 
+            /*display: flex;*/
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
             margin-top: 6%;
-            margin-right: -10%;
-            margin-left: -14.5%;
+            /*margin-right: -10%;*/
+            /*margin-left: -14.5%;*/
+        }
+        .btn-center {
+            text-align: center;
+            margin: 0 auto;
+            display: block;
+            left: 25%;
+            margin-top: 6%;
         }
         .subilinhado {
             width: 100%; border: none; border-bottom: 1px solid black; margin-left:3%;
@@ -101,30 +108,30 @@
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
-            margin-top: 10%;
-            margin-left: -198%; 
+            margin-top: 1%;
+            margin-left: -5.3%; 
         }
     </style>
 
-    <section class="section padding" style="background-color: #1b0052; padding-top: 4%; padding-bottom: 15%; height: 650px;">
+    <section class="section padding" style="background-color: #1b0052; height: 700px;">
         <div class="padding">
-            <div class="text-center" style="padding-bottom: 4%">
+            <div class="text-center" style="padding-bottom: 4%; padding-top: 4%;">
                 <h3 class="section-subheading" style="color: white; font-size:44px;">
                     SOLUÇÕES DE GESTÃO EMPRESÁRIAIS
                 </h3>
             </div>
 
-            <div class="row text-center" style="margin-left: 5%; margin-right: 5%">
+            <div class="row text-center" style="margin-left: 3%; margin-right: 3%">
                 <div class="col-lg-3 col-md-4">      
                     <div style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 5%;">                       
-                        <img class="img-fluid fundo" src="/img/home/home_1.jpg" alt="..."/>
+                        <img class="img-fluid fundo" src="/img/home/home_1.jpg" alt="..." style="border-radius: 5%; border-radius: 10%;"/>
                     </div>
                                 
                     <div class="text-justify solucoes fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 65%; padding-bottom: 75px; margin-top: 11%">
                         <p class="padding" style="font-size: 15pt; color: black; line-height: 25px; margin-top: 15%">
                             Software utilizado por mais de <b>36.000</b> empresas entre África e Europa
                         </p> 
-                        <a href="#" class="btn_style text-center" style="font-size:20px; background-color:#1663BF; color: white;">
+                        <a href="/consultoria" class="btn_style text-center" style="font-size:20px; background-color:#1663BF; color: white;">
                             Saber mais
                         </a>
                     </div>
@@ -132,29 +139,29 @@
 
                 <div class="col-lg-3 col-md-4">      
                     <div style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 5%;">                       
-                        <img class="img-fluid fundo" src="/img/home/home_2.png" alt="..." style="background-color: white"/>
+                        <img class="img-fluid fundo" src="/img/home/home_2.png" alt="..." style="border-radius: 5%; border-radius: 10%; background-color: white"/>
                     </div>
                                 
                     <div class="text-justify solucoes fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 65%; padding-bottom: 75px; margin-top: 11%">
                         <p class="padding" style="font-size: 15pt; color: black; line-height: 35px; margin-top: 15%">
                             Software com <b>+1.066</b> utilizadores a níviel nacional
                         </p> 
-                        <a href="#" class="btn_style text-center" style="font-size:20px; background-color:#d0005f; color: white;">
+                        <a href="/cacimbo" class="btn_style text-center" style="font-size:20px; background-color:#d0005f; color: white;">
                             Saber mais
                         </a>
                     </div>
                 </div>   
                 
                 <div class="col-lg-3 col-md-4">      
-                    <div style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 5%">                       
-                        <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..."/>
+                    <div style="padding-left: 6%; margin-top: 1px; position: absolute;">                       
+                        <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..." style="width: 55%; border-radius: 5%; height: 55px; border-radius: 10%;"/>
                     </div>
                                 
                     <div class="text-justify solucoes fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 65%; padding-bottom: 75px; margin-top: 11%">
                         <p class="padding" style="font-size: 15pt; color: black">
                             Software com mais +150 mil utilizadores entre África e Europa
                         </p> 
-                        <a href="#" class="btn_style text-center" style="font-size:20px; background-color:#ed0000; color: white;">
+                        <a href="/phc" class="btn_style text-center" style="font-size:20px; background-color:#ed0000; color: white;">
                             Saber mais
                         </a>
                     </div>
@@ -162,19 +169,18 @@
                 
                 <div class="col-lg-3 col-md-4">      
                     <div style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 5%">                       
-                        <img class="img-fluid fundo" src="/img/home/home_4.jpg" alt="..."/>
+                        <img class="img-fluid fundo" src="/img/home/home_4.jpg" alt="..." style="width: 55%; border-radius: 5%; height: 55px; border-radius: 10%;"/>
                     </div>
                                 
                     <div class="text-justify solucoes fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 65%; padding-bottom: 75px; margin-top: 11%">
                         <p class="padding" style="font-size: 15pt; color: black">
                             Software de gestão de assiduidade controlo de acesso
                         </p> 
-                        <a href="#" class="btn_style text-center" style="font-size:20px; background-color:#1663BF; color: white;">
+                        <a href="/logicpulse" class="btn_style text-center" style="font-size:20px; background-color:#1663BF; color: white;">
                             Saber mais
                         </a>
                     </div>
                 </div>
-
             </div>
             
         </div>
@@ -184,41 +190,18 @@
     <!-- Slides -->
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="/img/home/home_5.jpg" alt="Slide 1">                
-        </div>  
-
-        <div hidden class="row" style="padding-left: 60px; padding-top: 45px; position: relative; display: flex; justify-content: center;">
-            <div class="col-lg-3 col-md-4">     
-                <img class="img-fluid" src="/img/clientes/maptss.png" alt="..."/>
-                <p style="font-size: 15pt; padding-top: 12px; line-height: 40px;">                    
-                    ANOS DE EXPERIÊNCIA
-                </p>
-            </div>
-
-            <div class="col-lg-3 col-md-4">
-                <img class="img-fluid" src="/img/clientes/maptss.png" alt="..."/>
-                <p style="font-size: 15pt; line-height: 40px;"> 
-                    CLIENTES PRIMAVERA
-                </p>
-            </div>
-
-            <div class="col-lg-3 col-md-4">
-                <img class="img-fluid" src="/img/clientes/maptss.png" alt="..."/>
-                <p style="font-size: 15pt; line-height: 40px;"> 
-                    CLIENTES CACIMBO
-                </p>
-            </div>
-        </div>
+            <img src="/img/home/home_5.jpg" alt="Slide 1" style="width: 100%">                
+        </div>          
     </div>
 
 
     <section class="section" style="background-color: white;">
         
-        <div class="text-center" style="padding-top: 3%">
+        <div class="text-center" style="padding-top: 1.5%">
             <h2 class="section-subheading" style="color:#1b0052; font-size: 50px"><b>QUEM ESTÁ CONNOSCO</b></h2>
         </div>
 
-        <div class="row text-center" style="justify-content: center; padding-top: 3%">
+        <div class="row text-center" style="justify-content: center; padding-top: 6%">
 
             <div class="col-lg-2 col-md-2">
                 <span class="fa-stack fa-3x">                           
@@ -257,7 +240,7 @@
 
             <div class="col-lg-1 col-md-2">
                 <span class="fa-stack fa-3x">                           
-                    <img class="img-fluid" src="/img/clientes/acap.png" alt="..."/>
+                    <img class="img-fluid" src="/img/clientes/acap.png" alt="..." />
                 </span>
                 <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Cosultoria</b></p>
             </div>
@@ -299,9 +282,9 @@
     </section>
 
     	
-    <div class="row" style="background-color:rgb(15, 0, 52); padding-top: 11%; padding-bottom: 6%; padding-left: 10%">
+    <div class="row" style="background-color:rgb(15, 0, 52); padding-top: 11%; padding-bottom: 6%; padding-left: 0%; margin-right: 0px">
 
-        <div class="col-md-6">
+        <div class="col-md-6" style="padding-left: 13%">
             <h3 style="flex: 0 0 45%; color: white; font-size:48px; font-family: 'Gothic A1', sans-serif;">                        
                 SOFTWARES LEGALMENTE CETIFICADOS PELA AGT                        								
             </h3>
@@ -312,8 +295,8 @@
             </p>							
         </div>                
                             
-        <div class="col-md-6" style="padding-left: 10%">
-            <img src="/img/clientes/agt.png" alt="" style="width: 30%;">
+        <div class="col-md-6" style="padding-left: 16%">
+            <img src="/img/clientes/agt.png" alt="" style="width: 40%;">
         </div>  
 
     </div>	
@@ -383,7 +366,7 @@
             </div>
         </div>       
                        
-    </div>
+    </div>   
 
 
     <div style="height: 600px; position: relative; background-color: rgb(15, 0, 52)">        
@@ -393,7 +376,7 @@
                 VOCÊ PROCURA POR SOLUÇÕES DE GESTÃO E SERVIÇOS DE INFORMÁTICA A MEDIDA DO SEU NEGÓCIO?
             </p>   
             
-            <a href="#" class="botao_1 btn-center botao_cor_1" style="font-size: 35px; color: black;">
+            <a href="/contactos#formulario" class="botao_1 btn-center botao_cor_1" style="font-size: 35px; color: black;">
                 <b>PEÇA UM LEVANTAMENTO SEM COMPROMISSO</b>
             </a>                
 
@@ -439,21 +422,21 @@
                 
                 <div class="col-lg-6 col-md-4" style="display: flex; align-items: flex-start; padding-top: 3%; padding-left: 2.5%;">
                     <input type="checkbox" id="aceito" name="aceito" style="border: none; border-bottom: 1px solid black;">
-                    <label for="aceito" style="display: flex; align-items: center; padding-left: 3.5%; margin-top: -1.2%;">Li e concordo com as <span style="color: blue;"> Política de Privacidade</span></label>                    
+                    <label for="aceito" style="display: flex; align-items: center; padding-left: 3.5%; margin-top: -1.2%;">Li e concordo com as <span style="color: blue; padding-left: 3px"> Política de Privacidade</span></label>                    
                 </div>
                 
-                <div class="center-text" style="padding: 6% 0 0 2.7%">
-                    <div class="botao_3 botao_cor_3" style="text-align: -webkit-left;">
-                        <a href="#" class="btn-center" style="color: white; font-size: 25px; left: 26%; text-align: -webkit-cnter;">
-                            Enviar
-                        </a>
-                    </div>
+                <div class="center-text" style="padding: 9% 0 0 2.7%">
+                    <a href="#" class="botao_3 botao_cor_3 btn-center" style="color: white; font-size: 25px; left: 26%; text-align: -webkit-cnter;">
+                        Enviar
+                    </a>
                 </div> 
 
             </div>
         </form> 
                        
     </div>
+
+    
     
 
 @endsection

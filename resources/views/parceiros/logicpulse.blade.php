@@ -2,7 +2,16 @@
  
 @section('content')
 
-    <style>      
+    <style>       
+        .botao_formulario_cor {
+            background-color: #520030; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center;
+            margin-bottom: 0%;
+            margin-top: 9%;
+            margin-left: 2%; 
+        }
         .botao_1 {
             background-color: blue;
             border-radius: 0px;
@@ -21,7 +30,7 @@
         .botao_2 {
             background-color: #ed0000;
             border-radius: 0px;
-            width: 300px;
+            width: 500px;
             height: 66px;
         }
         .botao_cor_2 {
@@ -69,10 +78,10 @@
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/img/parceiros/phc.jpg" alt="Slide 1">                
+                <img src="/img/parceiros/logicpulse_7.png" alt="Slide 1" style="width: 100%">                
             </div>
 
-            <div class="carousel-center-text" style="text-align: -webkit-center;">
+            <div hidden class="carousel-center-text" style="text-align: -webkit-center;">
                 <img src="/img/parceiros/logicpulse_1.jpg" alt="Slide 1" style="width: 50%"> 
                 <h3 style="font-size:50px; color: white" class="padding"><b>PARCEIRO ITANGOLA</b></h3>
                 <p style="font-size: 30px; color: white" class="padding">SOFTWARE DE GESTÃO DE ASSIDUIDADE E CONTROLO DE ACESSO</p>
@@ -80,9 +89,9 @@
         </div>    
     </div>
     
-    <div class="container" style="max-width: 1400px; padding-top: 6%">
-        <p style="font-size: 40px; color: #ed0000; padding: 0% 6% 0 0; text-align: -webkit-center;">
-            GESTÃO DE ASSIDUIDADE
+    <div class="container" style="max-width: 1400px;">
+        <p style="font-size: 40px; color: #ed0000; padding: 6% 6% 0 0; text-align: -webkit-center;">
+            </b>GESTÃO DE ASSIDUIDADE</b>
         </p>
         <p style="font-size: 30px; color: black; padding: 0% 11% 0 11%; text-align: -webkit-left;">
             As empresas, de uma forma geral, sentem a necessidade de aferir a pontualidade e efetuar o controlo e gestão 
@@ -94,7 +103,7 @@
                 <p style="font-size: 25px; color: black; padding: 0;">
                     <b>SOFTWARE <span style="color: #ed0000;">TIME</span>.TRACK</b>
                 </p>  
-                <p style="font-size: 20px; color: black; padding: 0;">
+                <p style="font-size: 20px; color: black; padding: 0 7% 0 0;">
                     O time.track dá resposta a esta necessidade recorrendo às tecnologias RFID, biométrica e/ou outra tecnologia 
                     de autenticação, em conjunto ou em separado, sendo uma solução robusta e que responde às necessidades das 
                     empresas. Com a solução time.track, pretende-se ultrapassar variadíssimos problemas e lacunas de gestão de 
@@ -171,7 +180,7 @@
 
             <div class="card mb-6" style="border: 0px solid rgba(0,0,0,.125);"> 
                 <p style="font-size: 25px; color: black; padding: 0;">
-                    <b>SOFTWARE ACCESS.TRACK</b>
+                    <b>SOFTWARE <span style="color: #520030;">ACCESS</span>.TRACK</b>
                 </p>  
                 <p style="font-size: 20px; color: black; padding: 0; line-height: 40px; padding: 0% 19% 0% 0%;">
                     O access.track, é um sistema avançado de controlo e gestão de acessos que permite alta segurança ao nível de 
@@ -184,7 +193,7 @@
                     Estacionamento | Controlo e Gestão de Bilhética | Controlo e Gestão de Visitas | Fechaduras de Hotel.
                 </p>
 
-                <a href="#" class="botao_3 btn-center botao_cor_3" style="font-size: 30px; color: white; position: relative; display: flex; justify-content: center;">
+                <a href="#" class="botao_3 btn-center botao_cor_3" style="font-size: 25px; color: white; position: relative; display: flex; justify-content: center;">
                     <b>QUERO SABER MAIS DO ACCESS TRACK</b>
                 </a>
             </div>  
@@ -199,7 +208,9 @@
                 <b>ACESSORIOS DE ASSIDUIDADE</b>
             </p>
 
-            <img src="/img/parceiros/logicpulse_6.png" alt="Slide 1" style="width: 45%; position: relative; justify-content: center;"> 
+            <div href="#" class="btn-center" style="position: relative; display: flex; justify-content: center;">
+                <img src="/img/parceiros/logicpulse_6.png" alt="Slide 1" style="width: 45%; position: relative; justify-content: center;"> 
+            </div>
 
             <p style="font-size: 20px; color: white; padding-left: 13%; padding-right: 13%; text-align: -webkit-left;">
                 Kit de alimentação de acessos para placa ctrl-inbio e ctrl-c. este kit possui uma bateria de backup para 

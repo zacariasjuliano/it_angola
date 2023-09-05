@@ -118,7 +118,7 @@
                     </b>								
                 </h5>
 
-                <p class="animated-element slow" style="color:black; font-size:20px; margin: 0 17% 0 0;">
+                <p class="animated-element slow" style="color:black; font-size:20px; margin: 0 13% 0 0; padding-top:3%">
                     O software Cegid ERP Primavera oferece uma série de benefícios para empresas de todos os 
                     tamanhos e setores. Alguns dos principais benefícios incluem:
                 </p>
@@ -131,8 +131,8 @@
                 </p>
             </div>                            
                                     
-            <div class="col-md-6" style="flex: 0 0 45%; padding-top: 5%;">
-                <img src="/img/pages/234.png" alt="" style="width: 60%">
+            <div class="col-md-6" style="padding-top: 5%;">
+                <img src="/img/pages/234.png" alt="" style="width: 65%">
             </div>
 
         </div>			
@@ -141,27 +141,27 @@
 
     <section class="section" style="padding: 0px 0px; background-color:white;">	 
 
-        <div style="padding: 0% 5%">
+        <div style="padding: 0% 0%">
             <h3 class="animated-element text-center"  style="padding-top: 2.5%;">
                 <b style="color:blue; font-size:38px;">
                     Porque Escolher A IT-ANGOLA Para Consultoria <br>do Software Cegid ERP Primavera
                 </b>								
             </h3>
 
-            <p class="animated-element slow " style="color:black; font-size:21px; padding: 0 9%">
+            <p class="animated-element slow " style="color:black; font-size:21px; padding: 0 14%">
                 A IT-ANGOLA é líder no fornecimento de consultoria em tecnologia de gestão do software Cegid ERP Primavera. 
                 Os nossos consultores possuem amplo conhecimento e experiência no ERP Primavera, garantindo que sua empresa 
                 obtenha o máximo valor e benefícios dessa solução.
             </p>
         </div>                            
                                 
-        <div style="flex: 0 0 45%; padding: 0% 9%; text-align: -webkit-center;">
-            <img src="/img/pages/209-min.png" alt="" style="width: 100%">
+        <div style="padding: 0% 0%; text-align: -webkit-center;">
+            <img src="/img/pages/209-min.png" alt="" style="width: 75%">
         </div>
  
 
-        <div class="botao_2 botao_cor" style="background-color: blue;">
-            <a href="#" class="btn-center" style="color: white; font-size: 25px;">
+        <div style="padding-left: 4%">
+            <a href="/contactos#formulario" class="btn-center botao_2 botao_cor" style="color: white; font-size: 25px;">
                 Receber Consultoria 
             </a>
         </div>
