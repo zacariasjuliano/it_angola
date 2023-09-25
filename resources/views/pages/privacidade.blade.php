@@ -112,7 +112,7 @@
             </p>           
         </div> 
         
-        <div class="text-left" style="padding: 2% 13%"> 
+        <div class="text-justify" style="padding: 2% 13%"> 
             <p style="font-size: 25px; color: black; line-height: 50px;">
                 Agradecemos por visitar o website www.it-angola.com. Estamos comprometidos em proteger a sua privacidade e em 
                 garantir a segurança dos seus dados pessoais. Esta Política de Privacidade de Uso de Dados 

@@ -119,23 +119,23 @@
                         
                         <div style="position: relative; justify-content: center;; padding-left: 9%">
                             
-                            <div class="icon-text-container" style="display: flex; text-align: left;">
+                            <div class="icon-text-container" style="display: flex; text-align: left; padding-top: 6%">
                                 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
                                     <image href="/img/icon/pin-de-localizacao.png" width="40" height="40" />
                                 </svg>
-                                <p class="text" style="font-size:16px; color: black;">Edifício Acácias <br>Rua Infante Dom Henriques nº 2</p>
+                                <p class="text" style="font-size:16px; color: black; margin-top: -26px;">Edifício Acácias <br>Rua Infante Dom Henriques nº 2</p>
                             </div>
-                            <div class="icon-text-container" style="display: flex; text-align: left;">
+                            <div class="icon-text-container" style="display: flex; text-align: left; padding-top: 6%">
                                 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
                                     <image href="/img/icon/telefone.png" width="40" height="40" />
                                 </svg>
-                                <p class="text" style="font-size:16px; color: black;">(+244) 927316791 <br>(+244) 944908829</p>
+                                <p class="text" style="padding-left: 6px; margin-top: -22px; font-size:16px; color: black;">(+244) 927316791 <br>(+244) 944908829</p>
                             </div>
-                            <div class="icon-text-container" style="display: flex; text-align: left;">                            
+                            <div class="icon-text-container" style="display: flex; text-align: left; padding-top: 6%">                            
                                 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
                                     <image href="/svg/email.svg" width="40" height="40" />
                                 </svg>
-                                <p class="text" style="padding-left: 6px; margin-top: 14px; font-size:16px; color: black;">comercial@it-angola.com</p>
+                                <p class="text" style="padding-left: 6px; margin-top: -6px; font-size:16px; color: black;">comercial@it-angola.com</p>
                             </div>
                         </div>
                     </div>  
@@ -151,23 +151,23 @@
 
                         <div style="position: relative; justify-content: center;; padding-left: 9%">
                         
-                            <div class="icon-text-container" style="display: flex; text-align: left;">
+                            <div class="icon-text-container" style="display: flex; text-align: left; padding-top: 6%">
                                 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
                                     <image href="/img/icon/pin-de-localizacao.png" width="40" height="40" />
                                 </svg>
-                                <p class="text" style="font-size:16px; color: black;">Edifício Atlactic Business Center <br>Talatona</p>
+                                <p class="text" style="font-size:16px; color: black; margin-top: -26px;">Edifício Atlactic Business Center <br>Talatona</p>
                             </div>
-                            <div class="icon-text-container" style="display: flex; text-align: left;">
+                            <div class="icon-text-container" style="display: flex; text-align: left; padding-top: 6%">
                                 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
                                     <image href="/img/icon/telefone.png" width="40" height="40" />
                                 </svg>
-                                <p class="text" style="padding-left: 6px; margin-top: 14px; font-size:16px; color: black;">(+244) 927316791 <br>(+244) 944908829</p>
+                                <p class="text" style="padding-left: 6px; margin-top: -22px; font-size:16px; color: black;">(+244) 927316791 <br>(+244) 944908829</p>
                             </div>
-                            <div class="icon-text-container" style="display: flex; text-align: left;">
+                            <div class="icon-text-container" style="display: flex; text-align: left; padding-top: 6%">
                                 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
                                     <image href="/svg/email.svg" width="40" height="40" />
                                 </svg>
-                                <p class="text" style="padding-left: 6px; padding-top: -9px; font-size:16px; color: black;">comercial@it-angola.com</p>
+                                <p class="text" style="padding-left: 6px; margin-top: -6px; font-size:16px; color: black;">comercial@it-angola.com</p>
                             </div>
                         </div>
                     </div>

@@ -5,13 +5,17 @@
     ESTRUTURAÇÃO DOS ESTILOS DO WEBSITE
 */
 
-
-body {
-    font-family: 'Gothic A1', sans-serif;
-    /*width: 1920px; /* Largura da página */
-    margin: 0 auto; /* Centralizar horizontalmente */
+@media (max-width: 768px) {
+    /* Estilos para dispositivos com largura máxima de 768px */
 }
 
+/*
+body {
+    font-family: 'Gothic A1', sans-serif;
+    /* width: 1900px; /* Largura da página */
+    /* margin: 0 auto; /* Centralizar horizontalmente *
+}
+*/
 
 /*START Estilos do Footer*/
 .footer_logotipo {

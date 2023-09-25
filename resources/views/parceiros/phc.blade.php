@@ -92,7 +92,7 @@
                 SOFTWARE FEITO PARA PEQUENOS, MÉDIOS E GRANDES NEGÓCIOS
             </p>
             <p style="font-size: 25px; color: white; padding: 0 25% 0 10%; position: relative; display: flex; justify-content: center;">
-                Ganhe vantagens como uma destas soluções
+                Ganhe vantagens com uma destas soluções
             </p> 
         </div> 
         
@@ -181,14 +181,14 @@
     <div style="margin-bottom: 5%; margin-top: 1%;">
         <div style="padding-top: 7% "> 
             
-            <h2 style="position: relative; display: flex; justify-content: center; font-size: 45px">
+            <h2 class="text-center" style="font-size: 45px">
                 <b> QUAL É O TAMANHO DA SUA EMPRESA</b> 
             </h2>   
-            <p class="padding" style="position: relative; display: flex; justify-content: center; font-size: 16pt; color: black">
+            <p class="text-center" style="font-size: 16pt; color: black">
                 Uma solução para o tamanho de qualquer empresa de qualquer sector de actividade
             </p>
             
-            <div class="card-deck mb-3" style="padding: 3% 10% 0 10%">
+            <div class="card-deck mb-3" style="padding: 3% 10% 0 10%; margin-right: 0px; margin-left: 0px;">
                 <div class="card mb-4 panel_itens" style="margin-left: 0px; margin-right: 7px; border-radius: 55px 55px 0 0;">
                     <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%; position: relative; display: flex; justify-content: center;">
                         <img class="img-fluid" src="/img/parceiros/phc_corporate.jpg" alt="..." style="width: 35%;"/> 

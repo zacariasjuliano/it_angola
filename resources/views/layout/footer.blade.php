@@ -57,9 +57,9 @@
             <div class="col-lg-8">
                 <!-- Social -->
                 <div style="padding-left: 50px; padding-top: 50px;">          
-                    <a href="#" target="_blank"><i class="icon-facebook_circle text-size-50" style="color:rgb(255, 255, 255); margin-right: 10px; font-size: 40px;"></i></a> 
-                    <a href="#" target="_blank"><i class="fa fa-instagram text-size-50" style="color:rgb(255, 255, 255); margin-right: 10px; font-size: 40px;"></i></a> 
-                    <a href="#" target="_blank"><i class="icon-linked_in_circle text-size-50" style="color:rgb(255, 255, 255); margin-right: 10px; font-size: 40px;"></i></a>  
+                    <a href="https://www.facebook.com/itAngola.bg" target="_blank"><i class="icon-facebook_circle text-size-50" style="color:rgb(255, 255, 255); margin-right: 10px; font-size: 40px;"></i></a> 
+                    <a href="https://www.instagram.com/it_angola/" target="_blank"><i class="fa fa-instagram text-size-50" style="color:rgb(255, 255, 255); margin-right: 10px; font-size: 40px;"></i></a> 
+                    <a href="https://www.linkedin.com/in/it-angola-549a89208/" target="_blank"><i class="icon-linked_in_circle text-size-50" style="color:rgb(255, 255, 255); margin-right: 10px; font-size: 40px;"></i></a>  
                     <a href="#" target="_blank"><i class="fa fa-youtube-play text-size-50" style="color:rgb(255, 255, 255); margin-right: 10px; font-size: 40px;"></i></a>                                                                      
                 </div>
             </div>

@@ -99,7 +99,7 @@
             </h3>            
         </div> 
         
-        <div class="text-left" style="padding: 5% 15%"> 
+        <div class="text-justify" style="padding: 5% 15%"> 
             
             <ol style="list-style-position: outside; list-style-position: outside;">
                 <li style="font-size: 20px; padding-left: 40px;">

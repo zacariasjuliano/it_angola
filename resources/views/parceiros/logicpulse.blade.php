@@ -131,9 +131,9 @@
                 FORNECEMOS UM CONJUNTO DE TERMINAIS BIOMÉTRICOS DIGITAL E FACIAL
             </p>
 
-            <div class="card-deck mb-3" style="padding-top: 6%; background-color: rgb(224, 224, 224)">            
-                <div class="card mb-6" style="border: 0px solid rgba(0,0,0,.125); background-color: rgb(224, 224, 224)"> 
-                    <img src="/img/parceiros/logicpulse_4.png" alt="Slide 1" style="width: 55%"> 
+            <div class="row" style="padding-top: 6%; background-color: rgb(224, 224, 224);">            
+                <div class="col-md-6" style="border: 0px solid rgba(0,0,0,.125); background-color: rgb(224, 224, 224);"> 
+                    <img src="/img/parceiros/logicpulse_4.png" alt="Slide 1" style="width: 55%;"> 
 
                     <p style="font-size: 25px; color: #ed0000; padding: 0 16% 0 0%;">
                         <b>TERMINAL BIOMÉTRICO DE ENTRADA DE GAMA</b>
@@ -146,7 +146,7 @@
                     </p>
                 </div>
 
-                <div class="card mb-6" style="border: 0px solid rgba(0,0,0,.125); background-color: rgb(224, 224, 224)">
+                <div class="col-md-6" style="border: 0px solid rgba(0,0,0,.125); background-color: rgb(224, 224, 224);">
                     <img src="/img/parceiros/logicpulse_3.jpg" alt="Slide 1" style="width: 55%; background-color: transparent;"> 
 
                     <p style="font-size: 25px; color: #ed0000; padding: 0 32% 0 0%;">

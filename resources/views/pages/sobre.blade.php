@@ -96,7 +96,7 @@
             </h3>            
         </div> 
         
-        <div class="text-left" style="padding: 2% 15%"> 
+        <div class="text-justify" style="padding: 2% 15%"> 
             <p style="font-size: 25px; color: black">
                 A IT-ANGOLA é uma empresa angolana especializada em Serviços da Tecnologia de Gestão vocacionada para o 
                 planeamento, venda, implementação, prevenção, correção, formação, e consultória de em sistemas de gestão 
@@ -104,10 +104,10 @@
             </p> 
             <p style="font-size: 25px; color: black">
                 Disponibilizamos um serviço de suporte personalizado e próximo para que retire o máximo valor da 
-                ecnologia com a mínima preocupação.<br> 
-                Trabalhamos para que o seu foco seja o crescimento da empresa e não a resolução das questões técnicas 
-                do dia-a-dia, Disponibilizamos uma equipa comprometida com as necessidades técnicas da sua organização 
-                e empenhada no apoio diário para a melhor utilização possível do software PRIMAVERA.
+                tecnologia com a mínima preocupação.<br> 
+                Trabalhamos para que o seu foco seja o crescimento da empresa e não a resolução das questões técnicas do 
+                dia-a-dia, disponibilizamos uma equipa comprometida com as necessidades técnicas da sua organização e 
+                empenhada no apoio diário para a melhor utilização possível dos softwares de gestão.
                 <br>Prestamos serviços de assistência e suporte informático via telefónica, remota ou local com o objectivo 
                 de pro-activamente despistar e resolver qualquer incidente.
 

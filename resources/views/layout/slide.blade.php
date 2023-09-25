@@ -71,7 +71,7 @@
     <div class="carousel-inner"  style="max-height: 920px;">
         <div class="carousel-item active">
             <div>
-                <img src="/img/home/home.jpg" alt="Slide 1">
+                <img src="/img/home/home.jpg" alt="Slide 1" width="100%">
                 <div class="carousel-caption" hidden>
                     <h3>Slide 1</h3>
                     <p>Descrição do slide 1</p>

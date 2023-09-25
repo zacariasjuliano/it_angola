@@ -88,7 +88,7 @@
 
 
     <section class="section" style="padding: 0px 0px; background-color:white;">		
-        <div class="row" style="padding-left: 12%; padding-bottom: 7%">  
+        <div class="row" style="padding-left: 12%; padding-bottom: 9%">  
 
             <div class="col-md-6" style="padding-right: 9%; padding-top: 13%;">
                 <h2 class="animated-element margin-bottom-20"  style="color:blue; font-size: 55px;">                   
@@ -96,7 +96,7 @@
                 </h2>
 
                 <p class="animated-element slow margin-bottom-20" style="color:black; font-size:21px;">
-                    A IT-ANGOLA oferece suporte técnico especializado para o software Cegid ERP Primavera e de 
+                    A IT-ANGOLA oferece suporte técnico especializado para os softwares Cegid ERP Primavera, Cacimbo, PHC, logicpulse e de 
                     informática. A Nossa equipe de especialistas está pronta para ajudá-lo a resolver problemas, 
                     otimizar o desempenho e maximizar o uso dessas soluções em seu negócio.
                 </p>
@@ -132,6 +132,66 @@
 
         </div>			
     </section>
+
+
+
+    <section class="section" style="padding: 0 0 9% 0;">	           
+            
+        <div style="position: relative; justify-content: center;"> 
+            <h2 class="animated-element margin-bottom-20 text-center" style="color:#0a4275; font-size: 55px;">                   
+                <i class="fa fa-download" style="color: #0a4275;"></i> Softwares de auxilio                    								
+            </h2>
+            
+            <p class="h2 text-center pt-5" style="padding-left: 0%; padding-right: 0%" >
+                Aqui pode adqurir o software necessário para que possamos ajudá-lo da melhor maneira.
+            </p>
+        </div> 
+        
+
+        <div class="row" style="position: relative; display: flex; justify-content: center;"> 
+
+            <div class="col-md-6" style="flex: 0 0 30%; padding-top: 3%;">
+                <div class="card mb-4 box-shadow" style="background-color:#e8f2f5">
+                    <div class="card-header" hidden>
+                        <h4 class="my-0 font-weight-normal text-center"><b>Free</b></h4>
+                    </div>
+                    <div class="card-body">
+                        <img src="img/parceiros/any_desk.png" class="card-img" style="position: relative; display: flex; justify-content: center;">
+                        <h1 class="card-title pricing-card-title text-center">Windows</h1>
+                        <ul class="list-unstyled mt-3 mb-4 text-center">
+                            <li>Free</li>
+                            <li>Real-Time</li>
+                            <li>Online</li>
+                            <li>Leve</li>
+                            <li>Versão 64-bit</li>
+                        </ul>
+                        <a href="https://anydesk.com/pt/downloads/thank-you?dv=win_exe" target="_blank" class="btn btn-lg btn-block btn-outline-primary">Download <i class="fa fa-download"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6" style="flex: 0 0 30%; padding-top: 3%;">
+                <div class="card mb-4 box-shadow" style="background-color:#e8f2f5">
+                    <div class="card-header" hidden>
+                        <h4 class="my-0 font-weight-normal text-center"><b>Free</b></h4>
+                    </div>
+                    <div class="card-body">
+                        <img src="img/parceiros/team_viewer.png" class="card-img" style="width: 90%; position: relative; display: flex; justify-content: center;">
+                        <h1 class="card-title pricing-card-title text-center">Windows</h1>
+                        <ul class="list-unstyled mt-3 mb-4 text-center">
+                            <li>Free</li>
+                            <li>Real-Time</li>
+                            <li>Online</li>
+                            <li>Chat Incluido</li>
+                            <li>Versão 64-bit</li>
+                        </ul>
+                        <a href="https://download.teamviewer.com/download/TeamViewer_Setup_x64.exe" target="_blank" class="btn btn-lg btn-block btn-outline-primary">Download <i class="fa fa-download"></i></a>
+                    </div>
+                </div>
+            </div>
+
+        </div>			
+    </section>    
 
     
 

@@ -44,7 +44,7 @@
         .btn_style {
             width: 45%; 
             height: 16%; 
-            margin-top: 6%; 
+            margin-top: 0%; 
             margin-left: -30%;
             position: absolute;
             left: 40%;
@@ -111,79 +111,84 @@
             margin-top: 1%;
             margin-left: -5.3%; 
         }
+        .col-lg-3 {
+            -ms-flex: 0 0 25%;
+            flex: 0 0 25%;
+            max-width: 20%;
+        }
     </style>
 
     <section class="section padding" style="background-color: #1b0052; height: 700px;">
-        <div class="padding">
-            <div class="text-center" style="padding-bottom: 4%; padding-top: 4%;">
-                <h3 class="section-subheading" style="color: white; font-size:44px;">
-                    SOLUÇÕES DE GESTÃO EMPRESÁRIAIS
-                </h3>
-            </div>
-
-            <div class="row text-center" style="margin-left: 3%; margin-right: 3%">
-                <div class="col-lg-3 col-md-4">      
-                    <div style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 5%;">                       
-                        <img class="img-fluid fundo" src="/img/home/home_1.jpg" alt="..." style="border-radius: 5%; border-radius: 10%;"/>
-                    </div>
-                                
-                    <div class="text-justify solucoes fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 65%; padding-bottom: 75px; margin-top: 11%">
-                        <p class="padding" style="font-size: 15pt; color: black; line-height: 25px; margin-top: 15%">
-                            Software utilizado por mais de <b>36.000</b> empresas entre África e Europa
-                        </p> 
-                        <a href="/consultoria" class="btn_style text-center" style="font-size:20px; background-color:#1663BF; color: white;">
-                            Saber mais
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4">      
-                    <div style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 5%;">                       
-                        <img class="img-fluid fundo" src="/img/home/home_2.png" alt="..." style="border-radius: 5%; border-radius: 10%; background-color: white"/>
-                    </div>
-                                
-                    <div class="text-justify solucoes fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 65%; padding-bottom: 75px; margin-top: 11%">
-                        <p class="padding" style="font-size: 15pt; color: black; line-height: 35px; margin-top: 15%">
-                            Software com <b>+1.066</b> utilizadores a níviel nacional
-                        </p> 
-                        <a href="/cacimbo" class="btn_style text-center" style="font-size:20px; background-color:#d0005f; color: white;">
-                            Saber mais
-                        </a>
-                    </div>
-                </div>   
-                
-                <div class="col-lg-3 col-md-4">      
-                    <div style="padding-left: 6%; margin-top: 1px; position: absolute;">                       
-                        <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..." style="width: 55%; border-radius: 5%; height: 55px; border-radius: 10%;"/>
-                    </div>
-                                
-                    <div class="text-justify solucoes fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 65%; padding-bottom: 75px; margin-top: 11%">
-                        <p class="padding" style="font-size: 15pt; color: black">
-                            Software com mais +150 mil utilizadores entre África e Europa
-                        </p> 
-                        <a href="/phc" class="btn_style text-center" style="font-size:20px; background-color:#ed0000; color: white;">
-                            Saber mais
-                        </a>
-                    </div>
-                </div>  
-                
-                <div class="col-lg-3 col-md-4">      
-                    <div style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 5%">                       
-                        <img class="img-fluid fundo" src="/img/home/home_4.jpg" alt="..." style="width: 55%; border-radius: 5%; height: 55px; border-radius: 10%;"/>
-                    </div>
-                                
-                    <div class="text-justify solucoes fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 65%; padding-bottom: 75px; margin-top: 11%">
-                        <p class="padding" style="font-size: 15pt; color: black">
-                            Software de gestão de assiduidade controlo de acesso
-                        </p> 
-                        <a href="/logicpulse" class="btn_style text-center" style="font-size:20px; background-color:#1663BF; color: white;">
-                            Saber mais
-                        </a>
-                    </div>
-                </div>
-            </div>
-            
+        
+        <div class="container text-center" style="padding-bottom: 4%; padding-top: 4%;">
+            <h2 class="section-subheading" style="color: white; font-size:44px; font-family: 'Gothic A1', sans-serif;">
+                <b>SOLUÇÕES DE GESTÃO EMPRESÁRIAIS</b>
+            </h2>
         </div>
+
+        
+        <div class="row justify-content-center">
+            <div class="col-lg-3 col-md-4">      
+                <div class="text-center mb-4" style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 5%;">                       
+                    <img class="img-fluid fundo" src="/img/home/home_1.jpg" alt="..." style="border-radius: 10% 10% 10% 10%;"/>
+                </div>
+                            
+                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 270px; padding-bottom: 75px; margin-top: 11%">
+                    <p class="padding" style="font-size: 15pt; color: black; line-height: 25px; margin-top: 15%">
+                        Software utilizado por mais de <b>36.000</b> empresas entre África e Europa
+                    </p> 
+                    <a href="/consultoria" class="btn_style text-center" style="font-size:20px; background-color:#1663BF; color: white; margin-left: -25%;">
+                        Saber mais
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4">      
+                <div class="text-center mb-4" style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 5%;">                       
+                    <img class="img-fluid fundo" src="/img/home/home_2.png" alt="..." style="border-radius: 10%; background-color: white"/>
+                </div>
+                            
+                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 270px; padding-bottom: 75px; margin-top: 11%">
+                    <p class="padding" style="font-size: 15pt; color: black; line-height: 35px; margin-top: 15%">
+                        Software com <b>+1.066</b> utilizadores a níviel nacional
+                    </p> 
+                    <a href="/cacimbo" class="btn_style text-center" style="font-size:20px; background-color:#d0005f; color: white; margin-left: -25%;">
+                        Saber mais
+                    </a>
+                </div>
+            </div>   
+            
+            <div class="col-lg-3 col-md-4">      
+                <div class="text-center mb-4" style="padding-left: 6%; margin-top: 1px; position: absolute;">                       
+                    <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..." style="width: 55%; height: 55px; border-radius: 0.375rem;"/>
+                </div>
+                            
+                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 270px; padding-bottom: 75px; margin-top: 11%">
+                    <p class="padding" style="font-size: 15pt; color: black; line-height: 50px;">
+                        Software com mais +150 mil utilizadores entre África e Europa
+                    </p> 
+                    <a href="/phc" class="btn_style text-center" style="font-size:20px; background-color:#ed0000; color: white; margin-left: -25%;">
+                        Saber mais
+                    </a>
+                </div>
+            </div>  
+            
+            <div class="col-lg-3 col-md-4">      
+                <div class="text-center mb-4" style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 0.375rem;">                       
+                    <img class="img-fluid fundo" src="/img/home/home_4.jpg" alt="..." style="width: 55%; height: 55px; border-radius: 10%;"/>
+                </div>
+                            
+                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 270px; padding-bottom: 75px; margin-top: 11%">
+                    <p class="padding" style="font-size: 15pt; color: black">
+                        Software de gestão de assiduidade controlo de acesso
+                    </p> 
+                    <a href="/logicpulse" class="btn_style text-center" style="font-size:20px; background-color:#1663BF; color: white; margin-left: -25%;">
+                        Saber mais
+                    </a>
+                </div>
+            </div>
+        </div>
+        
     </section>
     
             
@@ -217,7 +222,7 @@
                 <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Ensino</b></p>
             </div>
 
-            <div class="col-lg-2 col-md-2">                    
+            <div class="col-lg-2 col-md-2" hidden>                    
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/maptss.png" alt="..."/>
                 </span>                    
@@ -238,7 +243,7 @@
                 <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Indústria</b></p>
             </div>
 
-            <div class="col-lg-1 col-md-2">
+            <div class="col-lg-1 col-md-2" hidden>
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/acap.png" alt="..." />
                 </span>
@@ -249,14 +254,14 @@
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/pagaso.png" alt="..."/>
                 </span>
-                <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Telecomunicações</b></p>
+                <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Meios de Pagamento</b></p>
             </div>
         </div>
         
     </section>
 
     
-    <section class="section" style="background-color: #338ed5; height: 450px">
+    <section class="section" style="background-color: #338ed5; height: 500px">
 
         <div class="text-center" style="justify-content: center; padding-top: 1%">
             <h2 class="section-subheading" style="color: white; font-size: 50px;">ACREDITE NO QUE OS GESOTORES DIZEM</h2>
@@ -270,7 +275,7 @@
                     <img class="img-fluid rounded-circle" src="/img/home/home_6.png" alt="..." style="width: 300px"/>
                 </div>
 
-                <div style="color: white; font-size: 20px; padding-left: 3%; padding-right: 47%;">
+                <div style="color: white; font-size: 20px; padding-left: 3%; padding-right: 47%; text-align: justify!important;">
                     "Com as soluções de gestão da IT-ANGOLA a nossa empresa tem maior controle de todos os processos que relaizamos, 
                     tanto de mercadoria, clientes e forncedores. O que nos permite ter uma gestão mais centralizada."
                 </div>
@@ -289,7 +294,7 @@
                 SOFTWARES LEGALMENTE CETIFICADOS PELA AGT                        								
             </h3>
 
-            <p style="color: white; font-size: 30px; width: 80%; font-family: 'Gothic A1', sans-serif;">
+            <p style="color: white; font-size: 30px; width: 80%; font-family: 'Gothic A1', sans-serif; text-align: justify!important;">
                 Os nossos softwares estão certificados pela Administração Geral Tributária (AGT), de maneira que você trabalhe 
                 sem se preocupar com estas questões legais e fiscais.
             </p>							
@@ -317,7 +322,7 @@
                     <img class="img-fluid" src="/img/home/home_7.png" alt="..." style="width: 50%"/>
                 </span>                    
                 <h5 style="padding-right: 5%; color: black;"><b>REDES DE COMPUTADORES</b></h5>
-                <div style="text-align: -webkit-left; padding: 0 11%">
+                <div style="text-align: -webkit-left; padding: 0 11%; font-family: 'Gothic A1', sans-serif; text-align: justify!important;">
                     Toda empresa precisa de uma infra-estrura de rede cabeada ou wi-fi, para que haja comunicação 
                     interna e acesso a internet, de modo que os departamentos se comuniquem de forma eficiente.
                 </div>
@@ -328,8 +333,8 @@
                     <img class="img-fluid" src="/img/home/home_8.png" alt="..." style="width: 50%"/>
                 </span>
                 <h5 style="padding-right: 4%; color: black;"><b>SEGURANÇA INFORMÁTICA</b></h5>
-                <div style="text-align: -webkit-left; padding: 0 11%">
-                    Mantenha os computadores da sua empresa seguros. Instalando antivíros, configurando políticas 
+                <div style="text-align: -webkit-left; padding: 0 11%; text-align: justify!important;">
+                    Mantenha os computadores da sua empresa seguros. Instalando antivírus, configurando políticas 
                     de privacidade para que invasores não tenham acesso a informações previligiadas do seu negócio. 
                 </div>
             </div>
@@ -339,7 +344,7 @@
                     <img class="img-fluid" src="/img/home/home_9.jpg" alt="..." style="width: 50%"/>
                 </span>
                 <h5 style="padding-right: 0%; color: black;"><b>SUPORTE INFORMÁTICO</b></h5>
-                <div style="text-align: -webkit-left; padding: 0 11%">
+                <div style="text-align: -webkit-left; padding: 0 11%; text-align: justify!important;">
                     Mantenha o sistema operativo seguro e operacional. 
                 </div>
             </div>
@@ -349,9 +354,9 @@
                     <img class="img-fluid" src="/img/home/home_10.png" alt="..." style="width: 50%"/>
                 </span>
                 <h4 class="my-3" style="color: black;"><b>FORMAÇÃO</b></h4>
-                <div style="text-align: -webkit-left; padding: 0 11%">
+                <div style="text-align: -webkit-left; padding: 0 11%; text-align: justify!important;">
                     Capacitamos funcionário e entidades independentes nas mais diversas soluções de gestão que oferecemos. 
-                    Primavera, Cacimbo e PHC. 
+                    Primavera, Cacimbo e PHC. Com certificados reconhecidos pelo INEFOP 
                 </div>
             </div>
 
@@ -360,7 +365,7 @@
                     <img class="img-fluid" src="/img/home/home_11.jpg" alt="..." style="width: 50%"/>
                 </span>
                 <h4 class="my-3" style="color: black;"><b>CONSULTORIA</b></h4>
-                <div style="text-align: -webkit-left; padding: 0 11%">
+                <div style="text-align: -webkit-left; padding: 0 11%; text-align: justify!important;">
                     Montamos um diagnóstico com as melhores soluções para a necessidade da sua empresa. 
                 </div>
             </div>
@@ -374,9 +379,9 @@
 
             <p class="text-center" style="font-size: 35px; word-spacing: 10px; padding-top: 9%; color: white">
                 VOCÊ PROCURA POR SOLUÇÕES DE GESTÃO E SERVIÇOS DE INFORMÁTICA A MEDIDA DO SEU NEGÓCIO?
-            </p>   
-            
-            <a href="/contactos#formulario" class="botao_1 btn-center botao_cor_1" style="font-size: 35px; color: black;">
+            </p> 
+
+            <a href="/contactos#formulario" class="botao_1 btn-center botao_cor_1" style="position: initial; align-items: center; justify-content: center; font-size: 35px; color: black;">
                 <b>PEÇA UM LEVANTAMENTO SEM COMPROMISSO</b>
             </a>                
 

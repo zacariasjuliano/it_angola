@@ -123,9 +123,9 @@
                     tamanhos e setores. Alguns dos principais benefícios incluem:
                 </p>
                 <p class="animated-element slow margin-bottom-20" style="color:black; font-size:20px; margin-top: -5%; padding-left:1.5%; line-height: 40px;">
-                    <br>A Melhoria na gestão de processos e fluxo de trabalho
-                    <br>O Aumento da eficiência operacional
-                    <br>A Integração de departamentos e sistemas
+                    <br>A melhoria na gestão de processos e fluxo de trabalho
+                    <br>O aumento da eficiência operacional
+                    <br>A integração de departamentos e sistemas
                     <br>Maior visibilidade e controle dos dados empresariais
                     <br>Tomada de decisão mais claras e precisas
                 </p>
@@ -144,14 +144,13 @@
         <div style="padding: 0% 0%">
             <h3 class="animated-element text-center"  style="padding-top: 2.5%;">
                 <b style="color:blue; font-size:38px;">
-                    Porque Escolher A IT-ANGOLA Para Consultoria <br>do Software Cegid ERP Primavera
+                    Porque que escolher o parceiro IT-ANGOLA para consultoria <br>do software Cegid ERP Primavera
                 </b>								
             </h3>
 
             <p class="animated-element slow " style="color:black; font-size:21px; padding: 0 14%">
-                A IT-ANGOLA é líder no fornecimento de consultoria em tecnologia de gestão do software Cegid ERP Primavera. 
-                Os nossos consultores possuem amplo conhecimento e experiência no ERP Primavera, garantindo que sua empresa 
-                obtenha o máximo valor e benefícios dessa solução.
+                Os nossos consultores são certificados pela Cegid ERP Primavera possuem amplo conhecimento e experiência, 
+                garantindo que a sua empresa obtenha o máximo valor e benefícios dessa solução.
             </p>
         </div>                            
                                 
