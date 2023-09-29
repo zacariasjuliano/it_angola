@@ -95,7 +95,7 @@
                     Serviços de suporte técnico                    								
                 </h2>
 
-                <p class="animated-element slow margin-bottom-20" style="color:black; font-size:21px;">
+                <p class="text-justify animated-element slow margin-bottom-20" style="color:black; font-size:21px;">
                     A IT-ANGOLA oferece suporte técnico especializado para os softwares Cegid ERP Primavera, Cacimbo, PHC, logicpulse e de 
                     informática. A Nossa equipe de especialistas está pronta para ajudá-lo a resolver problemas, 
                     otimizar o desempenho e maximizar o uso dessas soluções em seu negócio.
@@ -113,7 +113,7 @@
                     <li style="padding-top: 1%; font-size: 18px;">Treinamento e capacitação dos usuários</li>
                 </ul>
 
-                <p class="animated-element slow margin-bottom-20" style="color:black; font-size:21px; padding-right: 9%;">
+                <p class="text-justify animated-element slow margin-bottom-20" style="color:black; font-size:21px; padding-right: 9%;">
                     Nossa equipe técnica experiente está disponível para ajudar sua empresa a obter o máximo 
                     de sua tecnologia de gestão do software Cegid ERP Primavera e informática. Entre em contato 
                     conosco hoje mesmo para saber mais sobre nossos serviços de

@@ -69,26 +69,33 @@
             color: white; 
             background-color: #ff8f92;
         }
+        .carousel-center-text {
+            position: absolute;
+            top: 45%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            color: #fff;
+        }
     </style>
     
     <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">            
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/img/parceiros/phc.jpg" alt="Slide 1" style="width: 100%">                
+                <img src="/img/parceiros/phc.jfif" alt="Slide 1" style="width: 100%">                
             </div>
 
-            <div hidden class="carousel-center-text" style="text-align: -webkit-center;">
-                <img src="/img/starter/starter.png" alt="Slide 1" class="padding"> 
-                <h3 style="font-size:50px; color: white" class="padding"><b>PARCEIRO ITANGOLA</b></h3>
-                <p style="font-size: 30px; color: white" class="padding">SOFTWARE FACTURAÇÃO E GESTÃO</p>
+            <div class="carousel-center-text" style="text-align: -webkit-center; padding-top: 290px">
+                <img src="/img/parceiros/phc_0.jpg" alt="Slide 1" style="width: 90%;"> 
+                <h3 style="font-size:50px; color: white"><b>PARCEIRO ITANGOLA</b></h3>
             </div>
         </div>    
     </div>
 
     <div class="card-deck mb-3" style="margin-right: 0px;">
         <div class="card mb-6" style="padding-left: 35px; border: 0px solid rgba(0,0,0,.125); background-color: #ed0000; margin-right: 0; margin-bottom: 3%; border-radius: 0px;">
-            <p style="font-size: 40px; color: white; padding: 30% 25% 0 15%; position: relative; display: flex; justify-content: center;">
+            <p style="font-size: 40px; color: white; padding: 30% 25% 0 13%; position: relative; display: flex; justify-content: center;">
                 SOFTWARE FEITO PARA PEQUENOS, MÉDIOS E GRANDES NEGÓCIOS
             </p>
             <p style="font-size: 25px; color: white; padding: 0 25% 0 10%; position: relative; display: flex; justify-content: center;">
@@ -97,7 +104,7 @@
         </div> 
         
         <div class="card mb-6" style="border: 0px solid rgba(0,0,0,.125); background-color: #ff8f92; margin-left: 0; margin-right: 0px; margin-bottom: 3%; border-radius: 0px;">
-            <p style="font-size: 30px; color: #ed0000; padding: 6% 6% 0 0; margin-left: 9%"><b>SOLUÇÕES SECTORIAIS</b></p> 
+            <p style="font-size: 30px; color: #ed0000; padding: 6% 6% 0 0; margin-left: 9%; margin-bottom: -1rem;"><b>SOLUÇÕES SECTORIAIS</b></p> 
             <p class="texto_p">
                 Clínicas
             </p>  
@@ -117,7 +124,7 @@
                 Retalho
             </p>
 
-            <p style="font-size: 30px; color: #ed0000; padding: 6% 6% 0 0; margin-left: 9%"><b>SOLUÇÕES TRANVERSAIS</b></p> 
+            <p style="font-size: 30px; color: #ed0000; padding: 6% 6% 0 0; margin-left: 9%; margin-bottom: -1rem;"><b>SOLUÇÕES TRANVERSAIS</b></p> 
             <p class="texto_p">
                 Gestão na Cloud
             </p>  
@@ -158,10 +165,10 @@
                 </div>
 
                 <div style="flex: 1; text-align: -webkit-left; padding-top: 6%">
-                    <p style="font-size: 45px; color: #ed0000; margin-left: 6%; margin-right: 25%">
+                    <p class="text-justify" style="font-size: 45px; color: #ed0000; margin-left: 6%; margin-right: 25%">
                         <b>UM SOFTWARE QUE SE ADAPTA A CADA EMPRESA</b>
                     </p> 
-                    <p style="font-size: 20px; color: black; margin-left: 6%; margin-right: 25%; line-height: 40px; padding-top: 3%">
+                    <p class="text-justify" style="font-size: 20px; color: black; margin-left: 6%; margin-right: 25%; line-height: 40px; padding-top: 3%">
                         Cada empresa é única e tem necessidades de
                         gestão próprias. E, por isso, precisa de um
                         software capaz de se adaptar à exata medida das
@@ -190,9 +197,9 @@
             
             <div class="card-deck mb-3" style="padding: 3% 10% 0 10%; margin-right: 0px; margin-left: 0px;">
                 <div class="card mb-4 panel_itens" style="margin-left: 0px; margin-right: 7px; border-radius: 55px 55px 0 0;">
-                    <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%; position: relative; display: flex; justify-content: center;">
+                    <div class="text-right" style="font-size: 20px; color: white; padding: 3% 0; position: relative; display: flex; justify-content: center;">
                         <img class="img-fluid" src="/img/parceiros/phc_corporate.jpg" alt="..." style="width: 35%;"/> 
-                    </p> 
+                    </div> 
                     <p class="padding estilo_a">
                         Pequenas empresas de qualquer sector de atividade
                     </p> 

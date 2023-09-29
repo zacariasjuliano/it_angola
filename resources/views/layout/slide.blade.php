@@ -71,17 +71,19 @@
     <div class="carousel-inner"  style="max-height: 920px;">
         <div class="carousel-item active">
             <div>
-                <img src="/img/home/home.jpg" alt="Slide 1" width="100%">
+                <img src="/img/home/home.jfif" alt="Slide 1" width="100%">
                 <div class="carousel-caption" hidden>
                     <h3>Slide 1</h3>
                     <p>Descrição do slide 1</p>
                 </div>
             </div>
 
-            <div hidden style="margin-top: 0%">
+            <div style="margin-top: 0%">
                 <!-- Texto central -->
-                <div class="carousel-center-text">
-                    <h1 style="font-size: 30px; color: white">SOLUÇÕES PARA ESCRITÓRIOS DE CONTABILIDADE</h1>
+                <div class="carousel-center-text" style="text-align: left; top: 61%; left: 38%;">
+                    <h1 style="font-size: 50px; color: white">TECNOLOGIAS QUE COLOCAM EMPRESAS EM UMA GESTÃO DE EXCELÊNCIA</h1>
+                    <p style="font-size: 36px; color: white;">Softwares e serviços para implucionar o seu negócio</p>
+                    
                 </div>
             </div>
 

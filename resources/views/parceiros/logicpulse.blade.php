@@ -71,6 +71,14 @@
             margin-bottom: 0%;
             margin-top: 9%;
             margin-left: 34%; 
+        }
+        .carousel-center-text {
+            position: absolute;
+            top: 45%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            color: #fff;
         }     
     </style>
 
@@ -78,22 +86,22 @@
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/img/parceiros/logicpulse_7.png" alt="Slide 1" style="width: 100%">                
+                <img src="/img/parceiros/logicpulse_7.jfif" alt="Slide 1" style="width: 100%">                
             </div>
 
-            <div hidden class="carousel-center-text" style="text-align: -webkit-center;">
-                <img src="/img/parceiros/logicpulse_1.jpg" alt="Slide 1" style="width: 50%"> 
+            <div class="carousel-center-text" style="text-align: -webkit-center; padding-top: 200px">
+                <img src="/img/parceiros/logicpulse_1.jpg" alt="Slide 1" style="width: 55%"> 
                 <h3 style="font-size:50px; color: white" class="padding"><b>PARCEIRO ITANGOLA</b></h3>
-                <p style="font-size: 30px; color: white" class="padding">SOFTWARE DE GESTÃO DE ASSIDUIDADE E CONTROLO DE ACESSO</p>
+                <p style="font-size: 30px; color: white; margin-right: -70px; margin-left: -70px;">SOFTWARE DE GESTÃO DE ASSIDUIDADE E CONTROLO DE ACESSO</p>
             </div>
         </div>    
     </div>
     
     <div class="container" style="max-width: 1400px;">
-        <p style="font-size: 40px; color: #ed0000; padding: 6% 6% 0 0; text-align: -webkit-center;">
+        <p style="font-size: 40px; color: #ed0000; padding: 6% 0% 0 0; text-align: -webkit-center;">
             </b>GESTÃO DE ASSIDUIDADE</b>
         </p>
-        <p style="font-size: 30px; color: black; padding: 0% 11% 0 11%; text-align: -webkit-left;">
+        <p style="font-size: 30px; color: black; text-align: -webkit-left; width: 85%; padding-left: 18%">
             As empresas, de uma forma geral, sentem a necessidade de aferir a pontualidade e efetuar o controlo e gestão 
             de assiduidade dos seus colaboradores.
         </p>
@@ -103,7 +111,7 @@
                 <p style="font-size: 25px; color: black; padding: 0;">
                     <b>SOFTWARE <span style="color: #ed0000;">TIME</span>.TRACK</b>
                 </p>  
-                <p style="font-size: 20px; color: black; padding: 0 7% 0 0;">
+                <p class="text-justify" style="font-size: 20px; color: black; padding: 0 7% 0 0;">
                     O time.track dá resposta a esta necessidade recorrendo às tecnologias RFID, biométrica e/ou outra tecnologia 
                     de autenticação, em conjunto ou em separado, sendo uma solução robusta e que responde às necessidades das 
                     empresas. Com a solução time.track, pretende-se ultrapassar variadíssimos problemas e lacunas de gestão de 
@@ -123,49 +131,49 @@
     </div>
     
     <div style="padding-top: 6%; padding-bottom: 6%; background-color: rgb(224, 224, 224);">
-        <div class="container" style="background-color: rgb(224, 224, 224);">
-            <p style="font-size: 40px; color: #ed0000; padding: 0; text-align: -webkit-center;">
+        <div class="container" style="background-color: rgb(224, 224, 224); text-align: center;">
+            <p style="font-size: 40px; color: #ed0000; padding: 0;">
                 <b>RELÓGIOS DE PONTO</b>
             </p>
-            <p style="font-size: 20px; color: black; padding: 0; text-align: -webkit-center;">
+            <p style="font-size: 20px; color: black; padding: 0;">
                 FORNECEMOS UM CONJUNTO DE TERMINAIS BIOMÉTRICOS DIGITAL E FACIAL
             </p>
-
-            <div class="row" style="padding-top: 6%; background-color: rgb(224, 224, 224);">            
-                <div class="col-md-6" style="border: 0px solid rgba(0,0,0,.125); background-color: rgb(224, 224, 224);"> 
+    
+            <div class="row" style="padding-top: 6%; background-color: rgb(224, 224, 224); justify-content: center;">            
+                <div class="col" style="border: 0px solid rgba(0,0,0,.125); background-color: rgb(224, 224, 224); text-align: center;"> 
                     <img src="/img/parceiros/logicpulse_4.png" alt="Slide 1" style="width: 55%;"> 
-
-                    <p style="font-size: 25px; color: #ed0000; padding: 0 16% 0 0%;">
+    
+                    <p style="font-size: 25px; color: #ed0000; padding: 0 16% 0 16%;">
                         <b>TERMINAL BIOMÉTRICO DE ENTRADA DE GAMA</b>
                     </p>  
-                    <p style="font-size: 20px; color: black; line-height: 35px; padding: 0 33% 0 0%;">
+                    <p class="text-justify" style="font-size: 20px; color: black; line-height: 35px; padding: 0 16% 0 16%;">
                         Desenhado para satisfazer as suas necessidades na gestão de assiduidade. Este terminal possui várias carateristicas 
                         que fazem dele um excelente equipamento qualidade vs preço. Permite vários tipos de autenticação e comunicação 
                         tendo a grande vantangem da possibilidade de ligação ADMS, ou seja, é possivel comunicar ao servidor de qualquer 
                         rede internet.
                     </p>
                 </div>
-
-                <div class="col-md-6" style="border: 0px solid rgba(0,0,0,.125); background-color: rgb(224, 224, 224);">
+    
+                <div class="col" style="border: 0px solid rgba(0,0,0,.125); background-color: rgb(224, 224, 224); text-align: center;">
                     <img src="/img/parceiros/logicpulse_3.jpg" alt="Slide 1" style="width: 55%; background-color: transparent;"> 
-
-                    <p style="font-size: 25px; color: #ed0000; padding: 0 32% 0 0%;">
+    
+                    <p style="font-size: 25px; color: #ed0000; padding: 0 16% 0 16%;">
                         <b>TERMINAL BIOMÉTRICO, DE RECONHECIMENTO FACIAL E CARTÃO DE PROXIMIDADE</b>
                     </p>  
-                    <p style="font-size: 20px; color: black; line-height: 35px; padding: 0 33% 0 0%;">
+                    <p class="text-justify" style="font-size: 20px; color: black; line-height: 35px; padding: 0 16% 0 16%;">
                         A maneira mais eficaz para monitorizar a assiduidade na sua empresa. Devido à forma de identificação do utilizador 
                         ser facial, este terminal é recomendado para empresas onde se encontram pessoas de manufatura onde as impressões 
                         digitais sofram algum tipo de desgaste acentuado.
                     </p>
                 </div>                            
             </div>
-
+    
             <a href="#" class="botao_2 btn-center botao_cor_2" style="font-size: 20px; color: white; position: relative; display: flex; justify-content: center;">
-                <b>QUERO SABER MAIS SOBRE OS BIOMÉTRICO</b>
+                <b>QUERO SABER MAIS SOBRE OS BIOMÉTRICOS</b>
             </a> 
-
         </div> 
     </div>
+    
     
     <div class="container" style="max-width: 1400px; padding-top: 6%">
         <p style="font-size: 40px; color: #520030; padding: 0% 6% 0 0; text-align: -webkit-center;">
@@ -182,11 +190,10 @@
                 <p style="font-size: 25px; color: black; padding: 0;">
                     <b>SOFTWARE <span style="color: #520030;">ACCESS</span>.TRACK</b>
                 </p>  
-                <p style="font-size: 20px; color: black; padding: 0; line-height: 40px; padding: 0% 19% 0% 0%;">
+                <p class="text-justify" style="font-size: 20px; color: black; padding: 0; line-height: 40px; padding: 0% 19% 0% 0%;">
                     O access.track, é um sistema avançado de controlo e gestão de acessos que permite alta segurança ao nível de 
                     acessos à sua empresa/instituição.
-                </p> 
-                <p style="font-size: 20px; color: black; padding: 0; line-height: 40px; padding: 0% 22% 0% 0%;">
+                    <br><br>  
                     O access.track - controlo de acessos é a solução que recorre às mais avançadas tecnologias, como sendo o controlo 
                     biométrico (impressão digital, leitura de íris, reconhecimento facial, etc) ou o RFID. A solução de gestão de 
                     acessos atua nas mais variadas várias áreas de ação: | Gestão Geral de Acessos | Controlo e Gestão de Parques de 
@@ -212,7 +219,7 @@
                 <img src="/img/parceiros/logicpulse_6.png" alt="Slide 1" style="width: 45%; position: relative; justify-content: center;"> 
             </div>
 
-            <p style="font-size: 20px; color: white; padding-left: 13%; padding-right: 13%; text-align: -webkit-left;">
+            <p class="text-justify" style="font-size: 20px; color: white; padding-left: 13%; padding-right: 13%; text-align: -webkit-left;">
                 Kit de alimentação de acessos para placa ctrl-inbio e ctrl-c. este kit possui uma bateria de backup para 
                 quebras de anergia para alimentação de terminais externos e respetivos acessórios.
             </p>

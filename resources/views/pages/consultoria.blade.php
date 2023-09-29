@@ -73,7 +73,7 @@
     </style>
 
 
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">            
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 3%">            
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -94,8 +94,8 @@
             </h5>            
         </div> 
         
-        <div class="text-left" style="padding: 2% 14%"> 
-            <p style="font-size: 25px; color: black">
+        <div class="text-justify" style="padding: 2% 14%"> 
+            <p style="font-size: 23px; color: black">
                 A IT-ANGOLA oferece serviços de consultoria especializados em tecnologia de gestão do software Cegid ERP Primavera.
                 Os nossos consultores experientes estão prontos para ajudar a sua empresa a otimizar os seus processos de negócio e 
                 a alcançar a máxima eficiência com o software Cegid ERP Primavera.
@@ -109,20 +109,20 @@
 
 
     <section class="section" style="padding: 0px 9%; background-color:white;">		
-        <div class="row" style="padding-left: 5%; padding-bottom: 0%">  
+        <div class="row" style="padding-left: 5%; padding-bottom: 6%">  
 
-            <div class="col-md-6" style="padding-right: 0%">
-                <h5 class="animated-element margin-bottom-20" style="padding-top: 20%; color:blue; font-size:35px;">
+            <div class="col" style="padding-right: 0%">
+                <h5 class="animated-element margin-bottom-20" style="padding-top: 20%; color:blue; font-size:35px; width: 111%;">
                     <b>
                         Benefícios do Software Cegid ERP Primavera
                     </b>								
                 </h5>
 
-                <p class="animated-element slow" style="color:black; font-size:20px; margin: 0 13% 0 0; padding-top:3%">
+                <p class="animated-element slow text-justify" style="color:black; font-size:20px; margin: 0 13% 0 0; padding-top:3%">
                     O software Cegid ERP Primavera oferece uma série de benefícios para empresas de todos os 
                     tamanhos e setores. Alguns dos principais benefícios incluem:
                 </p>
-                <p class="animated-element slow margin-bottom-20" style="color:black; font-size:20px; margin-top: -5%; padding-left:1.5%; line-height: 40px;">
+                <p class="animated-element slow margin-bottom-20 text-justify" style="color:black; font-size:20px; margin-top: -5%; padding-left:1.5%; line-height: 40px;">
                     <br>A melhoria na gestão de processos e fluxo de trabalho
                     <br>O aumento da eficiência operacional
                     <br>A integração de departamentos e sistemas
@@ -131,8 +131,8 @@
                 </p>
             </div>                            
                                     
-            <div class="col-md-6" style="padding-top: 5%;">
-                <img src="/img/pages/234.png" alt="" style="width: 65%">
+            <div class="col" style="padding: 3% 0;">
+                <img src="/img/pages/234.png" alt="" style="width: 65%;">
             </div>
 
         </div>			
@@ -142,25 +142,26 @@
     <section class="section" style="padding: 0px 0px; background-color:white;">	 
 
         <div style="padding: 0% 0%">
-            <h3 class="animated-element text-center"  style="padding-top: 2.5%;">
+            <h3 class="animated-element text-center"  style="padding: 2.5% 0; line-height: 65px;">
                 <b style="color:blue; font-size:38px;">
                     Porque que escolher o parceiro IT-ANGOLA para consultoria <br>do software Cegid ERP Primavera
                 </b>								
             </h3>
 
-            <p class="animated-element slow " style="color:black; font-size:21px; padding: 0 14%">
+            <p class="animated-element slow text-justify" style="color:black; font-size:21px; padding: 0 14%;">
+                A IT-ANGOLA é líder no fornecimento de consultoria em tecnologia de gestão do software Cegid ERP Primavera.
                 Os nossos consultores são certificados pela Cegid ERP Primavera possuem amplo conhecimento e experiência, 
                 garantindo que a sua empresa obtenha o máximo valor e benefícios dessa solução.
             </p>
         </div>                            
                                 
         <div style="padding: 0% 0%; text-align: -webkit-center;">
-            <img src="/img/pages/209-min.png" alt="" style="width: 75%">
+            <img src="/img/pages/209-min.png" alt="" style="width: 72%">
         </div>
  
 
-        <div style="padding-left: 4%">
-            <a href="/contactos#formulario" class="btn-center botao_2 botao_cor" style="color: white; font-size: 25px;">
+        <div style="padding-left: 6%">
+            <a href="/contactos#formulario" class="btn-center botao_2 botao_cor" style="color: white; font-size: 18px;">
                 Receber Consultoria 
             </a>
         </div>

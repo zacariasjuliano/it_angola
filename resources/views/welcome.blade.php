@@ -116,6 +116,23 @@
             flex: 0 0 25%;
             max-width: 20%;
         }
+        .center_circle {
+            padding-top: 50px;
+            font-size: 50px; 
+            top: -45px; 
+            position: relative; 
+            display: flex; 
+            justify-content: center; 
+            height: 150px; 
+            width: 150px;
+            border-radius: 50%!important;
+        }
+        .center_circle_margens {
+            margin-top: -20%; 
+            margin-left: -20%;
+            font-size: 20px;
+            color: white;
+        }
     </style>
 
     <section class="section padding" style="background-color: #1b0052; height: 700px;">
@@ -127,62 +144,62 @@
         </div>
 
         
-        <div class="row justify-content-center">
-            <div class="col-lg-3 col-md-4">      
-                <div class="text-center mb-4" style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 5%;">                       
-                    <img class="img-fluid fundo" src="/img/home/home_1.jpg" alt="..." style="border-radius: 10% 10% 10% 10%;"/>
+        <div class="row justify-content-center" style="padding: 0 9% 0 9%">
+            <div class="col">      
+                <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute;">                       
+                    <img class="img-fluid fundo" src="/img/home/home_1.jpg" alt="..." style="border-radius: 10px 10px 10px 10px;"/>
                 </div>
                             
-                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 270px; padding-bottom: 75px; margin-top: 11%">
-                    <p class="padding" style="font-size: 15pt; color: black; line-height: 25px; margin-top: 15%">
+                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 290px; padding-bottom: 75px; margin-top: 11%">
+                    <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
                         Software utilizado por mais de <b>36.000</b> empresas entre África e Europa
                     </p> 
-                    <a href="/consultoria" class="btn_style text-center" style="font-size:20px; background-color:#1663BF; color: white; margin-left: -25%;">
+                    <a href="/consultoria" class="btn_style text-center" style="font-size:15px; background-color:#1663BF; color: white; margin-left: -25%; padding-top: 3%; height: 15%;">
                         Saber mais
                     </a>
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-4">      
-                <div class="text-center mb-4" style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 5%;">                       
-                    <img class="img-fluid fundo" src="/img/home/home_2.png" alt="..." style="border-radius: 10%; background-color: white"/>
+            <div class="col">      
+                <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute;">                       
+                    <img class="img-fluid fundo" src="/img/home/home_2.png" alt="..." style="border-radius: 10px 10px 10px 10px; background-color: white"/>
                 </div>
                             
-                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 270px; padding-bottom: 75px; margin-top: 11%">
-                    <p class="padding" style="font-size: 15pt; color: black; line-height: 35px; margin-top: 15%">
+                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 290px; padding-bottom: 75px; margin-top: 11%">
+                    <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
                         Software com <b>+1.066</b> utilizadores a níviel nacional
                     </p> 
-                    <a href="/cacimbo" class="btn_style text-center" style="font-size:20px; background-color:#d0005f; color: white; margin-left: -25%;">
+                    <a href="/cacimbo" class="btn_style text-center" style="font-size:15px; background-color:#d0005f; color: white; margin-top:9%; margin-left: -25%; padding-top: 3%; height: 15%;">
                         Saber mais
                     </a>
                 </div>
             </div>   
             
-            <div class="col-lg-3 col-md-4">      
-                <div class="text-center mb-4" style="padding-left: 6%; margin-top: 1px; position: absolute;">                       
-                    <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..." style="width: 55%; height: 55px; border-radius: 0.375rem;"/>
+            <div class="col">      
+                <div class="text-center mb-4" style="padding-left: 35%; margin-top: 1px; position: absolute;">                       
+                    <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..." style="width: 55%; height: 55px; border-radius: 10px 10px 10px 10px;"/>
                 </div>
                             
-                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 270px; padding-bottom: 75px; margin-top: 11%">
-                    <p class="padding" style="font-size: 15pt; color: black; line-height: 50px;">
+                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 290px; padding-bottom: 75px; margin-top: 11%">
+                    <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 30px;">
                         Software com mais +150 mil utilizadores entre África e Europa
                     </p> 
-                    <a href="/phc" class="btn_style text-center" style="font-size:20px; background-color:#ed0000; color: white; margin-left: -25%;">
+                    <a href="/phc" class="btn_style text-center" style="font-size:15px; background-color:#ed0000; color: white; margin-top:10%; margin-left: -25%; padding-top: 3%; height: 15%;">
                         Saber mais
                     </a>
                 </div>
             </div>  
             
-            <div class="col-lg-3 col-md-4">      
-                <div class="text-center mb-4" style="padding-left: 36%; margin-top: 1px; position: absolute; border-radius: 0.375rem;">                       
-                    <img class="img-fluid fundo" src="/img/home/home_4.jpg" alt="..." style="width: 55%; height: 55px; border-radius: 10%;"/>
+            <div class="col">      
+                <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute; border-radius: 0.375rem;">                       
+                    <img class="img-fluid fundo" src="/img/home/home_4.jpg" alt="..." style="width: 55%; height: 55px; border-radius: 10px 10px 10px 10px;"/>
                 </div>
                             
-                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 270px; padding-bottom: 75px; margin-top: 11%">
-                    <p class="padding" style="font-size: 15pt; color: black">
+                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 290px; padding-bottom: 75px; margin-top: 11%;">
+                    <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 30px;">
                         Software de gestão de assiduidade controlo de acesso
                     </p> 
-                    <a href="/logicpulse" class="btn_style text-center" style="font-size:20px; background-color:#1663BF; color: white; margin-left: -25%;">
+                    <a href="/logicpulse" class="btn_style text-center" style="font-size:15px; background-color:#1663BF; color: white; margin-top:10%; margin-left: -25%; padding-top: 3%; height: 15%;">
                         Saber mais
                     </a>
                 </div>
@@ -193,10 +210,40 @@
     
             
     <!-- Slides -->
-    <div class="carousel-inner">
-        <div class="carousel-item active">
-            <img src="/img/home/home_5.jpg" alt="Slide 1" style="width: 100%">                
-        </div>          
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="margin-top: -2.1%"> 
+        <img src="/img/home/home_5.jfif" alt="Slide 1" style="width: 100%">   
+                
+        <div class="row carousel-center-text">
+            
+            <div class="col">
+                <p class="center_circle" style="background-color: blue; color: white;">
+                    +10 
+                </p>
+                <p class="text-center center_circle_margens">
+                    ANOS DE EXPERIÊNCIA
+                </p>   
+            </div>
+
+            <div class="col">
+                <p class="center_circle" style="background-color: blue; color: white;">
+                    +128
+                </p>
+                <p class="text-center center_circle_margens">
+                    CLIENTES PRIMAVERA
+                </p>  
+            </div>
+
+            <div class="col">
+                <p class="center_circle" style="background-color: white; color: blue;">
+                    +50 
+                </p>
+                <p class="text-center center_circle_margens">
+                    CLIENTES CACIMBO
+                </p>  
+            </div> 
+                           
+        </div> 
+
     </div>
 
 
@@ -275,7 +322,7 @@
                     <img class="img-fluid rounded-circle" src="/img/home/home_6.png" alt="..." style="width: 300px"/>
                 </div>
 
-                <div style="color: white; font-size: 20px; padding-left: 3%; padding-right: 47%; text-align: justify!important;">
+                <div style="color: white; font-size: 20px; padding-left: 3%; padding-right: 42%; text-align: justify!important;">
                     "Com as soluções de gestão da IT-ANGOLA a nossa empresa tem maior controle de todos os processos que relaizamos, 
                     tanto de mercadoria, clientes e forncedores. O que nos permite ter uma gestão mais centralizada."
                 </div>
@@ -289,18 +336,18 @@
     	
     <div class="row" style="background-color:rgb(15, 0, 52); padding-top: 11%; padding-bottom: 6%; padding-left: 0%; margin-right: 0px">
 
-        <div class="col-md-6" style="padding-left: 13%">
-            <h3 style="flex: 0 0 45%; color: white; font-size:48px; font-family: 'Gothic A1', sans-serif;">                        
+        <div class="col" style="padding-left: 13%">
+            <h3 style="color: white; font-size:48px; font-family: 'Gothic A1', sans-serif; width: 150%;">                        
                 SOFTWARES LEGALMENTE CETIFICADOS PELA AGT                        								
             </h3>
 
-            <p style="color: white; font-size: 30px; width: 80%; font-family: 'Gothic A1', sans-serif; text-align: justify!important;">
+            <p style="color: white; font-size: 20px; line-height: 30px; width: 80%; font-family: 'Gothic A1', sans-serif; text-align: justify!important;">
                 Os nossos softwares estão certificados pela Administração Geral Tributária (AGT), de maneira que você trabalhe 
                 sem se preocupar com estas questões legais e fiscais.
             </p>							
         </div>                
                             
-        <div class="col-md-6" style="padding-left: 16%">
+        <div class="col" style="padding-left: 16%">
             <img src="/img/clientes/agt.png" alt="" style="width: 40%;">
         </div>  
 
@@ -417,11 +464,11 @@
                 </div>
                 <div class="col-lg-6 col-md-4" style="text-align: left; padding-top: 9%">
                     <label for="cargo" style="font-size: 18px;" class="paragrafo_espacamento"><b>Cargo</b>*</label>
-                    <input type="text" id="cargo" name="cargo" class="subilinhado" style="padding-top: 13%">
+                    <input type="text" id="cargo" name="cargo" class="subilinhado" style="padding-top: 3%">
                 </div>
-                <div class="col-lg-6 col-md-4" style="text-align: left; padding-top: 9%">
+                <div class="col-lg-6 col-md-4" style="text-align: left; padding-top: 8%">
                     <label for="message" style="font-size: 18px;" class="paragrafo_espacamento"><b>Mensagem</b>*</label>
-                    <textarea name="message" id="message" class="subilinhado" style="width: 560px;" placeholder="" rows="4" cols="4"></textarea> 
+                    <textarea name="message" id="message" class="subilinhado" style="width: 100%;" placeholder="" rows="2" cols="4"></textarea> 
                 </div>
                 
                 
