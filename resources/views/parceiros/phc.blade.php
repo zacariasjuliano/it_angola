@@ -15,7 +15,7 @@
         .botao_1 {
             background-color: white;
             border-radius: 0px;
-            width: 500px;
+            width: 650px;
             height: 66px;
         }
         .botao_cor_1 {
@@ -78,6 +78,7 @@
             color: #fff;
         }
     </style>
+
     
     <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">            
         <!-- Slides -->
@@ -92,6 +93,7 @@
             </div>
         </div>    
     </div>
+
 
     <div class="card-deck mb-3" style="margin-right: 0px;">
         <div class="card mb-6" style="padding-left: 35px; border: 0px solid rgba(0,0,0,.125); background-color: #ed0000; margin-right: 0; margin-bottom: 3%; border-radius: 0px;">
@@ -155,6 +157,7 @@
         </div>                           
     </div>
 
+
     <div style="background-color: white; height: position: relative;">        
         <div class="container" style="max-width: 1400px;">
             
@@ -184,6 +187,7 @@
             
         </div>        
     </div>
+
     
     <div style="margin-bottom: 5%; margin-top: 1%;">
         <div style="padding-top: 7% "> 

@@ -15,7 +15,7 @@
         .botao_1 {
             background-color: blue;
             border-radius: 0px;
-            width: 500px;
+            width: 400px;
             height: 66px;
         }
         .botao_cor_1 {
@@ -118,8 +118,8 @@
                     Recursos Humanos existentes em muitas organizações e instituições.
                 </p>
 
-                <a href="#" class="botao_1 btn-center botao_cor_1" style="font-size: 30px; color: white; position: relative; display: flex; justify-content: center;">
-                    <b>SABER MAIS DO TIME.TRACK</b>
+                <a href="#" class="botao_1 btn-center botao_cor_1" style="font-size: 24px; color: white; position: relative; display: flex; justify-content: center;">
+                    SABER MAIS DO TIME.TRACK
                 </a>
             </div>
 

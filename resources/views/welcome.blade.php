@@ -42,7 +42,7 @@
         }
         */
         .btn_style {
-            width: 45%; 
+            width: 55%; 
             height: 16%; 
             margin-top: 0%; 
             margin-left: -30%;
@@ -99,8 +99,8 @@
         .botao_3 {
             background-color: #d0005f;
             border-radius: 0px;
-            width: 300px;
-            height: 66px; 
+            width: 200px;
+            height: 50px; 
         }
         .botao_cor_3 {
             background-color: blue; 
@@ -134,6 +134,7 @@
             color: white;
         }
     </style>
+    
 
     <section class="section padding" style="background-color: #1b0052; height: 700px;">
         
@@ -144,64 +145,66 @@
         </div>
 
         
-        <div class="row justify-content-center" style="padding: 0 9% 0 9%">
-            <div class="col">      
-                <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute;">                       
-                    <img class="img-fluid fundo" src="/img/home/home_1.jpg" alt="..." style="border-radius: 10px 10px 10px 10px;"/>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col">      
+                    <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute;">                       
+                        <img class="img-fluid fundo" src="/img/home/home_1.jpg" alt="..." style="border-radius: 10px 10px 10px 10px;"/>
+                    </div>
+                                
+                    <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 90%; height: 290px; padding-bottom: 75px; margin-top: 11%">
+                        <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
+                            Software utilizado por mais de <b>36.000</b> empresas entre África e Europa
+                        </p> 
+                        <a href="/consultoria" class="btn_style text-center" style="font-size:15px; background-color:#1663BF; color: white; margin-top:-3%; margin-left: -25%; padding-top: 4%; height: 15%;">
+                            Saber mais
+                        </a>
+                    </div>
                 </div>
-                            
-                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 290px; padding-bottom: 75px; margin-top: 11%">
-                    <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
-                        Software utilizado por mais de <b>36.000</b> empresas entre África e Europa
-                    </p> 
-                    <a href="/consultoria" class="btn_style text-center" style="font-size:15px; background-color:#1663BF; color: white; margin-left: -25%; padding-top: 3%; height: 15%;">
-                        Saber mais
-                    </a>
-                </div>
-            </div>
 
-            <div class="col">      
-                <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute;">                       
-                    <img class="img-fluid fundo" src="/img/home/home_2.png" alt="..." style="border-radius: 10px 10px 10px 10px; background-color: white"/>
-                </div>
-                            
-                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 290px; padding-bottom: 75px; margin-top: 11%">
-                    <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
-                        Software com <b>+1.066</b> utilizadores a níviel nacional
-                    </p> 
-                    <a href="/cacimbo" class="btn_style text-center" style="font-size:15px; background-color:#d0005f; color: white; margin-top:9%; margin-left: -25%; padding-top: 3%; height: 15%;">
-                        Saber mais
-                    </a>
-                </div>
-            </div>   
-            
-            <div class="col">      
-                <div class="text-center mb-4" style="padding-left: 35%; margin-top: 1px; position: absolute;">                       
-                    <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..." style="width: 55%; height: 55px; border-radius: 10px 10px 10px 10px;"/>
-                </div>
-                            
-                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 290px; padding-bottom: 75px; margin-top: 11%">
-                    <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 30px;">
-                        Software com mais +150 mil utilizadores entre África e Europa
-                    </p> 
-                    <a href="/phc" class="btn_style text-center" style="font-size:15px; background-color:#ed0000; color: white; margin-top:10%; margin-left: -25%; padding-top: 3%; height: 15%;">
-                        Saber mais
-                    </a>
-                </div>
-            </div>  
-            
-            <div class="col">      
-                <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute; border-radius: 0.375rem;">                       
-                    <img class="img-fluid fundo" src="/img/home/home_4.jpg" alt="..." style="width: 55%; height: 55px; border-radius: 10px 10px 10px 10px;"/>
-                </div>
-                            
-                <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 75%; height: 290px; padding-bottom: 75px; margin-top: 11%;">
-                    <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 30px;">
-                        Software de gestão de assiduidade controlo de acesso
-                    </p> 
-                    <a href="/logicpulse" class="btn_style text-center" style="font-size:15px; background-color:#1663BF; color: white; margin-top:10%; margin-left: -25%; padding-top: 3%; height: 15%;">
-                        Saber mais
-                    </a>
+                <div class="col">      
+                    <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute;">                       
+                        <img class="img-fluid fundo" src="/img/home/home_2.png" alt="..." style="border-radius: 10px 10px 10px 10px; background-color: white"/>
+                    </div>
+                                
+                    <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 90%; height: 290px; padding-bottom: 75px; margin-top: 11%">
+                        <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
+                            Software com <b>+1.066</b> utilizadores a níviel nacional
+                        </p> 
+                        <a href="/cacimbo" class="btn_style text-center" style="font-size:15px; background-color:#d0005f; color: white; margin-top:9%; margin-left: -25%; padding-top: 4%; height: 15%;">
+                            Saber mais
+                        </a>
+                    </div>
+                </div>   
+                
+                <div class="col">      
+                    <div class="text-center mb-4" style="padding-left: 35%; margin-top: 1px; position: absolute;">                       
+                        <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..." style="width: 80%; height: 55px; border-radius: 10px 10px 10px 10px;"/>
+                    </div>
+                                
+                    <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 90%; height: 290px; padding-bottom: 75px; margin-top: 11%">
+                        <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 30px;">
+                            Software com mais +150 mil utilizadores entre África e Europa
+                        </p> 
+                        <a href="/phc" class="btn_style text-center" style="font-size:15px; background-color:#ed0000; color: white; margin-top:0%; margin-left: -25%; padding-top: 4%; height: 15%;">
+                            Saber mais
+                        </a>
+                    </div>
+                </div>  
+                
+                <div class="col">      
+                    <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute; border-radius: 0.375rem;">                       
+                        <img class="img-fluid fundo" src="/img/home/home_4.jpg" alt="..." style="width: 80%; height: 55px; border-radius: 10px 10px 10px 10px;"/>
+                    </div>
+                                
+                    <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 90%; height: 290px; padding-bottom: 75px; margin-top: 11%;">
+                        <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 30px;">
+                            Software de gestão de assiduidade controlo de acesso
+                        </p> 
+                        <a href="/logicpulse" class="btn_style text-center" style="font-size:15px; background-color:#1663BF; color: white; margin-top:12%; margin-left: -25%; padding-top: 4%; height: 15%;">
+                            Saber mais
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -487,8 +490,6 @@
         </form> 
                        
     </div>
-
-    
     
 
 @endsection

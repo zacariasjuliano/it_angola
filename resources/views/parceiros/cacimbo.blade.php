@@ -144,52 +144,8 @@
         </div>   
     </div>
 
-
-    <div hidden class="padding" style="background-image: url('/img/parceiros/cacimbo_2.jfif'); height:500px"> 
-        
-        <div class="row" style="display: flex; justify-content: space-between;">
-            <div class="col" style="background-color: #d0005f; flex: 1;">
-                <p class="text-right" style="font-size: 20px; padding-top: 3%;  position: relative; display: flex; justify-content: center;">
-                    <img class="img-fluid" src="/img/parceiros/phc_enterprise.jpg" alt="..." style="width: 35%;"/> 
-                </p>
-                <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
-                    Formação Ao Utilizador
-                </p> 
-                <p style="font-size: 15px; color: white; line-height: 30px;">
-                    Damos formação aos seus colaboradores apara que eles  tenham maior dinamismo nas operações do dia-a-dia do seu negócio.
-                </p>  
-            </div>
-
-            <div class="col" style="background-color: black; flex: 1;">
-                <p class="text-right" style="font-size: 20px; padding-top: 3%;  position: relative; display: flex; justify-content: center;">
-                    <img class="img-fluid" src="/img/parceiros/phc_enterprise.jpg" alt="..." style="width: 35%;"/> 
-                </p>
-                <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
-                    Suporte Técnico
-                </p> 
-                <p style="font-size: 15px; color: white; line-height: 30px;">
-                    Garantimos um suporte de qualidade por duas via, presencial e remoto.
-                </p>  
-            </div>
-
-            <div class="col" style="background-color: #d0005f; flex: 1;">
-                <p class="text-right" style="font-size: 20px; padding-top: 3%;  position: relative; display: flex; justify-content: center;">
-                    <img class="img-fluid" src="/img/parceiros/phc_enterprise.jpg" alt="..." style="width: 35%;"/> 
-                </p>
-                <p class="text-center" style="font-size: 30px; color: white; padding-top: 5%">
-                    Consultoria
-                </p> 
-                <p style="font-size: 15px; color: white; line-height: 30px;">
-                    Montamos um diagnóstico com as melhores soluções para a necessidade da sua empresa.
-                </p>  
-            </div>                
-        </div> 
-
-    </div>
-
-
-
-
+    
+    <!-- MELHORAR -->
     <div id="carouselExample" class="carousel slide" data-ride="carousel" style="margin-top: -2.1%"> 
         <img src="/img/parceiros/cacimbo_2.jfif" alt="Slide 1" style="width: 100%">           
 
@@ -202,11 +158,9 @@
             
                     
             <div class="row" style="padding-top: 90px; display: flex; justify-content: space-between;">
-            <!-- div class="row d-flex" style="padding-top: 90px" -->
-                
-                <!-- div class="col" style="background-color: #d0005f; flex: 1;" -->    
+               
                 <div class="col" style="background-color: #d0005f; margin-right: 9px;">
-                    <div class="rounded-circle" style="font-size: 20px; top: -45px; position: relative; justify-content: center;  ">
+                    <div class="rounded-circle" style="font-size: 20px; top: -45px; position: relative; justify-content: center;">
                         <img class="img-fluid rounded-circle" src="/img/home/home_10.jpg" alt="..." style="width: 35%;"/> 
                     </div>
 
@@ -254,7 +208,7 @@
                 <b>GARANTA JÁ O SEU SOFWARE CACIMBO ERP</b> 
             </p>   
             
-            <a href="/contactos#formulario" class="botao_1 btn-center botao_cor_1" style="position: initial; align-items: center; justify-content: center; font-size: 35px; color: white;">
+            <a href="/contactos#formulario" class="botao_1 btn-center botao_cor_1" style="margin-left: 12%; width: 812px; position: initial; align-items: center; justify-content: center; font-size: 35px; color: white;">
                 Quero uma demostração do cacimbo erp
             </a>
 

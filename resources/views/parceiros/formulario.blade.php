@@ -10,8 +10,8 @@
         .botao_formulario {
             /*background-color: #ed0000;*/
             border-radius: 0px;
-            width: 300px;
-            height: 66px;
+            width: 200px;
+            height: 50px;
         }
     </style>
 
