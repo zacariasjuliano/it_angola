@@ -114,6 +114,22 @@ Route::get('/logicpulse', function () {
     return view('parceiros.logicpulse');
 });
 
+Route::get('/bird_tab', function () {
+    return view('parceiros.bird_tab');
+});
+
+Route::get('/kelio', function () {
+    return view('parceiros.kelio');
+});
+
+Route::get('/desenvolvimento', function () {
+    return view('solucoes.desenvolvimento');
+});
+
+Route::get('/software', function () {
+    return view('solucoes.software');
+});
+
 
 
 /*
