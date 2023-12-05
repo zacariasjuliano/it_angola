@@ -82,6 +82,7 @@
         }     
     </style>
 
+
     <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">            
         <!-- Slides -->
         <div class="carousel-inner">
@@ -96,14 +97,14 @@
             </div>
         </div>    
     </div>
+
     
     <div class="container" style="max-width: 1400px;">
         <p style="font-size: 40px; color: #ed0000; padding: 6% 0% 0 0; text-align: -webkit-center;">
             </b>GESTÃO DE ASSIDUIDADE</b>
         </p>
-        <p style="font-size: 30px; color: black; text-align: -webkit-left; width: 85%; padding-left: 18%">
-            As empresas, de uma forma geral, sentem a necessidade de aferir a pontualidade e efetuar o controlo e gestão 
-            de assiduidade dos seus colaboradores.
+        <p style="font-size: 30px; color: black; text-align: -webkit-left; width: 85%; padding-left: 15%">
+            As empresas, de maneira geral, sentem a necessidade de aferir a pontualidade e realizar o controle e gestão da assiduidade de seus colaboradores.
         </p>
 
         <div class="card-deck mb-3" style="padding: 6% 0%">            
@@ -112,10 +113,9 @@
                     <b>SOFTWARE <span style="color: #ed0000;">TIME</span>.TRACK</b>
                 </p>  
                 <p class="text-justify" style="font-size: 20px; color: black; padding: 0 7% 0 0;">
-                    O time.track dá resposta a esta necessidade recorrendo às tecnologias RFID, biométrica e/ou outra tecnologia 
-                    de autenticação, em conjunto ou em separado, sendo uma solução robusta e que responde às necessidades das 
-                    empresas. Com a solução time.track, pretende-se ultrapassar variadíssimos problemas e lacunas de gestão de 
-                    Recursos Humanos existentes em muitas organizações e instituições.
+                    O time.track atende a essa necessidade utilizando tecnologias como RFID, biométrica e/ou outras formas de autenticação, seja em conjunto ou 
+                    separadamente. Essa é uma solução robusta que satisfaz as demandas das empresas. Com o time.track, busca-se superar diversos problemas e 
+                    lacunas na gestão de Recursos Humanos presentes em muitas organizações e instituições.
                 </p>
 
                 <a href="#" class="botao_1 btn-center botao_cor_1" style="font-size: 24px; color: white; position: relative; display: flex; justify-content: center;">
@@ -129,6 +129,7 @@
         </div> 
 
     </div>
+
     
     <div style="padding-top: 6%; padding-bottom: 6%; background-color: rgb(224, 224, 224);">
         <div class="container" style="background-color: rgb(224, 224, 224); text-align: center;">
@@ -147,10 +148,9 @@
                         <b>TERMINAL BIOMÉTRICO DE ENTRADA DE GAMA</b>
                     </p>  
                     <p class="text-justify" style="font-size: 20px; color: black; line-height: 35px; padding: 0 16% 0 16%;">
-                        Desenhado para satisfazer as suas necessidades na gestão de assiduidade. Este terminal possui várias carateristicas 
-                        que fazem dele um excelente equipamento qualidade vs preço. Permite vários tipos de autenticação e comunicação 
-                        tendo a grande vantangem da possibilidade de ligação ADMS, ou seja, é possivel comunicar ao servidor de qualquer 
-                        rede internet.
+                        Desenvolvido para atender às suas necessidades na gestão de assiduidade, este terminal possui várias características que o tornam um 
+                        excelente equipamento em termos de qualidade versus preço. Permite diversos tipos de autenticação e comunicação, tendo a grande vantagem 
+                        da possibilidade de conexão com o ADMS, ou seja, é possível comunicar com o servidor por meio de qualquer rede de internet.
                     </p>
                 </div>
     
@@ -161,9 +161,9 @@
                         <b>TERMINAL BIOMÉTRICO, DE RECONHECIMENTO FACIAL E CARTÃO DE PROXIMIDADE</b>
                     </p>  
                     <p class="text-justify" style="font-size: 20px; color: black; line-height: 35px; padding: 0 16% 0 16%;">
-                        A maneira mais eficaz para monitorizar a assiduidade na sua empresa. Devido à forma de identificação do utilizador 
-                        ser facial, este terminal é recomendado para empresas onde se encontram pessoas de manufatura onde as impressões 
-                        digitais sofram algum tipo de desgaste acentuado.
+                        A maneira mais eficaz de monitorar a assiduidade na sua empresa. Devido à forma de identificação do utilizador ser facial, este terminal 
+                        é recomendado para empresas onde há pessoas envolvidas em manufatura, evitando preocupações relacionadas ao desgaste acentuado das impressões 
+                        digitais
                     </p>
                 </div>                            
             </div>
@@ -177,7 +177,7 @@
     
     <div class="container" style="max-width: 1400px; padding-top: 6%">
         <p style="font-size: 40px; color: #520030; padding: 0% 6% 0 0; text-align: -webkit-center;">
-            <b>CONTROLO DE ACESSO</b>
+            <b>SISTEMA DE CONTROLO DE ACESSO</b>
         </p>
 
         <div class="card-deck mb-3" style="padding: 6% 0%"> 
@@ -191,13 +191,12 @@
                     <b>SOFTWARE <span style="color: #520030;">ACCESS</span>.TRACK</b>
                 </p>  
                 <p class="text-justify" style="font-size: 20px; color: black; padding: 0; line-height: 40px; padding: 0% 19% 0% 0%;">
-                    O access.track, é um sistema avançado de controlo e gestão de acessos que permite alta segurança ao nível de 
-                    acessos à sua empresa/instituição.
+                    O access.track, é um sistema avançado de controlo e gestão de acessos, proporcionando alta segurança para a sua empresa ou instituição.
                     <br><br>  
-                    O access.track - controlo de acessos é a solução que recorre às mais avançadas tecnologias, como sendo o controlo 
-                    biométrico (impressão digital, leitura de íris, reconhecimento facial, etc) ou o RFID. A solução de gestão de 
-                    acessos atua nas mais variadas várias áreas de ação: | Gestão Geral de Acessos | Controlo e Gestão de Parques de 
-                    Estacionamento | Controlo e Gestão de Bilhética | Controlo e Gestão de Visitas | Fechaduras de Hotel.
+                    O ACCESS.TRACK - Controlo de Acessos utiliza as tecnologias mais avançadas, incluindo controlo biométrico (impressão digital, 
+                    leitura de íris, reconhecimento facial, etc.) e RFID. Essa solução de gestão de acessos atua em diversas áreas, abrangendo 
+                    Gestão Geral de Acessos, Controlo e Gestão de Parques de Estacionamento, Controlo e Gestão de Bilhética, Controlo e Gestão de 
+                    Visitas, além de Fechaduras de Hotel.
                 </p>
 
                 <a href="#" class="botao_3 btn-center botao_cor_3" style="font-size: 25px; color: white; position: relative; display: flex; justify-content: center;">
@@ -209,27 +208,29 @@
 
     </div>
     
+    
     <div style="padding-top: 6%; padding-bottom: 6%; background-color: #520030;">
         <div class="container" style="background-color: #520030;">
-            <p style="font-size: 40px; color: white; padding: 0; text-align: -webkit-center;">
+            <h1 style="font-size: 45px; color: white; padding: 0; text-align: -webkit-center;">
                 <b>ACESSORIOS DE ASSIDUIDADE</b>
-            </p>
+            </h1>
 
             <div href="#" class="btn-center" style="position: relative; display: flex; justify-content: center;">
                 <img src="/img/parceiros/logicpulse_6.png" alt="Slide 1" style="width: 45%; position: relative; justify-content: center;"> 
             </div>
 
             <p class="text-justify" style="font-size: 20px; color: white; padding-left: 13%; padding-right: 13%; text-align: -webkit-left;">
-                Kit de alimentação de acessos para placa ctrl-inbio e ctrl-c. este kit possui uma bateria de backup para 
-                quebras de anergia para alimentação de terminais externos e respetivos acessórios.
+                Kit de alimentação de acessos para placas Ctrl-Inbio e Ctrl-C. Este kit inclui uma bateria de backup para quebras de energia, garantindo a 
+                alimentação de terminais externos e seus acessórios correspondentes.
             </p>
 
-            <a href="#" class="botao_4 btn-center botao_cor_4" style="font-size: 20px; color: #520030; position: relative; display: flex; justify-content: center;">
+            <a href="#" class="botao_4 btn-center botao_cor_4" style="font-size: 30px; color: #520030; position: relative; display: flex; justify-content: center;">
                 <b>QUERO SABER MAIS</b>
             </a> 
 
         </div> 
     </div>
+
 
     <div style="background-color:white; padding-bottom: 9%;">
             

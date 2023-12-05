@@ -89,7 +89,7 @@
 
             <div class="carousel-center-text" style="text-align: -webkit-center; padding-top: 290px">
                 <img src="/img/parceiros/phc_0.jpg" alt="Slide 1" style="width: 90%;" hidden> 
-                <h3 style="font-size:50px; color: white"><b>PARCEIRO ITANGOLA</b></h3>
+                <h3 style="font-size:50px; color: white"><b>DESENVOLVIMENTO - ITANGOLA</b></h3>
             </div>
         </div>    
     </div>

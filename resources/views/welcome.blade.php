@@ -103,7 +103,7 @@
             height: 50px; 
         }
         .botao_cor_3 {
-            background-color: blue; 
+            background-color: #008cff; 
             display: flex; 
             justify-content: center; 
             align-items: center;
@@ -136,26 +136,24 @@
     </style>
     
 
-    <section class="section padding" style="background-color: #1b0052; height: 700px;">
-        
-        <div class="container text-center" style="padding-bottom: 4%; padding-top: 4%;">
+    <section class="section padding" style="background-color: #1b0052; height: 700px;">        
+        <div class="container text-center" style="padding-bottom: 4%; padding-top: 2%;">
             <h2 class="section-subheading" style="color: white; font-size:44px; font-family: 'Gothic A1', sans-serif;">
-                <b>SOLUÇÕES DE GESTÃO EMPRESÁRIAIS</b>
+                <b>SOLUÇÕES DE GESTÃO EMPRESARIAIS</b>
             </h2>
         </div>
-
         
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col">      
-                    <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute;">                       
+                    <div class="text-center mb-4" style="padding-left: 35%; margin-top: 1px; position: absolute;">                       
                         <img class="img-fluid fundo" src="/img/home/home_1.jpg" alt="..." style="border-radius: 10px 10px 10px 10px;"/>
                     </div>
                                 
                     <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 90%; height: 290px; padding-bottom: 75px; margin-top: 11%">
-                        <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
+                        <div class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
                             Software utilizado por mais de <b>36.000</b> empresas entre África e Europa
-                        </p> 
+                        </div>
                         <a href="/consultoria" class="btn_style text-center" style="font-size:15px; background-color:#1663BF; color: white; margin-top:-3%; margin-left: -25%; padding-top: 4%; height: 15%;">
                             Saber mais
                         </a>
@@ -163,14 +161,14 @@
                 </div>
 
                 <div class="col">      
-                    <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute;">                       
+                    <div class="text-center mb-4" style="padding-left: 35%; margin-top: 1px; position: absolute;">                       
                         <img class="img-fluid fundo" src="/img/home/home_2.png" alt="..." style="border-radius: 10px 10px 10px 10px; background-color: white"/>
                     </div>
                                 
                     <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 90%; height: 290px; padding-bottom: 75px; margin-top: 11%">
-                        <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
+                        <div class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
                             Software com <b>+1.066</b> utilizadores a níviel nacional
-                        </p> 
+                        </div>
                         <a href="/cacimbo" class="btn_style text-center" style="font-size:15px; background-color:#d0005f; color: white; margin-top:9%; margin-left: -25%; padding-top: 4%; height: 15%;">
                             Saber mais
                         </a>
@@ -178,34 +176,19 @@
                 </div>   
                 
                 <div class="col">      
-                    <div class="text-center mb-4" style="padding-left: 35%; margin-top: 1px; position: absolute;">                       
-                        <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..." style="width: 80%; height: 55px; border-radius: 10px 10px 10px 10px;"/>
+                    <div class="text-center mb-4" style="padding-left: 10%; margin-top: 1px; position: absolute;">                       
+                        <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..." style="width: 50%; height: 55px; border-radius: 10px 10px 10px 10px;"/>
                     </div>
                                 
                     <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 90%; height: 290px; padding-bottom: 75px; margin-top: 11%">
-                        <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 30px;">
+                        <div class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
                             Software com mais +150 mil utilizadores entre África e Europa
-                        </p> 
+                        </div>
                         <a href="/phc" class="btn_style text-center" style="font-size:15px; background-color:#ed0000; color: white; margin-top:0%; margin-left: -25%; padding-top: 4%; height: 15%;">
                             Saber mais
                         </a>
                     </div>
-                </div>  
-                
-                <div class="col">      
-                    <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute; border-radius: 0.375rem;">                       
-                        <img class="img-fluid fundo" src="/img/home/home_4.jpg" alt="..." style="width: 80%; height: 55px; border-radius: 10px 10px 10px 10px;"/>
-                    </div>
-                                
-                    <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 90%; height: 290px; padding-bottom: 75px; margin-top: 11%;">
-                        <p class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 30px;">
-                            Software de gestão de assiduidade controlo de acesso
-                        </p> 
-                        <a href="/logicpulse" class="btn_style text-center" style="font-size:15px; background-color:#1663BF; color: white; margin-top:12%; margin-left: -25%; padding-top: 4%; height: 15%;">
-                            Saber mais
-                        </a>
-                    </div>
-                </div>
+                </div> 
             </div>
         </div>
         
@@ -213,12 +196,12 @@
     
             
     <!-- Slides -->
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="margin-top: -2.1%"> 
+    <div class="carousel" style="margin-top: -2.1%"> 
         <img src="/img/home/home_5.jfif" alt="Slide 1" style="width: 100%">   
                 
-        <div class="row carousel-center-text">
+        <div class="row carousel-center-text" style="margin-top: 3.3%">
             
-            <div class="col">
+            <div class="col" style="margin-right: 16px;">
                 <p class="center_circle" style="background-color: blue; color: white;">
                     +10 
                 </p>
@@ -227,8 +210,8 @@
                 </p>   
             </div>
 
-            <div class="col">
-                <p class="center_circle" style="background-color: blue; color: white;">
+            <div class="col" style="margin-right: 16px;">
+                <p class="center_circle" style="background-color: white; color: blue;">
                     +128
                 </p>
                 <p class="text-center center_circle_margens">
@@ -237,70 +220,85 @@
             </div>
 
             <div class="col">
-                <p class="center_circle" style="background-color: white; color: blue;">
+                <p class="center_circle" style="background-color: blue; color: white;">
                     +50 
                 </p>
                 <p class="text-center center_circle_margens">
                     CLIENTES CACIMBO
                 </p>  
             </div> 
+
+            <div class="col">
+                <p class="center_circle" style="background-color: white; color: blue;">
+                    +20 
+                </p>
+                <p class="text-center center_circle_margens">
+                    CLIENTES PHC
+                </p>  
+            </div> 
                            
         </div> 
-
     </div>
 
 
-    <section class="section" style="background-color: white;">
+    <section class="section" style="background-color: white; padding: 3rem 1.25rem;">
         
-        <div class="text-center" style="padding-top: 1.5%">
-            <h2 class="section-subheading" style="color:#1b0052; font-size: 50px"><b>QUEM ESTÁ CONNOSCO</b></h2>
+        <div class="text-center" style="padding-top: 0%">
+            <h2 class="section-subheading" style="color:#1b0052; font-size: 50px"><b>NOSSOS CLIENTES</b></h2>
         </div>
 
         <div class="row text-center" style="justify-content: center; padding-top: 6%">
 
-            <div class="col-lg-2 col-md-2">
+            <div class="col-lg-2">
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/carrilho.png" alt="..."/>
                 </span>
-                <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Indústria</b></p>
+                <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Comércio</b></p>
             </div>
 
-            <div class="col-lg-1 col-md-2">
+            <div class="col-lg-2">
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/inap.png" alt="..."/>
                 </span>
                 <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Ensino</b></p>
             </div>
 
-            <div class="col-lg-2 col-md-2" hidden>                    
+            <div class="col-lg-2" hidden>                    
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/maptss.png" alt="..."/>
                 </span>                    
                 <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Sector Público</b></p>
             </div>
 
-            <div class="col-lg-1 col-md-2">
+            <div class="col-lg-2">
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/poliobra.png" alt="..."/>
                 </span>
                 <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Construção</b></p>
             </div>
 
-            <div class="col-lg-2 col-md-2">
+            <div class="col-lg-2">
+                <span class="fa-stack fa-3x">                           
+                    <img class="img-fluid" src="/img/clientes/poliobra.png" alt="..."/>
+                </span>
+                <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>CFB</b></p>
+            </div>
+
+            <div class="col-lg-2">
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/secil.png" alt="..."/>
                 </span>
                 <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Indústria</b></p>
             </div>
 
-            <div class="col-lg-1 col-md-2" hidden>
+            <div class="col-lg-2" hidden>
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/acap.png" alt="..." />
                 </span>
                 <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Cosultoria</b></p>
             </div>
 
-            <div class="col-lg-2 col-md-2">
+            <div class="col-lg-2">
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/pagaso.png" alt="..."/>
                 </span>
@@ -311,14 +309,12 @@
     </section>
 
     
-    <section class="section" style="background-color: #338ed5; height: 500px">
-
+    <section class="section" style="background-color: #338ed5; height: 400px; padding: 3rem 1.25rem;">
         <div class="text-center" style="justify-content: center; padding-top: 1%">
-            <h2 class="section-subheading" style="color: white; font-size: 50px;">ACREDITE NO QUE OS GESOTORES DIZEM</h2>
+            <h2 class="section-subheading" style="color: white; font-size: 50px;">ACREDITE NO QUE OS GESTORES DIZEM</h2>
         </div>
 
         <div class="row" style="padding-top: 3%">
-
             <div style="display: flex; align-items: center; padding-left: 25%;">
 
                 <div style="justify-content: center; align-items: center">
@@ -326,39 +322,38 @@
                 </div>
 
                 <div style="color: white; font-size: 20px; padding-left: 3%; padding-right: 42%; text-align: justify!important;">
-                    "Com as soluções de gestão da IT-ANGOLA a nossa empresa tem maior controle de todos os processos que relaizamos, 
-                    tanto de mercadoria, clientes e forncedores. O que nos permite ter uma gestão mais centralizada."
+                    "Com as soluções de gestão da IT-ANGOLA, nossa empresa tem maior controle de todos os processos que realizamos, tanto de 
+                    mercadorias, clientes e fornecedores. Isso nos permite ter uma gestão mais centralizada."
                 </div>
 
             </div>
 
-        </div>
-        
+        </div>        
     </section>
 
     	
-    <div class="row" style="background-color:rgb(15, 0, 52); padding-top: 11%; padding-bottom: 6%; padding-left: 0%; margin-right: 0px">
+    <div class="row" style="background-color: rgb(1, 8, 80); padding-top: 11%; padding-bottom: 6%; justify-content: center;">
 
-        <div class="col" style="padding-left: 13%">
-            <h3 style="color: white; font-size:48px; font-family: 'Gothic A1', sans-serif; width: 150%;">                        
-                SOFTWARES LEGALMENTE CETIFICADOS PELA AGT                        								
+        <div class="col-md-6" style="margin-right: 30px;">
+            <h3 style="color: white; font-size: 48px; font-family: 'Gothic A1', sans-serif; width: 150%;">                        
+                SOFTWARES CETIFICADOS PELA AGT                        								
             </h3>
-
+    
             <p style="color: white; font-size: 20px; line-height: 30px; width: 80%; font-family: 'Gothic A1', sans-serif; text-align: justify!important;">
-                Os nossos softwares estão certificados pela Administração Geral Tributária (AGT), de maneira que você trabalhe 
-                sem se preocupar com estas questões legais e fiscais.
+                Os nossos softwares são certificados pela Administração Geral Tributária (AGT), garantindo que você possa trabalhar sem se preocupar com questões 
+                legais e fiscais.
             </p>							
         </div>                
                             
-        <div class="col" style="padding-left: 16%">
-            <img src="/img/clientes/agt.png" alt="" style="width: 40%;">
-        </div>  
-
-    </div>	
+        <div class="col-md-4 text-center">
+            <img src="/img/clientes/agt.png" alt="" style="width: 30%;">
+        </div> 
+    
+    </div>        
 
 
     <div style="background-color: rgb(246, 246, 246);">
-        <div style="padding-top: 6%;" class="text-center">
+        <div style="padding-top: 3%;" class="text-center">
             <p style="font-size: 50px; color: black">
                 <b>SERVIÇOS</b>
             </p>            
@@ -373,8 +368,8 @@
                 </span>                    
                 <h5 style="padding-right: 5%; color: black;"><b>REDES DE COMPUTADORES</b></h5>
                 <div style="text-align: -webkit-left; padding: 0 11%; font-family: 'Gothic A1', sans-serif; text-align: justify!important;">
-                    Toda empresa precisa de uma infra-estrura de rede cabeada ou wi-fi, para que haja comunicação 
-                    interna e acesso a internet, de modo que os departamentos se comuniquem de forma eficiente.
+                    Toda empresa precisa de uma infraestrutura de rede cabeada ou Wi-Fi para possibilitar a comunicação interna e o acesso à 
+                    internet, permitindo que os departamentos se comuniquem de forma eficiente.
                 </div>
             </div>
 
@@ -384,8 +379,8 @@
                 </span>
                 <h5 style="padding-right: 4%; color: black;"><b>SEGURANÇA INFORMÁTICA</b></h5>
                 <div style="text-align: -webkit-left; padding: 0 11%; text-align: justify!important;">
-                    Mantenha os computadores da sua empresa seguros. Instalando antivírus, configurando políticas 
-                    de privacidade para que invasores não tenham acesso a informações previligiadas do seu negócio. 
+                    Mantenha os computadores da sua empresa seguros, instalando antivírus e configurando políticas de privacidade para que 
+                    invasores não tenham acesso a informações privilegiadas do seu negócio. 
                 </div>
             </div>
 
@@ -393,7 +388,7 @@
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/home/home_9.jpg" alt="..." style="width: 50%"/>
                 </span>
-                <h5 style="padding-right: 0%; color: black;"><b>SUPORTE INFORMÁTICO</b></h5>
+                <h5 style="padding-right: 0%; color: black;"><b>SUPORTE E EQUIPAMENTOS INFORMÁTICO</b></h5>
                 <div style="text-align: -webkit-left; padding: 0 11%; text-align: justify!important;">
                     Mantenha o sistema operativo seguro e operacional. 
                 </div>
@@ -405,8 +400,8 @@
                 </span>
                 <h4 class="my-3" style="color: black;"><b>FORMAÇÃO</b></h4>
                 <div style="text-align: -webkit-left; padding: 0 11%; text-align: justify!important;">
-                    Capacitamos funcionário e entidades independentes nas mais diversas soluções de gestão que oferecemos. 
-                    Primavera, Cacimbo e PHC. Com certificados reconhecidos pelo INEFOP 
+                    Capacitamos funcionários e entidades independentes nas mais diversas soluções de gestão que oferecemos: 
+                    Primavera, Cacimbo e PHC, com certificados reconhecidos pelo INEFOP. 
                 </div>
             </div>
 
@@ -424,7 +419,7 @@
     </div>   
 
 
-    <div style="height: 600px; position: relative; background-color: rgb(15, 0, 52)">        
+    <div style="height: 450px; position: relative; background-color: rgb(1, 8, 80);">        
         <div class="container">
 
             <p class="text-center" style="font-size: 35px; word-spacing: 10px; padding-top: 9%; color: white">
@@ -439,8 +434,8 @@
     </div>
 
 
-    <div style="background-color: white; height: 1050px">
-        <div style="padding: 6% 19%; 0 19%;" class="text-center">
+    <div style="background-color: white; height: 900px">
+        <div style="padding: 3% 19%; 0 19%;" class="text-center">
             <p style="font-size: 30px; color: black">
                 <b>PREENCHA O FORMULÁRIO, E RECEBA MAIS INFORMAÇÕES DE UM ESPECIALISTA SEM QUALQUER COMPROMISSO.</b>
             </p>            

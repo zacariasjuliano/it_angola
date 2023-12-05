@@ -85,7 +85,7 @@
                                     <b>SOLUÇÕES</b>
                                 </a>
                                 <div id="myModal" class="modal">
-                                    <div class="modal-content" style="margin-top: 4%; background-color: #5b7bfd">
+                                    <div class="modal-content" style="margin-top: 4%; background-color: #008cff">
                                         <span hidden class="close" id="closeModalBtn">&times;</span>
 
                                         <div class="row" style="padding-left: 5%">                                           

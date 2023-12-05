@@ -118,7 +118,7 @@
 
         <div class="card mb-8" style="padding-left:0px; border: 0px solid rgba(0,0,0,.125); border-radius: 0px; margin-bottom: 0rem!important;">
             <p style="font-size: 30px; color: #d0005f; padding: 16% 0% 0 0; position: relative; display: flex; justify-content: center;">
-                <b>SOLUÇÃO CERTA PARA O SEU NEGÓCIO</b>
+                <b>A SOLUÇÃO CERTA PARA O SEU NEGÓCIO</b>
             </p> 
             <hr style="margin: 0 auto; width: 30%; border: 1.5px solid #d0005f;">
       
@@ -139,22 +139,22 @@
         <img src="/img/parceiros/cacimbo_1.jfif" alt="Slide 1" style="width: 100%"> 
 
         <div class="carousel-left-text">
-            <h3 style="font-size:50px; color: #d0005f"><b>TENHA A INFORMAÇÃO DO SEU NEGÓCIO NA MÃO</b></h3>
-            <p style="font-size: 26px; color: white; line-height: 36px;">Não importa o tamanho da sua empresa, você terá as informações que precisa para tomar as melhores decições.</p>
+            <h3 style="font-size:50px; color: #d0005f"><b>TENHA AS INFORMAÇÕES DO SEU NEGÓCIO NA PLANA DA MÃO</b></h3>
+            <p style="font-size: 26px; color: white; line-height: 36px;">Não importa o tamanho da sua empresa, você terá as informações necessárias para tomar as melhores decisões.</p>
         </div>   
     </div>
 
     
     <!-- MELHORAR -->
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="margin-top: -2.1%"> 
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="margin-top: 0%;"> 
         <img src="/img/parceiros/cacimbo_2.jfif" alt="Slide 1" style="width: 100%">           
 
-        <div class="carousel-center-text" style="top: 35%;">
+        <div class="carousel-center-text" style="top: 50%;">
         
             <h3 style="font-size: 45px; color: white">
-                <b>ACOMPANHAMENTO CONTINUO</b>
+                <b>ACOMPANHAMENTO CONTÍNUO</b>
             </h3>
-            <p style="font-size: 25px; color: white;">Receba o apoio necessário para que o seu sistema funcione a mil maravilhas</p>
+            <p style="font-size: 25px; color: white;">Receba o apoio necessário para que o seu sistema funcione às mil maravilhas</p>
             
                     
             <div class="row" style="padding-top: 90px; display: flex; justify-content: space-between;">
@@ -168,7 +168,7 @@
                         Formação Ao Utilizador
                     </p> 
                     <p class="text-left" style="font-size: 15px; color: white; line-height: 30px;">
-                        Damos formação aos seus colaboradores apara que eles  tenham maior dinamismo nas operações do dia-a-dia do seu negócio.
+                        Damos formação aos seus colaboradores para que tenham maior dinamismo nas operações do dia a dia do seu negócio.
                     </p>  
                 </div>
 
@@ -180,7 +180,7 @@
                         Suporte Técnico
                     </p> 
                     <p class="text-left" style="font-size: 15px; color: white; line-height: 30px;">
-                        Garantimos um suporte de qualidade por duas via, presencial e remoto.
+                        Garantimos um suporte de qualidade por duas via, presencial e remota.
                     </p>  
                 </div>
 
@@ -192,7 +192,7 @@
                         Consultoria
                     </p> 
                     <p class="text-left" style="font-size: 15px; color: white; line-height: 30px;">
-                        Montamos um diagnóstico com as melhores soluções para a necessidade da sua empresa.
+                        Montamos um diagnóstico com as melhores soluções para as necessidades da sua empresa.
                     </p>  
                 </div> 
                             
@@ -209,7 +209,7 @@
             </p>   
             
             <a href="/contactos#formulario" class="botao_1 btn-center botao_cor_1" style="margin-left: 12%; width: 812px; position: initial; align-items: center; justify-content: center; font-size: 35px; color: white;">
-                Quero uma demostração do cacimbo erp
+                Quero uma demostração do Cacimbo ERP
             </a>
 
         </div>        

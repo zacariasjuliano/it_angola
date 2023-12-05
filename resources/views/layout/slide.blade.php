@@ -65,8 +65,7 @@
 </style>
 
 
-<div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">
-        
+<div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">        
     <!-- Slides -->
     <div class="carousel-inner"  style="max-height: 920px;">
         <div class="carousel-item active">
@@ -81,16 +80,14 @@
             <div style="margin-top: 0%">
                 <!-- Texto central -->
                 <div class="carousel-center-text" style="text-align: left; top: 61%; left: 38%;">
-                    <h1 style="font-size: 50px; color: white;">TECNOLOGIAS QUE COLOCAM EMPRESAS EM UMA GESTÃO DE EXCELÊNCIA</h1>
-                    <p style="font-size: 36px; color: white;">Softwares e serviços para implucionar o seu negócio</p>
-                    
+                    <h1 style="font-size: 55px; color: white;">TECNOLOGIAS QUE COLOCAM EMPRESAS EM UMA GESTÃO DE EXCELÊNCIA</h1>
+                    <p style="font-size: 44px; color: white;">Softwares equipamentos e serviços para impulsionar o seu negócio</p>                    
                 </div>
             </div>
 
         </div>            
         
-    </div>            
-    
+    </div>   
 </div>
     
 

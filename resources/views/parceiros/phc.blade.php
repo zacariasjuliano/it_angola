@@ -100,8 +100,8 @@
             <p style="font-size: 40px; color: white; padding: 30% 25% 0 13%; position: relative; display: flex; justify-content: center;">
                 SOFTWARE FEITO PARA PEQUENOS, MÉDIOS E GRANDES NEGÓCIOS
             </p>
-            <p style="font-size: 25px; color: white; padding: 0 25% 0 10%; position: relative; display: flex; justify-content: center;">
-                Ganhe vantagens com uma destas soluções
+            <p style="font-size: 25px; color: white; padding: 0 25% 0 5%; position: relative; display: flex; justify-content: center;">
+                Obtenha vantagens ao escolher uma destas soluções.
             </p> 
         </div> 
         
@@ -172,14 +172,9 @@
                         <b>UM SOFTWARE QUE SE ADAPTA A CADA EMPRESA</b>
                     </p> 
                     <p class="text-justify" style="font-size: 20px; color: black; margin-left: 6%; margin-right: 25%; line-height: 40px; padding-top: 3%">
-                        Cada empresa é única e tem necessidades de
-                        gestão próprias. E, por isso, precisa de um
-                        software capaz de se adaptar à exata medida das
-                        especificidades do seu negócio. É esse o principal
-                        fator distintivo do PHC CS: a elasticidade da sua
-                        framework potente, 100% customizável aos
-                        processos e à forma de trabalhar única de cada
-                        empresa.
+                        Cada empresa é única, com necessidades de gestão específicas. Por isso, é crucial ter um software capaz de se adaptar exatamente às particularidades 
+                        do seu negócio. Esse é o principal diferencial do PHC CS: a elasticidade da sua framework, totalmente customizável para os processos e a abordagem de 
+                        trabalho exclusiva de cada empresa.
                     </p>  
                 </div>
 

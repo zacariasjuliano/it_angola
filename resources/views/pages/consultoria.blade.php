@@ -87,7 +87,7 @@
     </div>
 
 
-    <div style="background-color: white; margin-top: 10%">
+    <div style="background-color: white; margin-top: 3%">
         <div class="text-center" style="margin-top: 3%;">
             <h5 style="font-size: 50px; color: blue">
                 <b>Consultoria do Software Cegid ERP Primavera</b>
@@ -96,69 +96,66 @@
         
         <div class="text-justify" style="padding: 2% 14%"> 
             <p style="font-size: 23px; color: black">
-                A IT-ANGOLA oferece serviços de consultoria especializados em tecnologia de gestão do software Cegid ERP Primavera.
-                Os nossos consultores experientes estão prontos para ajudar a sua empresa a otimizar os seus processos de negócio e 
-                a alcançar a máxima eficiência com o software Cegid ERP Primavera.
+                A IT-ANGOLA oferece serviços de consultoria especializados em tecnologia de gestão, especialmente 
+                no software Cegid ERP Primavera. Nossos consultores experientes estão prontos para ajudar sua empresa 
+                a otimizar os processos de negócio e alcançar a máxima eficiência com o software Cegid ERP Primavera.
             </p>             
         </div>                     
     </div> 
 
     <div style="text-align: -webkit-center;">
-        <img src="/img/pages/232.png" alt="" style="width: 40%">
+        <img src="/img/pages/232.png" alt="" style="width: 30%">
     </div>
 
+    	
+    <div class="row" style="padding: 0px 9%; background-color:white;">  
 
-    <section class="section" style="padding: 0px 9%; background-color:white;">		
-        <div class="row" style="padding-left: 5%; padding-bottom: 6%">  
+        <div class="col" style="padding-right: 0%">
+            <h5 class="animated-element margin-bottom-20" style="padding-top: 10%; color:blue; font-size:35px; width: 111%;">
+                <b>
+                    Benefícios do Software Cegid ERP Primavera
+                </b>								
+            </h5>
 
-            <div class="col" style="padding-right: 0%">
-                <h5 class="animated-element margin-bottom-20" style="padding-top: 20%; color:blue; font-size:35px; width: 111%;">
-                    <b>
-                        Benefícios do Software Cegid ERP Primavera
-                    </b>								
-                </h5>
+            <p class="animated-element slow text-justify" style="color:black; font-size:20px; margin: 0 13% 0 0; padding-top:3%">
+                O software Cegid ERP Primavera oferece uma série de benefícios para empresas de todos os tamanhos e setores. Alguns dos principais incluem:
+            </p>
+            
+            <ul class="animated-element slow margin-bottom-20 text-justify" style="color:black; font-size:20px; margin-top: 3%; padding-left: 6%; line-height: 40px;">
+                <li>Melhoria na gestão de processos e fluxo de trabalho</li>
+                <li>Aumento da eficiência operacional</li>
+                <li>Integração de departamentos e sistemas</li>
+                <li>Maior visibilidade e controle dos dados empresariais</li>
+                <li>Tomada de decisões mais claras e precisas</li>
+            </ul>
+        </div>                            
+                                
+        <div class="col" style="padding: 1% 0;">
+            <img src="/img/pages/234.png" alt="" style="width: 65%;">
+        </div>
 
-                <p class="animated-element slow text-justify" style="color:black; font-size:20px; margin: 0 13% 0 0; padding-top:3%">
-                    O software Cegid ERP Primavera oferece uma série de benefícios para empresas de todos os 
-                    tamanhos e setores. Alguns dos principais benefícios incluem:
-                </p>
-                <p class="animated-element slow margin-bottom-20 text-justify" style="color:black; font-size:20px; margin-top: -5%; padding-left:1.5%; line-height: 40px;">
-                    <br>A melhoria na gestão de processos e fluxo de trabalho
-                    <br>O aumento da eficiência operacional
-                    <br>A integração de departamentos e sistemas
-                    <br>Maior visibilidade e controle dos dados empresariais
-                    <br>Tomada de decisão mais claras e precisas
-                </p>
-            </div>                            
-                                    
-            <div class="col" style="padding: 3% 0;">
-                <img src="/img/pages/234.png" alt="" style="width: 65%;">
-            </div>
-
-        </div>			
-    </section>
+    </div>	
 
 
     <section class="section" style="padding: 0px 0px; background-color:white;">	 
 
         <div style="padding: 0% 0%">
-            <h3 class="animated-element text-center"  style="padding: 2.5% 0; line-height: 65px;">
+            <h3 class="animated-element text-center"  style="padding: 0; line-height: 65px;">
                 <b style="color:blue; font-size:38px;">
                     Porque que escolher o parceiro IT-ANGOLA para consultoria <br>do software Cegid ERP Primavera
                 </b>								
             </h3>
 
             <p class="animated-element slow text-justify" style="color:black; font-size:21px; padding: 0 14%;">
-                A IT-ANGOLA é líder no fornecimento de consultoria em tecnologia de gestão do software Cegid ERP Primavera.
-                Os nossos consultores são certificados pela Cegid ERP Primavera possuem amplo conhecimento e experiência, 
-                garantindo que a sua empresa obtenha o máximo valor e benefícios dessa solução.
+                A IT-ANGOLA é líder no fornecimento de consultoria em tecnologia de gestão do software Cegid ERP Primavera. 
+                Nossos consultores são certificados pela Cegid ERP Primavera, possuindo amplo conhecimento e experiência. 
+                Isso garante que sua empresa obtenha o máximo valor e benefícios dessa solução.
             </p>
         </div>                            
                                 
         <div style="padding: 0% 0%; text-align: -webkit-center;">
             <img src="/img/pages/209-min.png" alt="" style="width: 72%">
         </div>
- 
 
         <div style="padding-left: 6%">
             <a href="/contactos#formulario" class="btn-center botao_2 botao_cor" style="color: white; font-size: 18px;">
