@@ -1,7 +1,10 @@
 
     <style type="text/css">
         .subilinhado {
-            width: 100%; border: none; border-bottom: 1px solid black; margin-left:3%;
+            width: 100%; 
+            border: none; 
+            border-bottom: 1px solid black; 
+            margin-left:3%;
         }
         .paragrafo_espacamento {
             padding-left: 3%; 
@@ -15,7 +18,7 @@
         }
     </style>
 
-    <div class="container text-center" style="padding-top: 3%; padding-bottom: 5%; background-color:white; border-radius: 35px; width: 1408px; height: 880px">
+    <div class="container text-center" style="padding-top: 3%; padding-bottom: 3%; background-color:white; border-radius: 35px; width: 1408px; height: 880px">
 
         <form style="padding: 0 7%;" method="post" enctype="multipart/form-data">
 
@@ -48,7 +51,7 @@
                 <label for="aceito" style="display: flex; align-items: center; padding-left: 3.5%; padding-top: 1%;">Li e concordo com as <span style="color: blue; padding-left: 6px;"> Política de Privacidade</span></label>                    
             </div>
             
-            <div class="center-text" style="padding: 3% 0 0 2.7%">
+            <div class="center-text" style="padding: 1% 0 0 2.7%">
                 <div class="botao_formulario botao_formulario_cor" style="text-align: -webkit-left;">
                     <a href="#" class="btn-center" style="color: white; font-size: 25px; text-align: -webkit-cnter;">
                         Enviar

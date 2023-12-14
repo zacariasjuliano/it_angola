@@ -35,11 +35,6 @@
         }
         .botao_cor_2 {
             background-color: #d0005f; 
-            /*
-            display: flex; 
-            justify-content: center; 
-            align-items: center;
-            */
             margin: 0 auto; 
         }
         .carousel-center-text {
@@ -57,6 +52,33 @@
             transform: translate(-50%, -50%);
             text-align: left;
             color: #fff;
+        }           
+        .small_screen_p {
+            padding: 16% 0% 0 0;
+        }          
+        .small_screen_pa {
+            padding: 6% 6% 0 0;
+        }
+        .small_screen_padding {
+            margin-top: 0%;
+        }
+        .small_screen_pad {
+            padding: 0 13% 6% 14%
+        }
+
+        @media screen and (max-width: 768px) {           
+            .small_screen_p {
+                padding: 3% 0% 0 0;
+            }           
+            .small_screen_pa {
+                padding: 3% 3% 0 0;
+            } 
+            .small_screen_padding {
+                margin-top: 1.5%;
+            }
+            .small_screen_pad {
+                padding: 0 13% 1.5% 14%
+            }                    
         }
     </style>     
     
@@ -83,7 +105,7 @@
                   
     <div class="card-deck mb-3" style="margin-right: 0px; margin-bottom: 0rem!important;">
         <div class="card mb-4" style="border: 0px solid rgba(0,0,0,.125); background-color: #d0005f; border-radius: 0px; margin-bottom: 0rem!important;">
-            <p style="font-size: 30px; color: black; padding: 6% 6% 0 0; margin-left: 13%"><b>SOLUÇOES CACIMBO ERP</b></p> 
+            <p class="small_screen_pa" style="font-size: 30px; color: black; margin-left: 13%"><b>SOLUÇOES CACIMBO ERP</b></p> 
             <p style="font-size: 15px; color: white; padding: 0; margin-left: 13%; text-decoration: underline;">
                 CACIMBO - MODULO GESTÃO
             </p>  
@@ -117,7 +139,7 @@
         </div>
 
         <div class="card mb-8" style="padding-left:0px; border: 0px solid rgba(0,0,0,.125); border-radius: 0px; margin-bottom: 0rem!important;">
-            <p style="font-size: 30px; color: #d0005f; padding: 16% 0% 0 0; position: relative; display: flex; justify-content: center;">
+            <p class="small_screen_p" style="font-size: 30px; color: #d0005f; position: relative; display: flex; justify-content: center;">
                 <b>A SOLUÇÃO CERTA PARA O SEU NEGÓCIO</b>
             </p> 
             <hr style="margin: 0 auto; width: 30%; border: 1.5px solid #d0005f;">
@@ -125,7 +147,7 @@
             <p style="font-size: 22px; color: black; padding: 3% 17% 0 15%; position: relative; display: flex; justify-content: center;">
                 EDUCAÇÃO, COMÊRCIO A RETALHO, RESTAURAÇÃO, LAVANDARIA, HOTELARIA, BOMBAS DE COBUSTÍVEL E OUTROS
             </p> 
-            <p style="font-size: 20px; color: black; padding: 0 13% 6% 14%; position: relative; display: flex; justify-content: center; line-height: 35px;">
+            <p class="small_screen_pad" style="font-size: 20px; color: black; position: relative; display: flex; justify-content: center; line-height: 35px;">
                 Software de facturação e gestão, que permite alcançar os resultados que você almeja para o seu negócio.
             </p> 
             <a href="#" class="botao_2 btn-center botao_cor_2" style="display: flex; justify-content: center; align-items: center; font-size: 25px; position: relative; color: white">
@@ -135,7 +157,7 @@
     </div> 
 
 
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="margin-top: 0%"> 
+    <div id="carouselExample" class="carousel slide small_screen_padding" data-ride="carousel"> 
         <img src="/img/parceiros/cacimbo_1.jfif" alt="Slide 1" style="width: 100%"> 
 
         <div class="carousel-left-text">
@@ -165,7 +187,7 @@
                     </div>
 
                     <p class="text-center" style="font-size: 25px; color: white; padding-top: -20%">
-                        Formação Ao Utilizador
+                        Formação ao Utilizador
                     </p> 
                     <p class="text-left" style="font-size: 15px; color: white; line-height: 30px;">
                         Damos formação aos seus colaboradores para que tenham maior dinamismo nas operações do dia a dia do seu negócio.

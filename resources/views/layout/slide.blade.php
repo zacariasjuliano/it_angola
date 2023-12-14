@@ -81,7 +81,7 @@
                 <!-- Texto central -->
                 <div class="carousel-center-text" style="text-align: left; top: 61%; left: 38%;">
                     <h1 style="font-size: 55px; color: white;">TECNOLOGIAS QUE COLOCAM EMPRESAS EM UMA GESTÃO DE EXCELÊNCIA</h1>
-                    <p style="font-size: 44px; color: white;">Softwares equipamentos e serviços para impulsionar o seu negócio</p>                    
+                    <p style="font-size: 35px; color: white;">Softwares equipamentos e serviços para impulsionar o seu negócio</p>                    
                 </div>
             </div>
 

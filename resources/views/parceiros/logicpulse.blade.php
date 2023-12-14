@@ -9,7 +9,7 @@
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
-            margin-top: 9%;
+            margin-top: 3%;
             margin-left: 2%; 
         }
         .botao_1 {
@@ -39,7 +39,7 @@
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
-            margin-top: 9%;
+            margin-top: 3%;
             margin-left: 25%; 
         }      
         .botao_3 {
@@ -69,7 +69,7 @@
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
-            margin-top: 9%;
+            margin-top: 3%;
             margin-left: 34%; 
         }
         .carousel-center-text {
@@ -79,7 +79,46 @@
             transform: translate(-50%, -50%);
             text-align: center;
             color: #fff;
-        }     
+        }  
+        .container_width {
+            max-width: 1400px;
+        }  
+        .card_mb_6 {
+            padding-left: 25px;
+        }
+        .style_style {
+            padding: 3% 0; 
+        }
+
+        @media screen and (max-width: 768px) {
+            .botao_cor_1 {
+                background-color: #1e009a; 
+                display: flex; 
+                justify-content: center; 
+                align-items: center;
+                margin-bottom: 0%;
+                margin-top: 1%;
+                margin-left: 0.1%; 
+            } 
+            .botao_cor_3 {
+                background-color: #520030; 
+                display: flex; 
+                justify-content: center; 
+                align-items: center;
+                margin-bottom: 0%;
+                margin-top: 1%;
+                margin-left: 2%; 
+            }  
+            .container_width {
+                max-width: 1200px;
+            }  
+            .card_mb_6 {
+                padding-left: 0px;
+            }
+            .style_style {
+                padding: 0% 0; 
+            }                      
+        }   
     </style>
 
 
@@ -99,7 +138,7 @@
     </div>
 
     
-    <div class="container" style="max-width: 1400px;">
+    <div class="container container_width">
         <p style="font-size: 40px; color: #ed0000; padding: 6% 0% 0 0; text-align: -webkit-center;">
             </b>GESTÃO DE ASSIDUIDADE</b>
         </p>
@@ -107,7 +146,7 @@
             As empresas, de maneira geral, sentem a necessidade de aferir a pontualidade e realizar o controle e gestão da assiduidade de seus colaboradores.
         </p>
 
-        <div class="card-deck mb-3" style="padding: 6% 0%">            
+        <div class="card-deck mb-3 style_style">            
             <div class="card mb-6" style="border: 0px solid rgba(0,0,0,.125);"> 
                 <p style="font-size: 25px; color: black; padding: 0;">
                     <b>SOFTWARE <span style="color: #ed0000;">TIME</span>.TRACK</b>
@@ -131,7 +170,7 @@
     </div>
 
     
-    <div style="padding-top: 6%; padding-bottom: 6%; background-color: rgb(224, 224, 224);">
+    <div style="padding: 3% 0; background-color: rgb(224, 224, 224);">
         <div class="container" style="background-color: rgb(224, 224, 224); text-align: center;">
             <p style="font-size: 40px; color: #ed0000; padding: 0;">
                 <b>RELÓGIOS DE PONTO</b>
@@ -140,7 +179,7 @@
                 FORNECEMOS UM CONJUNTO DE TERMINAIS BIOMÉTRICOS DIGITAL E FACIAL
             </p>
     
-            <div class="row" style="padding-top: 6%; background-color: rgb(224, 224, 224); justify-content: center;">            
+            <div class="row style_style" style="background-color: rgb(224, 224, 224); justify-content: center;">            
                 <div class="col" style="border: 0px solid rgba(0,0,0,.125); background-color: rgb(224, 224, 224); text-align: center;"> 
                     <img src="/img/parceiros/logicpulse_4.png" alt="Slide 1" style="width: 55%;"> 
     
@@ -175,14 +214,14 @@
     </div>
     
     
-    <div class="container" style="max-width: 1400px; padding-top: 6%">
+    <div class="container" style="max-width: 1400px; padding-top: 3%">
         <p style="font-size: 40px; color: #520030; padding: 0% 6% 0 0; text-align: -webkit-center;">
             <b>SISTEMA DE CONTROLO DE ACESSO</b>
         </p>
 
-        <div class="card-deck mb-3" style="padding: 6% 0%"> 
+        <div class="card-deck mb-3 style_style"> 
 
-            <div class="card mb-6" style="padding-left: 25px; border: 0px solid rgba(0,0,0,.125);">
+            <div class="card mb-6 card_mb_6" style="border: 0px solid rgba(0,0,0,.125);">
                 <img src="/img/parceiros/logicpulse_5.png" alt="Slide 1" style="width: 85%"> 
             </div>
 
@@ -209,7 +248,7 @@
     </div>
     
     
-    <div style="padding-top: 6%; padding-bottom: 6%; background-color: #520030;">
+    <div style="padding: 3% 0; background-color: #520030;">
         <div class="container" style="background-color: #520030;">
             <h1 style="font-size: 45px; color: white; padding: 0; text-align: -webkit-center;">
                 <b>ACESSORIOS DE ASSIDUIDADE</b>
@@ -232,9 +271,9 @@
     </div>
 
 
-    <div style="background-color:white; padding-bottom: 9%;">
+    <div style="background-color:white; padding-bottom: 3%;">
             
-        <div class="text-center" style="padding-top: 5%;">  
+        <div class="text-center" style="padding-top: 3%;">  
             <h4 style="font-size: 25px; color: red;"> 
                 <b>PREENCHA O FORMULÁRIO, E RECEBA MAIS INFORMAÇÕES DE UM  
                 <br>ESPECIALISTA SEM QUALQUER COMPROMISSO.</b>

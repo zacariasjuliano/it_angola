@@ -6,15 +6,13 @@
     <style>
         .botao {
             background-color: #ff6900; 
-            margin-left: 20%; 
-            
+            margin-left: 20%;             
             justify-content: center; 
             align-items: center;
             margin-bottom: 10%;
             margin-top: 10%; 
         }
-        .ao_centro {            
-            
+        .ao_centro {   
             justify-content: center; 
             align-items: center;
             margin-top: 20%; 
@@ -27,13 +25,10 @@
             height: 60px;
         }
         .botao_cor {
-            background-color: #0f0034; 
-            
+            background-color: #0f0034;             
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
-            /*margin-top: 1.5%;*/
-            /*margin-left: 5%;*/
         }
         .circle3 {
             width: 356px;
@@ -74,46 +69,65 @@
         .espaco_embraco {
             margin-left: 0px; 
             margin-right: 0px;
-            /*
-            margin-top: 0px; 
-            margin-bottom: 0px;
-            */
         }
         ::marker {
             font-family: fantasy;
         }
+        .small_screen_pa {
+            padding-top: 3%;
+        }
+        .small_screen_p {
+            font-size: 45px;
+        }
+        .small_screen_paragrah {
+            font-size: 25px;
+        }
+
+        @media screen and (max-width: 768px) {
+            .small_screen_pa {
+                padding-top: 30%;
+            }
+            .small_screen_p {
+                font-size: 35px;
+            }
+            .small_screen_paragrah {
+                font-size: 20px;
+            }
+        }
     </style>
+    
 
-
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">
-            
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">            
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/img/pages/img-20.png" alt="Slide 1">                
+                <div>
+                    <img src="/img/pages/img-20.png" alt="Slide 1" style="width: 100%">                
+                </div>
+            
+                <div style="margin-top: 0%">
+                    <div class="carousel-center-text" style="text-align: -webkit-center;">
+                        <h3 style="font-size: 60px; color: white" class="padding">PRIVACIDADE</h3>
+                    </div>
+                </div>
             </div>
-
-            <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <h3 style="font-size: 50px; color: white" class="padding"><b>PRIVACIDADE</b></h3>
-                <p style="font-size: 30px; color: white" class="padding" hidden>Com esta solução as contas estão sempre em dia</p>
-            </div>
-        </div>
-        
+        </div>    
     </div>
+    
 
     <div style="background-color: #fbf8f8;">
 
-        <div class="text-center" style="padding-top: 5%">
-            <h5 style="font-size: 45px; color: blue">
+        <div class="text-center small_screen_pa">
+            <h5 class="small_screen_p" style="color: blue">
                 <b>Política de privacidade de uso de dados</b>
             </h5>
-            <p style="font-size: 25px; color: black; padding-top: 5%">
+            <p class="small_screen_paragrah" style="color: black; padding-top: 3%">
                 <b>Última atualização: 03/07/2023</b>
             </p>           
         </div> 
         
         <div class="text-justify" style="padding: 2% 13%"> 
-            <p style="font-size: 25px; color: black; line-height: 50px;">
+            <p class="small_screen_paragrah" style="color: black; line-height: 50px;">
                 Agradecemos por visitar o website www.it-angola.com. Estamos comprometidos em proteger a sua privacidade e em 
                 garantir a segurança dos seus dados pessoais. Esta Política de Privacidade de Uso de Dados 
                 ("Política de Privacidade") explica como coletamos, usamos, compartilhamos e protegemos as informações que 

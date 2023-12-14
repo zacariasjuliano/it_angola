@@ -33,7 +33,7 @@
             /*margin-left: 5%;*/
         }
         .circle3 {
-            width: 416px;
+            width: 416px; /*332*/
             height: 16%;
             position: absolute;
             top: -13%;
@@ -93,7 +93,8 @@
         </div>        
     </div>
 
-    <div class="center-text" style="background-color: #dedede; text-align: -webkit-center; padding-top: 5%">
+
+    <div class="center-text" style="background-color: #dedede; text-align: -webkit-center; padding-top: 3%">
         <h5 style="font-size: 25px; color: black" class="padding"><b>Antedimento e Suporte</b></h5>
 
         <div class="botao_2 botao_cor" style="background-color: green;">
@@ -105,7 +106,7 @@
         <p style="font-size: 30px; color: black" class="padding">Ligue Já!</p>    
         
         
-        <div style="margin-bottom: 0%; margin-top: 6%;">
+        <div style="margin-bottom: 0%; margin-top: 3%;">
             <div style="padding: 1.5% 25%">             
     
                 <div class="card-deck mb-3">
@@ -117,7 +118,7 @@
         
                         <p style="font-size:23px; color: black;"><b>Benguela (Sede)</b></p> 
                         
-                        <div style="position: relative; justify-content: center;; padding-left: 9%">
+                        <div style="position: relative; justify-content: center; padding-left: 9%">
                             
                             <div class="icon-text-container" style="display: flex; text-align: left; padding-top: 6%">
                                 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
@@ -149,7 +150,7 @@
         
                         <p style="font-size:23px; color: black;"><b>Luanda</b></p>
 
-                        <div style="position: relative; justify-content: center;; padding-left: 9%">
+                        <div style="position: relative; justify-content: center; padding-left: 9%">
                         
                             <div class="icon-text-container" style="display: flex; text-align: left; padding-top: 6%">
                                 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
@@ -175,10 +176,9 @@
     
             </div>                
         </div>
-
        
 
-        <div class="center-text" style="text-align: -webkit-center; padding-top: 0%; padding-bottom:5%;" id="whatsapp">
+        <div class="center-text" style="text-align: -webkit-center; padding-top: 0%; padding-bottom:3%;" id="whatsapp">
             <p style="font-size: 25px; color: black" class="padding">Puxa no WhatsApp</p>
     
             <div class="botao_2 botao_cor" style="background-color: green;">
@@ -191,9 +191,10 @@
         
     </div>
 
+
     <div style="background-color:rgb(255, 255, 255); padding-bottom:5%;" id="formulario">
         
-        <div class="text-center" style="padding: 5% 0;">  
+        <div class="text-center" style="padding: 3% 0;">  
             <h4 style="font-size: 25px; color:black;">
                 <b> Quero receber mais informações sobre formações Primavera </b>
             </h4>        

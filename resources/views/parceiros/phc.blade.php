@@ -77,6 +77,28 @@
             text-align: center;
             color: #fff;
         }
+        .small_screen_padding {
+            padding: 30% 25% 0 13%;
+            justify-content: center;
+        }
+        .small_screen_padd {
+            padding: 0 22% 0 5%;
+            justify-content: center;
+        }
+
+        @media screen and (max-width: 768px) {
+            .small_screen_padding {
+                padding: 9% 25% 0 6%;
+                justify-content: left;
+            }   
+            .small_screen_padd {
+                padding: 0 11% 0 6%;
+                justify-content: left;
+            }      
+            .small_screen_margin {
+                margin-top: 3.3rem;
+            }           
+        }
     </style>
 
     
@@ -95,12 +117,12 @@
     </div>
 
 
-    <div class="card-deck mb-3" style="margin-right: 0px;">
+    <div class="card-deck mb-3" style="margin-right: 0px; margin-bottom: 0rem;">
         <div class="card mb-6" style="padding-left: 35px; border: 0px solid rgba(0,0,0,.125); background-color: #ed0000; margin-right: 0; margin-bottom: 3%; border-radius: 0px;">
-            <p style="font-size: 40px; color: white; padding: 30% 25% 0 13%; position: relative; display: flex; justify-content: center;">
+            <p class="small_screen_padding" style="font-size: 40px; color: white; position: relative; display: flex;">
                 SOFTWARE FEITO PARA PEQUENOS, MÉDIOS E GRANDES NEGÓCIOS
             </p>
-            <p style="font-size: 25px; color: white; padding: 0 25% 0 5%; position: relative; display: flex; justify-content: center;">
+            <p class="small_screen_padd" style="font-size: 25px; color: white; position: relative; display: flex;">
                 Obtenha vantagens ao escolher uma destas soluções.
             </p> 
         </div> 
@@ -163,11 +185,11 @@
             
             <div class="padding" style="display: flex;">
                 
-                <div style="flex: 1; text-align: -webkit-center; padding-top: 6%">
+                <div style="flex: 1; text-align: -webkit-center; padding-top: 0%">
                     <img class="img-fluid" src="/img/parceiros/phc_1.jpg" alt="..." style="width: 100%"/>  
                 </div>
 
-                <div style="flex: 1; text-align: -webkit-left; padding-top: 6%">
+                <div style="flex: 1; text-align: -webkit-left; padding-top: 1.5%">
                     <p class="text-justify" style="font-size: 45px; color: #ed0000; margin-left: 6%; margin-right: 25%">
                         <b>UM SOFTWARE QUE SE ADAPTA A CADA EMPRESA</b>
                     </p> 
@@ -185,7 +207,7 @@
 
     
     <div style="margin-bottom: 5%; margin-top: 1%;">
-        <div style="padding-top: 7% "> 
+        <div style="padding-top: 3% "> 
             
             <h2 class="text-center" style="font-size: 45px">
                 <b> QUAL É O TAMANHO DA SUA EMPRESA</b> 
@@ -213,7 +235,7 @@
                     </p> 
                 </div>  
                 
-                <div class="card mb-4 panel_itens" style="margin-left: 7px; margin-right: 7px; border-radius: 55px 55px 0 0;">
+                <div class="card mb-4 panel_itens small_screen_margin" style="margin-left: 7px; margin-right: 7px; border-radius: 55px 55px 0 0;">
                     <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%; position: relative; display: flex; justify-content: center;">
                         <img class="img-fluid" src="/img/parceiros/phc_advanced.png" alt="..." style="width: 35%;"/> 
                     </p> 
@@ -231,7 +253,7 @@
                     </p> 
                 </div>
 
-                <div class="card mb-4 panel_itens" style="margin-left: 7px; margin-right: 0px; border-radius: 55px 55px 0 0;">
+                <div class="card mb-4 panel_itens small_screen_margin" style="margin-left: 7px; margin-right: 0px; border-radius: 55px 55px 0 0;">
                     <p class="text-right" style="font-size: 20px; color: white; padding-top: 3%;  position: relative; display: flex; justify-content: center;">
                         <img class="img-fluid" src="/img/parceiros/phc_enterprise.jpg" alt="..." style="width: 35%;"/> 
                     </p> 

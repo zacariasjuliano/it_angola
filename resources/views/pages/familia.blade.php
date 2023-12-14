@@ -29,8 +29,6 @@
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
-            /*margin-top: 1.5%;*/
-            /*margin-left: 5%;*/
         }
         .circle3 {
             width: 356px;
@@ -71,31 +69,39 @@
         .espaco_embraco {
             margin-left: 0px; 
             margin-right: 0px;
-            /*
-            margin-top: 0px; 
-            margin-bottom: 0px;
-            */
+        }
+        .small_screen_margin {
+            margin-top: 3%;
+        }
+
+        @media screen and (max-width: 768px) { 
+            .small_screen_margin {
+                margin-top: 30%;
+            }                    
         }
     </style>
-
-
+        
+    
     <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">            
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/img/pages/img-20.png" alt="Slide 1">                
+                <div>
+                    <img src="/img/pages/img-20.png" alt="Slide 1" style="width: 100%">                
+                </div>
+            
+                <div style="margin-top: 0%">
+                    <div class="carousel-center-text" style="text-align: -webkit-center;">
+                        <h3 style="font-size: 55px; color: white" class="padding">FAÇA PARTE DA NOSSA FAMÍLIA</h3>
+                    </div>
+                </div>
             </div>
-
-            <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <h3 style="font-size: 45px; color: white" class="padding"><b>FAÇA PARTE DA NOSSA FAMÍLIA</b></h3>
-                <p style="font-size: 30px; color: white" class="padding" hidden>Com esta solução as contas estão sempre em dia</p>
-            </div>
-        </div>        
+        </div>    
     </div>
 
     <div style="background-color: #f6f6f6;">
 
-        <div style="text-align: -webkit-center; padding-top: 5%;">
+        <div class="small_screen_margin" style="text-align: -webkit-center;">
             <p style="font-size: 50px; color: blue">
                 <b>BEM-VINDO(A) À ITANGOLA</b>
             </p>
@@ -136,13 +142,13 @@
                 
     </div> 
     
-    <div style="background-color:rgb(21, 21, 21); padding-bottom:5%;">
+    <div style="background-color:rgb(21, 21, 21); padding-bottom: 1%;">
         
-        <div class="text-center" style="color:white; padding-top: 5%;" id="recrutamento">  
+        <div class="text-center" style="color:white; padding-top: 3%;" id="recrutamento">  
             <h4 style="font-size: 40px; color:white"> CANDIDATURA </h4>
         </div>  
 
-        <div class="container text-left" style="padding-bottom: 5%;">
+        <div class="container text-left">
 
             <form class="padding" style="padding-left:4rem !important; padding-right:6rem !important;" method="post" enctype="multipart/form-data">
 
@@ -171,7 +177,8 @@
                     </div>
                 </div>
 
-            </form>            
+            </form>   
+
         </div>
         
     </div>

@@ -29,7 +29,7 @@ body {
 }
 
 .footer_titulo {
-    font-family: 'Gothic A1', sans-serif;
+    font-family: "Gothic A1";
     font-size: 30pt;
     font-weight: bold;
     letter-spacing: 0;
@@ -38,7 +38,7 @@ body {
 }
 
 .footer_paragrafo {
-    font-family: 'Gothic A1', sans-serif;
+    font-family: "Gothic A1";
     font-size: 30pt;
     font-weight: bold;
     letter-spacing: 100;
@@ -50,7 +50,7 @@ body {
 
 /*START Estilos dos Títulos*/
 h1 {
-    font-family: 'Gothic A1', sans-serif;
+    font-family: "Gothic A1";
     /*
     font-size: 60pt;
     font-weight: bold;
@@ -61,7 +61,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Gothic A1', sans-serif;
+    font-family: "Gothic A1";
     /*
     font-size: 44pt;
     font-weight: light;
@@ -72,7 +72,7 @@ h2 {
 }
 
 p {
-    font-family: 'Gothic A1', sans-serif;
+    font-family: "Gothic A1";
     font-size: 30pt;
     font-weight: normal;
     letter-spacing: 0;

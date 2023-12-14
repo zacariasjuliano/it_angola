@@ -32,7 +32,7 @@
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
-            margin-top: 15%;
+            margin-top: 9%;
             margin-left: 2.5%; 
         }
         .circle3 {
@@ -65,37 +65,89 @@
         .espaco_embraco {
             margin-left: 0px; 
             margin-right: 0px;
-            /*
-            margin-top: 0px; 
-            margin-bottom: 0px;
-            */
+        }
+        .small_screen_padding {
+            padding-top: 0px;
+            padding-bottom: 0px;
+            padding-left: 0px;
+            padding-right: 0px;
+        }
+        .small_screen_p {
+            font-size: 25px;
+            line-height: 50px;
+        }
+        .small_screen_pa {
+            font-size: 50px;
+            line-height: 55px;
+        }
+        .a_link {
+            font-size: 25px;
+        }
+
+        @media screen and (max-width: 768px) { 
+            .small_screen_padding {
+                padding-top: 95px;
+                padding-bottom: 9px;
+                padding-left: 0px;
+                padding-right: 0px;
+            }                          
+            .small_screen_pa {
+                font-size: 25px;                
+                line-height: 35px;
+            }                           
+            .small_screen_p {
+                font-size: 18px;                
+                line-height: 35px;
+            }      
+            .botao_2 {
+                background-color: white;
+                border-radius: 55px;
+                width: 200px;
+                height: 30px;
+            }
+            .botao_cor {
+                background-color: #0f0034; 
+                display: flex; 
+                justify-content: center; 
+                align-items: center;
+                margin-bottom: 0%;
+                margin-top: 9%;
+                margin-left: 0%; 
+            } 
+            .a_link {
+                font-size: 19px;
+            }                
         }
     </style>
-
+    
 
     <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">            
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/img/pages/img-20.png" alt="Slide 1">                
+                <div>
+                    <img src="/img/pages/img-20.png" alt="Slide 1" style="width: 100%">                
+                </div>
+            
+                <div style="margin-top: 0%">
+                    <div class="carousel-center-text" style="text-align: -webkit-center;">
+                        <h3 style="font-size: 60px; color: white" class="padding">SUPORTE</h3>
+                    </div>
+                </div>
             </div>
-
-            <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <h3 style="font-size: 50px; color: white" class="padding"><b>SUPORTE</b></h3>
-            </div>
-        </div>        
+        </div>    
     </div>
 
 
-    <section class="section" style="padding: 0px 0px; background-color:white;">		
-        <div class="row" style="padding-left: 12%; padding-bottom: 9%">  
+    <section class="section small_screen_padding" style="background-color:white;">		
+        <div class="row" style="padding-left: 12%; padding-bottom: 3%">  
 
-            <div class="col-md-6" style="padding-right: 9%; padding-top: 13%;">
+            <div class="col-md-6" style="padding-right: 9%; padding-top: 6%;">
                 <h2 class="animated-element margin-bottom-20"  style="color:blue; font-size: 55px;">                   
                     Serviços de suporte técnico                    								
                 </h2>
 
-                <p class="text-justify animated-element slow margin-bottom-20" style="color:black; font-size:21px;">
+                <p class="text-justify animated-element slow margin-bottom-20 small_screen_p" style="color:black;">
                     A IT-ANGOLA oferece suporte técnico especializado para os softwares Cegid ERP Primavera, Cacimbo, PHC, logicpulse e de 
                     informática. A Nossa equipe de especialistas está pronta para ajudá-lo a resolver problemas, 
                     otimizar o desempenho e maximizar o uso dessas soluções em seu negócio.
@@ -113,20 +165,20 @@
                     <li style="padding-top: 1%; font-size: 18px;">Treinamento e capacitação dos usuários</li>
                 </ul>
 
-                <p class="text-justify animated-element slow margin-bottom-20" style="color:black; font-size:21px; padding-right: 9%;">
+                <p class="text-justify animated-element slow margin-bottom-20 small_screen_p" style="color:black; padding-right: 9%;">
                     Nossa equipe técnica experiente está disponível para ajudar sua empresa a obter o máximo 
                     de sua tecnologia de gestão do software Cegid ERP Primavera e informática. Entre em contato 
                     conosco hoje mesmo para saber mais sobre nossos serviços de
                 </p>
 
                 <div class="botao_2 botao_cor" style="background-color: blue;">
-                    <a href="#" class="btn-center" style="color: white; font-size: 25px;">
+                    <a href="#" class="btn-center a_link" style="color: white;">
                         Receber Suporte
                     </a>
                 </div>
             </div>                            
                                     
-            <div class="col-md-6" style="flex: 0 0 45%; padding-top: 13%;">
+            <div class="col-md-6" style="flex: 0 0 45%; padding-top: 9%;">
                 <img src="/img/pages/1000-min.png" alt="" style="width: 70%">
             </div>
 
@@ -134,19 +186,17 @@
     </section>
 
 
-
-    <section class="section" style="padding: 0 0 9% 0;">	           
+    <section class="section" style="padding: 0 0 3% 0;">	           
             
         <div style="position: relative; justify-content: center;"> 
-            <h2 class="animated-element margin-bottom-20 text-center" style="color:#0a4275; font-size: 55px;">                   
+            <h2 class="animated-element margin-bottom-20 text-center small_screen_pa" style="color:#0a4275;">                   
                 <i class="fa fa-download" style="color: #0a4275;"></i> Softwares de auxilio                    								
             </h2>
             
-            <p class="h2 text-center pt-5" style="padding-left: 0%; padding-right: 0%" >
+            <p class="h2 text-center small_screen_p" style="padding-left: 0%; padding-right: 0%" >
                 Aqui pode adqurir o software necessário para que possamos ajudá-lo da melhor maneira.
             </p>
-        </div> 
-        
+        </div>         
 
         <div class="row" style="position: relative; display: flex; justify-content: center;"> 
 
@@ -190,9 +240,9 @@
                 </div>
             </div>
 
-        </div>			
-    </section>    
+        </div>	
 
+    </section>    
     
 
 @endsection

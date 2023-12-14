@@ -9,38 +9,11 @@
         .fundo {            
             box-shadow: 0px 0px 11px 2px rgb(150, 150, 150, 0.36);
         }
-        /*
-        .equal-column {
-            width: 80%;
-            height: 60%;
-            border: 1px solid #000;
-            padding: 10px;
-        }
-        */
         .btn-center {
             position: absolute;
             left: 40%;
             height: 6%;
         }
-        /*
-        .customform input, .customform textarea {
-            //border: 20 !important;
-            background: rgb(255 252 252 / 4%) !important;
-        }
-        .linha_input {
-            //border-bottom: 1px solid black;
-            border: none; 
-            border-bottom: 1px solid black;
-        }
-        .screem-size {
-            padding-left: 1%; 
-            padding-right: 1%;
-        }
-        .solucoes {
-            padding: 8.5% 0;
-            margin: 0 15.5%;
-        }
-        */
         .btn_style {
             width: 55%; 
             height: 16%; 
@@ -133,10 +106,26 @@
             font-size: 20px;
             color: white;
         }
+
+        @media screen and (max-width: 768px) {
+            
+            .center_circle {
+                padding-top: 40px;
+                font-size: 40px; 
+                top: -45px; 
+                position: relative; 
+                display: flex; 
+                justify-content: center; 
+                height: 150px; 
+                width: 150px;
+                border-radius: 50%!important;
+            }
+            
+        }
     </style>
     
 
-    <section class="section padding" style="background-color: #1b0052; height: 700px;">        
+    <section class="section padding" style="background-color: #1b0052; height: 600px;">        
         <div class="container text-center" style="padding-bottom: 4%; padding-top: 2%;">
             <h2 class="section-subheading" style="color: white; font-size:44px; font-family: 'Gothic A1', sans-serif;">
                 <b>SOLUÇÕES DE GESTÃO EMPRESARIAIS</b>
@@ -146,7 +135,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col">      
-                    <div class="text-center mb-4" style="padding-left: 35%; margin-top: 1px; position: absolute;">                       
+                    <div class="text-center mb-4" style="padding-left: 50%; margin-top: 1px; position: absolute;">                       
                         <img class="img-fluid fundo" src="/img/home/home_1.jpg" alt="..." style="border-radius: 10px 10px 10px 10px;"/>
                     </div>
                                 
@@ -154,14 +143,14 @@
                         <div class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
                             Software utilizado por mais de <b>36.000</b> empresas entre África e Europa
                         </div>
-                        <a href="/consultoria" class="btn_style text-center" style="font-size:15px; background-color:#1663BF; color: white; margin-top:-3%; margin-left: -25%; padding-top: 4%; height: 15%;">
+                        <a href="/consultoria" class="btn_style text-center" style="font-size:15px; background-color:#1663BF; color: white; margin-top:8%; margin-left: -25%; padding-top: 4%; height: 15%;">
                             Saber mais
                         </a>
                     </div>
                 </div>
 
                 <div class="col">      
-                    <div class="text-center mb-4" style="padding-left: 35%; margin-top: 1px; position: absolute;">                       
+                    <div class="text-center mb-4" style="padding-left: 50%; margin-top: 1px; position: absolute;">                       
                         <img class="img-fluid fundo" src="/img/home/home_2.png" alt="..." style="border-radius: 10px 10px 10px 10px; background-color: white"/>
                     </div>
                                 
@@ -169,22 +158,22 @@
                         <div class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
                             Software com <b>+1.066</b> utilizadores a níviel nacional
                         </div>
-                        <a href="/cacimbo" class="btn_style text-center" style="font-size:15px; background-color:#d0005f; color: white; margin-top:9%; margin-left: -25%; padding-top: 4%; height: 15%;">
+                        <a href="/cacimbo" class="btn_style text-center" style="font-size:15px; background-color:#d0005f; color: white; margin-top:17%; margin-left: -25%; padding-top: 4%; height: 15%;">
                             Saber mais
                         </a>
                     </div>
                 </div>   
                 
                 <div class="col">      
-                    <div class="text-center mb-4" style="padding-left: 10%; margin-top: 1px; position: absolute;">                       
-                        <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..." style="width: 50%; height: 55px; border-radius: 10px 10px 10px 10px;"/>
+                    <div class="text-center mb-4" style="padding-left: 40%; margin-top: 1px; position: absolute;">                       
+                        <img class="img-fluid fundo" src="/img/home/home_3.jpg" alt="..." style="width: 70%; height: 55px; border-radius: 10px 10px 10px 10px;"/>
                     </div>
                                 
                     <div class="text-justify fundo" style="background-color: white; border: 1px solid #cfc9c9; width: 90%; height: 290px; padding-bottom: 75px; margin-top: 11%">
                         <div class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
                             Software com mais +150 mil utilizadores entre África e Europa
                         </div>
-                        <a href="/phc" class="btn_style text-center" style="font-size:15px; background-color:#ed0000; color: white; margin-top:0%; margin-left: -25%; padding-top: 4%; height: 15%;">
+                        <a href="/phc" class="btn_style text-center" style="font-size:15px; background-color:#ed0000; color: white; margin-top:9%; margin-left: -25%; padding-top: 4%; height: 15%;">
                             Saber mais
                         </a>
                     </div>
@@ -196,12 +185,12 @@
     
             
     <!-- Slides -->
-    <div class="carousel" style="margin-top: -2.1%"> 
+    <div class="carousel" style="margin-top: -2.1%;"> 
         <img src="/img/home/home_5.jfif" alt="Slide 1" style="width: 100%">   
                 
-        <div class="row carousel-center-text" style="margin-top: 3.3%">
+        <div class="row carousel-center-text" style="margin-top: 3.3%;">
             
-            <div class="col" style="margin-right: 16px;">
+            <div class="col">
                 <p class="center_circle" style="background-color: blue; color: white;">
                     +10 
                 </p>
@@ -210,7 +199,7 @@
                 </p>   
             </div>
 
-            <div class="col" style="margin-right: 16px;">
+            <div class="col">
                 <p class="center_circle" style="background-color: white; color: blue;">
                     +128
                 </p>
@@ -309,7 +298,7 @@
     </section>
 
     
-    <section class="section" style="background-color: #338ed5; height: 400px; padding: 3rem 1.25rem;">
+    <section class="section" style="background-color: #338ed5; padding: 3rem 1.25rem;">
         <div class="text-center" style="justify-content: center; padding-top: 1%">
             <h2 class="section-subheading" style="color: white; font-size: 50px;">ACREDITE NO QUE OS GESTORES DIZEM</h2>
         </div>
@@ -327,19 +316,44 @@
                 </div>
 
             </div>
+        </div>        
+    </section>
 
+
+    <section class="section" style="background-color: rgb(1, 8, 80); padding: 3rem 1.25rem;">
+        
+        <div class="row" style="padding-top: 3%">
+            <div style="display: flex; align-items: center; padding-left: 9%;">
+
+                <div style="color: white; font-size: 20px; text-align: justify!important; padding-right: 15%;">
+                    
+                    <h3 style="color: white; font-size: 53px; font-family: 'Gothic A1'; width: 95%;">                        
+                        SOFTWARES CETIFICADOS PELA AGT                        								
+                    </h3>
+
+                    <p style="color: white; font-size: 20px; line-height: 30px; font-family: 'Gothic A1'; text-align: justify!important; width: 90%;">
+                        Os nossos softwares são certificados pela Administração Geral Tributária (AGT), garantindo que você possa trabalhar sem se preocupar com questões 
+                        legais e fiscais.
+                    </p>
+                </div>
+
+                <div style="justify-content: center; align-items: center; padding-right: 15%;">
+                    <img src="/img/clientes/agt.png" alt="..." style="width: 80%"/>
+                </div>
+
+            </div>
         </div>        
     </section>
 
     	
-    <div class="row" style="background-color: rgb(1, 8, 80); padding-top: 11%; padding-bottom: 6%; justify-content: center;">
+    <div hidden class="row" style="background-color: rgb(1, 8, 80); padding-top: 11%; padding-bottom: 6%; justify-content: center;">
 
-        <div class="col-md-6" style="margin-right: 30px;">
-            <h3 style="color: white; font-size: 48px; font-family: 'Gothic A1', sans-serif; width: 150%;">                        
+        <div class="col-md-4">
+            <h3 style="color: white; font-size: 40px; font-family: 'Gothic A1';">                        
                 SOFTWARES CETIFICADOS PELA AGT                        								
             </h3>
     
-            <p style="color: white; font-size: 20px; line-height: 30px; width: 80%; font-family: 'Gothic A1', sans-serif; text-align: justify!important;">
+            <p style="color: white; font-size: 20px; line-height: 30px; font-family: 'Gothic A1'; text-align: justify!important;">
                 Os nossos softwares são certificados pela Administração Geral Tributária (AGT), garantindo que você possa trabalhar sem se preocupar com questões 
                 legais e fiscais.
             </p>							
@@ -434,7 +448,7 @@
     </div>
 
 
-    <div style="background-color: white; height: 900px">
+    <div style="background-color: white; height: 790px">
         <div style="padding: 3% 19%; 0 19%;" class="text-center">
             <p style="font-size: 30px; color: black">
                 <b>PREENCHA O FORMULÁRIO, E RECEBA MAIS INFORMAÇÕES DE UM ESPECIALISTA SEM QUALQUER COMPROMISSO.</b>
@@ -475,7 +489,7 @@
                     <label for="aceito" style="display: flex; align-items: center; padding-left: 3.5%; margin-top: -1.2%;">Li e concordo com as <span style="color: blue; padding-left: 3px"> Política de Privacidade</span></label>                    
                 </div>
                 
-                <div class="center-text" style="padding: 9% 0 0 2.7%">
+                <div class="center-text" style="padding: 6% 0 0 2.7%">
                     <a href="#" class="botao_3 botao_cor_3 btn-center" style="color: white; font-size: 25px; left: 26%; text-align: -webkit-cnter;">
                         Enviar
                     </a>

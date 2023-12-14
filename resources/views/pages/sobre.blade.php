@@ -65,44 +65,60 @@
         .espaco_embraco {
             margin-left: 0px; 
             margin-right: 0px;
-            /*
-            margin-top: 0px; 
-            margin-bottom: 0px;
-            */
         }
+        .small_screen_p {
+            font-size: 25px;
+            line-height: 50px;
+        }
+        .small_screen_margin {
+            margin-top: 3%;
+        }
+
+        @media screen and (max-width: 768px) {                       
+            .small_screen_p {
+                font-size: 12px;                
+                line-height: 25px;
+            } 
+            .small_screen_margin {
+                margin-top: 30%;
+            }                     
+        } 
     </style>
-
-
-    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">
-            
+    
+    
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 2.5%">            
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/img/pages/img-20.png" alt="Slide 1">                
+                <div>
+                    <img src="/img/pages/img-20.png" alt="Slide 1" style="width: 100%">                
+                </div>
+            
+                <div style="margin-top: 0%">
+                    <div class="carousel-center-text" style="text-align: -webkit-center;">
+                        <h3 style="font-size: 60px; color: white" class="padding">SOBRE NÓS</h3>
+                    </div>
+                </div>
             </div>
-
-            <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <h3 style="font-size: 60px; color: white" class="padding">SOBRE NÓS</h3>
-            </div>
-        </div>
-        
+        </div>    
     </div>
 
-    <div style="background-color: white; margin: 10% 0%;">
 
-        <div class="text-center" style="margin-top: 3%;">
+    <div style="background-color: white; margin: 3% 0%;">
+
+        <div class="text-center small_screen_margin">
             <h3 style="font-size: 50px; color: blue">
                 <b>Quem Somos</b>
             </h3>            
         </div> 
         
         <div class="text-justify" style="padding: 2% 15%"> 
-            <p style="font-size: 25px; color: black">
+            <p class="small_screen_p" style="color: black">
                 A IT-ANGOLA é uma empresa angolana especializada em Serviços da Tecnologia de Gestão vocacionada para o 
                 planeamento, venda, implementação, prevenção, correção, formação, e consultória de em sistemas de gestão 
                 empresarial. Dotamos negócios com soluções eficazes que agilizam os processos operacionais das empresas.
             </p> 
-            <p style="font-size: 25px; color: black">
+            <p class="small_screen_p" style="color: black">
                 Disponibilizamos um serviço de suporte personalizado e próximo para que retire o máximo valor da 
                 tecnologia com a mínima preocupação.<br> 
                 Trabalhamos para que o seu foco seja o crescimento da empresa e não a resolução das questões técnicas do 
