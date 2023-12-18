@@ -100,7 +100,6 @@
     </div>
 
     <div style="background-color: #f6f6f6;">
-
         <div class="small_screen_margin" style="text-align: -webkit-center;">
             <p style="font-size: 50px; color: blue">
                 <b>BEM-VINDO(A) À ITANGOLA</b>
@@ -138,12 +137,10 @@
                 Nossos valores fundamentam a cultura da empresa. Priorizamos a ética, a transparência, a responsabilidade social e o 
                 respeito mútuo.
             </p>      
-        </div>
-                
+        </div>  
     </div> 
     
     <div style="background-color:rgb(21, 21, 21); padding-bottom: 1%;">
-        
         <div class="text-center" style="color:white; padding-top: 3%;" id="recrutamento">  
             <h4 style="font-size: 40px; color:white"> CANDIDATURA </h4>
         </div>  
@@ -180,7 +177,6 @@
             </form>   
 
         </div>
-        
     </div>
 
         

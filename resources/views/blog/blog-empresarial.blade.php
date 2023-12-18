@@ -141,7 +141,6 @@
             </div>
         </div>    
     </div>
-
  
     <div class="small_screen_margin">
 
@@ -156,7 +155,6 @@
             </h1>            
         </div>           
     </div>
-
     
     <div class="row" style="padding-left: 6%; padding-right: 0%; padding-bottom: 0%; background-color:white; margin-right: 0px;">   
                                 
@@ -196,8 +194,7 @@
             <a href="#" style="color:#20085e; font-size:33px; padding-top: 0%"><b>Suporte Técnico</b></a>
         </div> 
 
-    </div>			    
-    
+    </div>			        
 
     <div style="margin-bottom: 3%; padding: 3% 6% 0 6%">
 

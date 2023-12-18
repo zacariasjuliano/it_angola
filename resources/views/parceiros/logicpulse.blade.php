@@ -136,7 +136,6 @@
             </div>
         </div>    
     </div>
-
     
     <div class="container container_width">
         <p style="font-size: 40px; color: #ed0000; padding: 6% 0% 0 0; text-align: -webkit-center;">
@@ -162,13 +161,11 @@
                 </a>
             </div>
 
-            <div class="card mb-6" style="padding-left: 25px; border: 0px solid rgba(0,0,0,.125);">
-                <img src="/img/parceiros/logicpulse_2.jpg" alt="Slide 1" style="width: 85%"> 
+            <div class="card mb-6" style="display: flex; justify-content: right; flex-direction: row; border: 0px solid rgba(0,0,0,.125);">
+                <img src="/img/parceiros/logicpulse_2.jpg" alt="Slide 1" style="width: 95%"> 
             </div>                            
         </div> 
-
     </div>
-
     
     <div style="padding: 3% 0; background-color: rgb(224, 224, 224);">
         <div class="container" style="background-color: rgb(224, 224, 224); text-align: center;">
@@ -213,16 +210,14 @@
         </div> 
     </div>
     
-    
     <div class="container" style="max-width: 1400px; padding-top: 3%">
         <p style="font-size: 40px; color: #520030; padding: 0% 6% 0 0; text-align: -webkit-center;">
             <b>SISTEMA DE CONTROLO DE ACESSO</b>
         </p>
 
         <div class="card-deck mb-3 style_style"> 
-
-            <div class="card mb-6 card_mb_6" style="border: 0px solid rgba(0,0,0,.125);">
-                <img src="/img/parceiros/logicpulse_5.png" alt="Slide 1" style="width: 85%"> 
+            <div class="card mb-6 card_mb_6" style="display: flex; justify-content: left; flex-direction: row; border: 0px solid rgba(0,0,0,.125);">
+                <img src="/img/parceiros/logicpulse_5.png" alt="Slide 1" style="width: 95%"> 
             </div>
 
             <div class="card mb-6" style="border: 0px solid rgba(0,0,0,.125);"> 
@@ -242,11 +237,8 @@
                     <b>QUERO SABER MAIS DO ACCESS TRACK</b>
                 </a>
             </div>  
-
         </div> 
-
-    </div>
-    
+    </div>    
     
     <div style="padding: 3% 0; background-color: #520030;">
         <div class="container" style="background-color: #520030;">
@@ -270,9 +262,7 @@
         </div> 
     </div>
 
-
     <div style="background-color:white; padding-bottom: 3%;">
-            
         <div class="text-center" style="padding-top: 3%;">  
             <h4 style="font-size: 25px; color: red;"> 
                 <b>PREENCHA O FORMULÁRIO, E RECEBA MAIS INFORMAÇÕES DE UM  
@@ -281,7 +271,6 @@
         </div>  
 
         @include('parceiros.formulario')
-        
     </div>
 
 @endsection

@@ -1,5 +1,4 @@
 
-
 <style type="text/css">
     .nav_bar_it {
         margin-top: 0.55rem;
@@ -58,7 +57,6 @@
         font-size: 20px;
         cursor: pointer;
     }
-
 </style> 
 
     
@@ -102,13 +100,15 @@
                                             <a class="dropdown-item" style="color: white; margin-left: -4%; padding-top: 3%; font-size: 20px" href="/logicpulse">LOGICPULSE</a>
                                             <a class="dropdown-item" style="color: white; margin-left: -4%; padding-top: 3%; font-size: 20px" href="/kelio">KELIO</a>
                                         </div>
-                                    </div>   
+                                    </div>  
+
                                     <div class="col-lg-4 col-md-2" style="text-align: left; color: white; font-size: 23px; flex: 0 0 15.0%">
                                         <b>DISPERÇÃO DE AVES</b>
                                         <div class="vertical-line" style="border-right: 1px solid rgb(251, 251, 251); height: 150px;">
                                             <a class="dropdown-item" style="color: white; margin-left: -4%; padding-top: 3%; font-size: 20px" href="/bird_tab">BIRD  TAB - Scarecrow B.I.R.B</a>
                                         </div>
                                     </div> 
+                                    
                                     <div class="col-lg-4 col-md-2" style="text-align: left; color: white; font-size: 23px; flex: 0 0 15.0%">
                                         <b>ASSISTENCIAS TÉCNICA</b>
                                         <div class="vertical-line" style="border-right: 1px solid rgb(251, 251, 251); height: 150px;">
@@ -149,8 +149,8 @@
     /*
     closeModalBtn.addEventListener("click", () => {
         modal.style.display = "none";
-    });  
-    */
+    });
+    */ 
 
 
     // SERVICOS
@@ -165,10 +165,8 @@
     /*
     closeModalServicos.addEventListener("click", () => {
         modalServicos.style.display = "none";
-    });
-    */
-
-    
+    });  
+    */  
     
     window.addEventListener("click", (event) => {
         if (event.target === modal) {

@@ -47,13 +47,10 @@
         }
         .botao_cor_1 {
             background-color: white; 
-            /*display: flex;*/
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
             margin-top: 6%;
-            /*margin-right: -10%;*/
-            /*margin-left: -14.5%;*/
         }
         .btn-center {
             text-align: center;
@@ -173,23 +170,20 @@
                         <div class="padding text-left" style="font-size: 15pt; color: black; line-height: 33px; margin-top: 15%">
                             Software com mais +150 mil utilizadores entre África e Europa
                         </div>
-                        <a href="/phc" class="btn_style text-center" style="font-size:15px; background-color:#ed0000; color: white; margin-top:9%; margin-left: -25%; padding-top: 4%; height: 15%;">
+                        <a href="/phc" class="btn_style text-center" style="font-size:15px; background-color:#ed0000; color: white; margin-top:17%; margin-left: -25%; padding-top: 4%; height: 15%;">
                             Saber mais
                         </a>
                     </div>
                 </div> 
             </div>
         </div>
-        
-    </section>
-    
+    </section>    
             
     <!-- Slides -->
     <div class="carousel" style="margin-top: -2.1%;"> 
         <img src="/img/home/home_5.jfif" alt="Slide 1" style="width: 100%">   
                 
         <div class="row carousel-center-text" style="margin-top: 3.3%;">
-            
             <div class="col">
                 <p class="center_circle" style="background-color: blue; color: white;">
                     +10 
@@ -224,20 +218,16 @@
                 <p class="text-center center_circle_margens">
                     CLIENTES PHC
                 </p>  
-            </div> 
-                           
+            </div>         
         </div> 
     </div>
 
-
     <section class="section" style="background-color: white; padding: 3rem 1.25rem;">
-        
         <div class="text-center" style="padding-top: 0%">
             <h2 class="section-subheading" style="color:#1b0052; font-size: 50px"><b>NOSSOS CLIENTES</b></h2>
         </div>
 
         <div class="row text-center" style="justify-content: center; padding-top: 6%">
-
             <div class="col-lg-2">
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/carrilho.png" alt="..."/>
@@ -250,13 +240,6 @@
                     <img class="img-fluid" src="/img/clientes/inap.png" alt="..."/>
                 </span>
                 <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Ensino</b></p>
-            </div>
-
-            <div class="col-lg-2" hidden>                    
-                <span class="fa-stack fa-3x">                           
-                    <img class="img-fluid" src="/img/clientes/maptss.png" alt="..."/>
-                </span>                    
-                <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Sector Público</b></p>
             </div>
 
             <div class="col-lg-2">
@@ -280,13 +263,6 @@
                 <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Indústria</b></p>
             </div>
 
-            <div class="col-lg-2" hidden>
-                <span class="fa-stack fa-3x">                           
-                    <img class="img-fluid" src="/img/clientes/acap.png" alt="..." />
-                </span>
-                <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Cosultoria</b></p>
-            </div>
-
             <div class="col-lg-2">
                 <span class="fa-stack fa-3x">                           
                     <img class="img-fluid" src="/img/clientes/pagaso.png" alt="..."/>
@@ -294,9 +270,7 @@
                 <p style="color: black; font-size: 15pt; padding-top: 15px;"><b>Meios de Pagamento</b></p>
             </div>
         </div>
-        
     </section>
-
     
     <section class="section" style="background-color: #338ed5; padding: 3rem 1.25rem;">
         <div class="text-center" style="justify-content: center; padding-top: 1%">
@@ -319,9 +293,7 @@
         </div>        
     </section>
 
-
-    <section class="section" style="background-color: rgb(1, 8, 80); padding: 3rem 1.25rem;">
-        
+    <section class="section" style="background-color: rgb(1, 8, 80); padding: 3rem 1.25rem;">        
         <div class="row" style="padding-top: 3%">
             <div style="display: flex; align-items: center; padding-left: 9%;">
 
@@ -343,28 +315,7 @@
 
             </div>
         </div>        
-    </section>
-
-    	
-    <div hidden class="row" style="background-color: rgb(1, 8, 80); padding-top: 11%; padding-bottom: 6%; justify-content: center;">
-
-        <div class="col-md-4">
-            <h3 style="color: white; font-size: 40px; font-family: 'Gothic A1';">                        
-                SOFTWARES CETIFICADOS PELA AGT                        								
-            </h3>
-    
-            <p style="color: white; font-size: 20px; line-height: 30px; font-family: 'Gothic A1'; text-align: justify!important;">
-                Os nossos softwares são certificados pela Administração Geral Tributária (AGT), garantindo que você possa trabalhar sem se preocupar com questões 
-                legais e fiscais.
-            </p>							
-        </div>                
-                            
-        <div class="col-md-4 text-center">
-            <img src="/img/clientes/agt.png" alt="" style="width: 30%;">
-        </div> 
-    
-    </div>        
-
+    </section>    
 
     <div style="background-color: rgb(246, 246, 246);">
         <div style="padding-top: 3%;" class="text-center">
@@ -428,10 +379,8 @@
                     Montamos um diagnóstico com as melhores soluções para a necessidade da sua empresa. 
                 </div>
             </div>
-        </div>       
-                       
-    </div>   
-
+        </div>         
+    </div>
 
     <div style="height: 450px; position: relative; background-color: rgb(1, 8, 80);">        
         <div class="container">
@@ -446,7 +395,6 @@
 
         </div>        
     </div>
-
 
     <div style="background-color: white; height: 790px">
         <div style="padding: 3% 19%; 0 19%;" class="text-center">
@@ -481,8 +429,7 @@
                 <div class="col-lg-6 col-md-4" style="text-align: left; padding-top: 8%">
                     <label for="message" style="font-size: 18px;" class="paragrafo_espacamento"><b>Mensagem</b>*</label>
                     <textarea name="message" id="message" class="subilinhado" style="width: 100%;" placeholder="" rows="2" cols="4"></textarea> 
-                </div>
-                
+                </div>                
                 
                 <div class="col-lg-6 col-md-4" style="display: flex; align-items: flex-start; padding-top: 3%; padding-left: 2.5%;">
                     <input type="checkbox" id="aceito" name="aceito" style="border: none; border-bottom: 1px solid black;">

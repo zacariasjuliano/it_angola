@@ -1,14 +1,11 @@
 
-
 <style>
     .carousel-control-prev,
     .carousel-control-next {
         width: 50px;
         height: 100%;
-        /*background-color: rgba(14, 40, 189, 0.773);*/
         text-align: center;
-    }
-    
+    }    
     .carousel-control-prev-icon,
     .carousel-control-next-icon {
       position: absolute;
@@ -17,10 +14,8 @@
       width: 50px;
       height: 50px;
       background-color: blue;
-      /*color: blue;*/
       border-radius: 50%;
     }
-
     .carousel-control-icon {
       position: absolute;
       top: 53%;
@@ -28,16 +23,12 @@
       width: 50px;
       height: 50px;
       background-color: blue;
-      /*color: blue;*/
       border-radius: 50%;
-    }
-    
+    }    
     .carousel-caption {
-      /*background-color: rgba(0, 0, 0, 0.5);*/
       color: white;
       padding: 10px;
     }
-
     .carousel-center-text {
         position: absolute;
         top: 52%;
@@ -46,7 +37,6 @@
         text-align: center;
         color: #fff;
     }
-
     .carousel-center-text1 {
         position: absolute;
         top: 77%;
@@ -55,7 +45,6 @@
         text-align: center;
         color: #fff;
     }
-
     .circle {
         background-color: white;
         border-radius: 67px;

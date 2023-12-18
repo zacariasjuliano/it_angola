@@ -29,11 +29,9 @@
             justify-content: center; 
             align-items: center;
             margin-bottom: 0%;
-            /*margin-top: 1.5%;*/
-            /*margin-left: 5%;*/
         }
         .circle3 {
-            width: 416px; /*332*/
+            width: 100%; /*333*/
             height: 16%;
             position: absolute;
             top: -13%;
@@ -42,7 +40,7 @@
             transform: skewY(0deg);
         }
         .circle4 {
-            width: 416px;
+            width: 100%;
             height: 16%;
             position: absolute;
             top: -13%;
@@ -71,10 +69,6 @@
         .espaco_embraco {
             margin-left: 0px; 
             margin-right: 0px;
-            /*
-            margin-top: 0px; 
-            margin-bottom: 0px;
-            */
         }
     </style>
 
@@ -83,16 +77,15 @@
         <!-- Slides -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/img/pages/img-20.png" alt="Slide 1">                
+                <img src="/img/pages/img-20.png" alt="Slide 1" style="width: 100%">                
             </div>
 
-            <div class="carousel-center-text" style="text-align: -webkit-center;">
-                <h3 style="font-size: 50px; color: white" class="padding"><b>CONTACTOS</b></h3>
-                <p style="font-size: 30px; color: white" class="padding">Se chegou até aqui fale connosco</p>
+            <div class="carousel-center-text" style="text-align: -webkit-center; padding-top: 200px">
+                <h3 style="font-size:50px; color: white" class="padding"><b>CONTACTOS</b></h3>
+                <p style="font-size: 30px; color: white; margin-right: -70px; margin-left: -70px;">Se chegou até aqui fale connosco</p>
             </div>
-        </div>        
+        </div>    
     </div>
-
 
     <div class="center-text" style="background-color: #dedede; text-align: -webkit-center; padding-top: 3%">
         <h5 style="font-size: 25px; color: black" class="padding"><b>Antedimento e Suporte</b></h5>
@@ -103,8 +96,7 @@
             </a>
         </div>
 
-        <p style="font-size: 30px; color: black" class="padding">Ligue Já!</p>    
-        
+        <p style="font-size: 30px; color: black" class="padding">Ligue Já!</p>            
         
         <div style="margin-bottom: 0%; margin-top: 3%;">
             <div style="padding: 1.5% 25%">             
@@ -140,8 +132,7 @@
                             </div>
                         </div>
                     </div>  
-                    
-    
+                        
                     <div class="card mb-4 padding" style="border: 0px; margin-left: 6%">
                         <div class="circle4" style="background-color: blue;">
                             <div class="top-part"></div>
@@ -175,8 +166,7 @@
                 </div>
     
             </div>                
-        </div>
-       
+        </div>       
 
         <div class="center-text" style="text-align: -webkit-center; padding-top: 0%; padding-bottom:3%;" id="whatsapp">
             <p style="font-size: 25px; color: black" class="padding">Puxa no WhatsApp</p>
@@ -186,14 +176,11 @@
                     <img src="/img/icon/whatssap.png" alt="Slide 1" style="width: 15%; margin-top: 1.5%">
                 </a>
             </div>
-    
         </div>            
         
     </div>
 
-
     <div style="background-color:rgb(255, 255, 255); padding-bottom:5%;" id="formulario">
-        
         <div class="text-center" style="padding: 3% 0;">  
             <h4 style="font-size: 25px; color:black;">
                 <b> Quero receber mais informações sobre formações Primavera </b>
@@ -201,7 +188,6 @@
         </div>  
 
         <div class="container text-center" style="padding-top: 3%; padding-bottom: 0%; background-color:white; border: 1px solid black; width: 1408px; ">
-
             <form style="padding: 0 7%;" method="post" enctype="multipart/form-data">
 
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
@@ -210,7 +196,7 @@
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center;padding-top: 15px">
                     <label for="email" style="padding-top: 1.5%; font-size: 18px;"><b>Email</b><span style="color: #ed0000;">*</span></label>
-                    <input type="email" id="email" name="email" style="width: 644px; height: 56px; border: 1px; margin-left: 6.6%; background-color: rgb(195, 195, 195)">
+                    <input type="email" id="email" name="email" style="width: 644px; height: 56px; border: 1px; margin-left: 6%; background-color: rgb(195, 195, 195)">
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
                     <label for="contacts" style="padding-top: 1.5%; font-size: 18px;"><b>Telefone</b><span style="color: #ed0000;">*</span></label>
@@ -218,15 +204,15 @@
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
                     <label for="empresa" style="padding-top: 1.5%; font-size: 18px;"><b>Empresa</b><span style="color: #ed0000;">*</span></label>
-                    <input type="text" id="empresa" name="empresa" style="width: 864px; height: 56px; border: 1px; margin-left: 3.9%; background-color: rgb(195, 195, 195)">
+                    <input type="text" id="empresa" name="empresa" style="width: 864px; height: 56px; border: 1px; margin-left: 3.6%; background-color: rgb(195, 195, 195)">
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
                     <label for="nif" style="padding-top: 1.5%; font-size: 18px;"><b>NIF</b><span style="color: #ed0000;">*</span></label>
-                    <input type="text" id="nif" name="nif" style="width: 496px; height: 56px; border: 1px; margin-left: 8.5%; background-color: rgb(195, 195, 195)">
+                    <input type="text" id="nif" name="nif" style="width: 496px; height: 56px; border: 1px; margin-left: 7.6%; background-color: rgb(195, 195, 195)">
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
                     <label for="Provincia" style="padding-top: 1.5%; font-size: 18px;"><b>Provincia</b><span style="color: #ed0000;">*</span></label>
-                    <input type="text" id="cargo" name="Provincia" style="width: 496px; height: 56px; border: 1px; margin-left: 3.4%; background-color: rgb(195, 195, 195)">
+                    <input type="text" id="cargo" name="Provincia" style="width: 496px; height: 56px; border: 1px; margin-left: 3.0%; background-color: rgb(195, 195, 195)">
                 </div>
                 <div class="col-lg-12 col-md-4" style="display: flex; align-items: center; padding-top: 15px">
                     <label for="message" style="padding-top: 1.5%; font-size: 18px;"><b>Mensagem</b><span style="color: #ed0000;">*</span></label>
@@ -247,7 +233,6 @@
 
             </form>            
         </div>
-        
     </div>
 
         

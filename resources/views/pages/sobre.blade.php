@@ -103,9 +103,7 @@
         </div>    
     </div>
 
-
     <div style="background-color: white; margin: 3% 0%;">
-
         <div class="text-center small_screen_margin">
             <h3 style="font-size: 50px; color: blue">
                 <b>Quem Somos</b>

@@ -107,9 +107,7 @@
         </div>    
     </div>
 
-
     <div style="background-color: white; margin: 3% 0%;">
-
         <div class="text-center small_screen_padding">
             <h3 style="font-size: 50px; color: blue">
                 <b>Nós e a Comunidade</b>
@@ -117,7 +115,6 @@
         </div> 
         
         <div class="text-justify small_screen_margin"> 
-            
             <ol style="list-style-position: outside; list-style-position: outside;">
                 <li class="small_screen_p" style="padding-left: 40px;">
                     <b>Parceria com a comunidade:</b> Na IT-Angola, acreditamos que é nosso dever contribuir para 
@@ -167,11 +164,11 @@
                     <br>
                 </li>
             </ol>
+
             <p class="small_screen_p" style="color: black; line-height: 30px;">
                 Esses são apenas alguns exemplos de como a IT-Angola se envolve em responsabilidade social. Estamos comprometidos 
                 em causar um impacto positivo em nossa comunidade e no mundo ao nosso redor.
             </p>
-
         </div>
     </div>
 

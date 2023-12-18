@@ -8,8 +8,7 @@
     </style>
 
     <div class="row" style="padding-left: 90px;">
-        <div class="col-lg-6 col-md-4">     
-            
+        <div class="col-lg-6 col-md-4">  
             <p style="font-size: 15pt; padding-top: 12px; line-height: 40px;">                    
                 <a  href="/responsabilidade-social" style="color:rgb(255, 255, 255);">
                     Responsabilidade social
@@ -27,8 +26,10 @@
         </div>
 
         <div class="col-lg-3 col-md-4">
-            
             <p style="font-size: 15pt; line-height: 40px;"> 
+                <a href="/familia" style="color:rgb(255, 255, 255);">
+                    Familia
+                </a><br>
                 <a href="/blog" style="color:rgb(255, 255, 255);">
                     Blog
                 </a><br>
@@ -39,10 +40,11 @@
         </div>
 
         <div class="col-lg-3 col-md-4">
-            
             <p style="font-size: 15pt; line-height: 40px;"> 
                 <a href="/privacidade" style="color:rgb(255, 255, 255);">
                     Políticas
+                </a><br> <a href="/termos-condicoes" style="color:rgb(255, 255, 255);">
+                    Termos e condições
                 </a><br> 
                 <a href="#" style="color:rgb(255, 255, 255);">
                     Cookies

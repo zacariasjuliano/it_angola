@@ -89,7 +89,6 @@
                 <div>
                     <img src="/img/parceiros/cacimbo.jfif" alt="Slide 1" style="width: 100%">                
                 </div>
-
             
                 <div style="margin-top: 0%">
                     <div class="carousel-center-text" style="text-align: -webkit-center;">
@@ -101,7 +100,6 @@
             </div>
         </div>    
     </div>
-
                   
     <div class="card-deck mb-3" style="margin-right: 0px; margin-bottom: 0rem!important;">
         <div class="card mb-4" style="border: 0px solid rgba(0,0,0,.125); background-color: #d0005f; border-radius: 0px; margin-bottom: 0rem!important;">
@@ -156,7 +154,6 @@
         </div>                            
     </div> 
 
-
     <div id="carouselExample" class="carousel slide small_screen_padding" data-ride="carousel"> 
         <img src="/img/parceiros/cacimbo_1.jfif" alt="Slide 1" style="width: 100%"> 
 
@@ -165,22 +162,18 @@
             <p style="font-size: 26px; color: white; line-height: 36px;">Não importa o tamanho da sua empresa, você terá as informações necessárias para tomar as melhores decisões.</p>
         </div>   
     </div>
-
     
     <!-- MELHORAR -->
     <div id="carouselExample" class="carousel slide" data-ride="carousel" style="margin-top: 0%;"> 
         <img src="/img/parceiros/cacimbo_2.jfif" alt="Slide 1" style="width: 100%">           
 
         <div class="carousel-center-text" style="top: 50%;">
-        
             <h3 style="font-size: 45px; color: white">
                 <b>ACOMPANHAMENTO CONTÍNUO</b>
             </h3>
-            <p style="font-size: 25px; color: white;">Receba o apoio necessário para que o seu sistema funcione às mil maravilhas</p>
-            
+            <p style="font-size: 25px; color: white;">Receba o apoio necessário para que o seu sistema funcione às mil maravilhas</p>            
                     
             <div class="row" style="padding-top: 90px; display: flex; justify-content: space-between;">
-               
                 <div class="col" style="background-color: #d0005f; margin-right: 9px;">
                     <div class="rounded-circle" style="font-size: 20px; top: -45px; position: relative; justify-content: center;">
                         <img class="img-fluid rounded-circle" src="/img/home/home_10.jpg" alt="..." style="width: 35%;"/> 
@@ -219,10 +212,8 @@
                 </div> 
                             
             </div> 
-        </div>            
-
+        </div> 
     </div>
-    
 
     <div style="height: 450px; position: relative; background-color: rgb(45, 44, 44)">        
         <div class="container">
@@ -237,9 +228,7 @@
         </div>        
     </div> 
 
-
     <div style="background-color:white; padding-bottom:5%;">
-        
         <div class="text-center" style="padding-top: 5%;">  
             <h4 style="font-size: 25px; color: #d0005f;"> 
                 <b>PREENCHA O FORMULÁRIO, E RECEBA MAIS INFORMAÇÕES DE UM  
@@ -247,8 +236,7 @@
             </h4> 
         </div>  
 
-        @include('parceiros.formulario')
-        
+        @include('parceiros.formulario')        
     </div>
     
 

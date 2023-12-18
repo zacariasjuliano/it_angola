@@ -116,7 +116,6 @@
         </div>    
     </div>
 
-
     <div class="card-deck mb-3" style="margin-right: 0px; margin-bottom: 0rem;">
         <div class="card mb-6" style="padding-left: 35px; border: 0px solid rgba(0,0,0,.125); background-color: #ed0000; margin-right: 0; margin-bottom: 3%; border-radius: 0px;">
             <p class="small_screen_padding" style="font-size: 40px; color: white; position: relative; display: flex;">
@@ -179,12 +178,10 @@
         </div>                           
     </div>
 
-
     <div style="background-color: white; height: position: relative;">        
         <div class="container" style="max-width: 1400px;">
             
             <div class="padding" style="display: flex;">
-                
                 <div style="flex: 1; text-align: -webkit-center; padding-top: 0%">
                     <img class="img-fluid" src="/img/parceiros/phc_1.jpg" alt="..." style="width: 100%"/>  
                 </div>
@@ -199,12 +196,10 @@
                         trabalho exclusiva de cada empresa.
                     </p>  
                 </div>
-
             </div>
             
         </div>        
     </div>
-
     
     <div style="margin-bottom: 5%; margin-top: 1%;">
         <div style="padding-top: 3% "> 
@@ -290,7 +285,6 @@
     </div>
 
     <div style="background-color:white; padding-bottom: 6%;">
-            
         <div class="text-center" style="padding-top: 5%;">  
             <h4 style="font-size: 25px; color: black;"> 
                 <b>PREENCHA O FORMULÁRIO, E RECEBA MAIS INFORMAÇÕES DE UM  
@@ -299,7 +293,6 @@
         </div>  
 
         @include('parceiros.formulario')
-        
     </div>
 
 

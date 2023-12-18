@@ -11,7 +11,6 @@
             margin-bottom: 0%;
         }      
         .botao_formulario {
-            /*background-color: #ed0000;*/
             border-radius: 0px;
             width: 200px;
             height: 50px;
@@ -19,7 +18,6 @@
     </style>
 
     <div class="container text-center" style="padding-top: 3%; padding-bottom: 3%; background-color:white; border-radius: 35px; width: 1408px; height: 880px">
-
         <form style="padding: 0 7%;" method="post" enctype="multipart/form-data">
 
             <div class="col-lg-12 col-md-4" style="text-align: left; padding-top: 15px">

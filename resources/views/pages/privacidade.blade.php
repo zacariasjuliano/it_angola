@@ -112,11 +112,9 @@
                 </div>
             </div>
         </div>    
-    </div>
-    
+    </div>    
 
     <div style="background-color: #fbf8f8;">
-
         <div class="text-center small_screen_pa">
             <h5 class="small_screen_p" style="color: blue">
                 <b>Política de privacidade de uso de dados</b>
@@ -216,8 +214,7 @@
                 </p>
 
             </ol>      
-        </div>
-                
+        </div>  
     </div>    
 
         

@@ -138,7 +138,6 @@
         </div>    
     </div>
 
-
     <section class="section small_screen_padding" style="background-color:white;">		
         <div class="row" style="padding-left: 12%; padding-bottom: 3%">  
 
@@ -186,8 +185,7 @@
     </section>
 
 
-    <section class="section" style="padding: 0 0 3% 0;">	           
-            
+    <section class="section" style="padding: 0 0 3% 0;">	
         <div style="position: relative; justify-content: center;"> 
             <h2 class="animated-element margin-bottom-20 text-center small_screen_pa" style="color:#0a4275;">                   
                 <i class="fa fa-download" style="color: #0a4275;"></i> Softwares de auxilio                    								
@@ -241,7 +239,6 @@
             </div>
 
         </div>	
-
     </section>    
     
 

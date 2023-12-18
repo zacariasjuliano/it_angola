@@ -107,8 +107,20 @@
     </style>
 
 
+    <div id="carouselExample" class="carousel slide" data-ride="carousel" style="padding-top: 1.5%">            
+        <!-- Slides -->
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="/img/pages/img-20.png" alt="Slide 1" style="width: 100%">                
+            </div>
+
+            <div class="carousel-center-text" style="text-align: -webkit-center; padding-top: 290px"> 
+                <h3 style="font-size:50px; color: white"><b>CONSULTORIA</b></h3>
+            </div>
+        </div>    
+    </div>
+
     <section class="section" style="background-color: white;">
-            
         <div class="text-center" style="margin-top: 3%;">
             <h5 class="small_screen_title" style="color: blue">
                 <b>Consultoria do Software Cegid ERP Primavera</b>
@@ -122,17 +134,13 @@
                 a otimizar os processos de negócio e alcançar a máxima eficiência com o software Cegid ERP Primavera.
             </p>             
         </div> 
-        
     </section>
-
 
     <div style="text-align: -webkit-center;">
         <img src="/img/pages/232.png" alt="" style="width: 30%">
     </div>
-
     
-    <div class="row" style="padding: 0px 9%; background-color:white;">  
-    
+    <div class="row" style="padding: 0px 9%; background-color:white;">      
         <div class="col" style="padding-right: 0%">
             <h5 class="animated-element small_screen_title" style="padding-top: 10%; color:blue; width: 111%;">
                 <b>
@@ -155,13 +163,10 @@
                                 
         <div class="col" style="margin: -3% 0">
             <img src="/img/pages/234.png" alt="" style="width: 70%;">
-        </div>
-    
+        </div>    
     </div>	
 
-
-    <section class="section" style="padding: 0px 0px; background-color:white;">	 
-    
+    <section class="section" style="padding: 0px 0px; background-color:white;">
         <div style="padding: 0% 0%">
             <h3 class="animated-element text-center small_screen_title"  style="padding: 0;">
                 <b style="color:blue;">

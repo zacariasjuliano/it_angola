@@ -1,7 +1,7 @@
 /*
     Nome: ZACARIAS J. CAPINGALA
     Data: 11-08-2023
-    Organização: TIV Tecnologias - PagaSo
+    Organização: TIV Tecnologias - PagaSo - IT Angola
     ESTRUTURAÇÃO DOS ESTILOS DO WEBSITE
 */
 
@@ -9,13 +9,13 @@
     /* Estilos para dispositivos com largura máxima de 768px */
 }
 
-/*
+
 body {
-    font-family: 'Gothic A1', sans-serif;
+    font-family: "Gothic A1", sans-serif;
     /* width: 1900px; /* Largura da página */
-    /* margin: 0 auto; /* Centralizar horizontalmente *
+    /* margin: 0 auto; /* Centralizar horizontalmente */
 }
-*/
+
 
 /*START Estilos do Footer*/
 .footer_logotipo {
@@ -49,26 +49,8 @@ body {
 
 
 /*START Estilos dos Títulos*/
-h1 {
+h1, h2 {
     font-family: "Gothic A1";
-    /*
-    font-size: 60pt;
-    font-weight: bold;
-    letter-spacing: 0;
-    line-height: 80px;
-    text-transform: uppercase;
-    */
-}
-
-h2 {
-    font-family: "Gothic A1";
-    /*
-    font-size: 44pt;
-    font-weight: light;
-    letter-spacing: 0;
-    line-height: 60px;
-    text-transform: capitalize;
-    */
 }
 
 p {
@@ -97,8 +79,6 @@ p {
 .modulos_info {
     text-align: -webkit-left;
     color: white;
-    /*padding-top: 9%;
-    padding-bottom: 0%;*/
     padding-left: 13%;
     padding-right: 5%;
 }
